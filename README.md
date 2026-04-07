@@ -59,7 +59,7 @@ sudan-interactive-curriculum/
 
 ```bash
 # استنساخ المشروع
-git clone https://github.com/your-username/sudan-interactive-curriculum.git
+git clone https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum.git
 cd sudan-interactive-curriculum
 
 # تثبيت التبعيات
@@ -79,7 +79,7 @@ npm run build
 - **Next.js 14** — إطار عمل React
 - **Tailwind CSS** — التنسيق
 - **Recharts** — الرسوم البيانية (الرياضيات)
-- **Vercel** — الاستضافة المجانية
+- **GitHub Pages** — الاستضافة المجانية
 
 ## خارطة الطريق
 
@@ -113,6 +113,6 @@ A free, open-source interactive educational platform for the Sudanese school cur
 
 **Why?** Government schools in Sudan lack labs and equipment. Students memorize without experiencing. This project provides free virtual labs accessible from any device.
 
-**Tech Stack:** Next.js 14, React, Tailwind CSS, Recharts, Vercel
+**Tech Stack:** Next.js 14, React, Tailwind CSS, Recharts, GitHub Pages
 
 **License:** MIT

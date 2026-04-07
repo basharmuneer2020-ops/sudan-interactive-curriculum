@@ -136,7 +136,7 @@ export default function Home() {
           جميع المحتويات مبنية على منهج وزارة التربية والتعليم — المركز القومي للمناهج والبحث التربوي
         </p>
         <div className="mt-4 flex justify-center gap-4 text-sm">
-          <a href="https://github.com/your-username/sudan-interactive-curriculum" className="text-slate-400 hover:text-white transition-colors">
+          <a href="https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum" className="text-slate-400 hover:text-white transition-colors">
             GitHub ⭐
           </a>
         </div>
