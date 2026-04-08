@@ -1,0 +1,427 @@
+{
+  "metadata": {
+    "stage": "المرحلة المتوسطة",
+    "stage_en": "Middle School",
+    "grade_range": "7-9",
+    "system": "6-3-3 (منظومة تعليمية معتمدة من 2021)",
+    "research_date": "2026-04-07",
+    "sources_summary": "بيانات مجمّعة من: alktab24.com، afedne.com، al-amgaad.com، almualm.com، mdl.edu.sd، zarkachat.com",
+    "notes": "في النظام الجديد 6-3-3: الصف الأول المتوسط = الصف السابع، الثاني المتوسط = الثامن، الثالث المتوسط = التاسع. لا تنقسم المرحلة المتوسطة إلى مسارات علمية وأدبية بعد — ذلك يبدأ في الثانوي."
+  },
+  "grade_7": {
+    "label_ar": "الصف الأول المتوسط (السابع)",
+    "label_en": "Grade 7 - First Middle",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_title": "كتاب اللغة العربية — الصف الأول المتوسط",
+        "chapters": [
+          "القراءة والنصوص",
+          "النحو والصرف",
+          "التعبير والبلاغة",
+          "الإملاء"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-اللغة-العربية-الصف-الاول-المتوسط/",
+        "notes": "يتضمن الكتاب نصوصاً أدبية لشعراء سودانيين مثل الهادي آدم، مع دروس في النحو والتعبير"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_title": "كتاب الرياضيات — الصف الأول المتوسط",
+        "chapters": [
+          "الوحدة الأولى: مجموعة الأعداد النسبية",
+          "الوحدة الثانية: الجمل الرياضية والمعادلات",
+          "الوحدة الثالثة: المضلعات",
+          "الوحدة الرابعة: الأزواج المرتبة والعلاقات",
+          "الوحدة الخامسة: التكافؤ",
+          "الوحدة السادسة: النظام الثنائي",
+          "الوحدة السابعة: التشابه",
+          "الوحدة الثامنة: الإحصاء"
+        ],
+        "chapters_count": 8,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-الرياضيات-الصف-الاول-المتوسط/",
+        "notes": "يغطي الجبر الأساسي والهندسة والإحصاء المقدمة"
+      },
+      {
+        "name_ar": "العلوم الطبيعية",
+        "name_en": "Natural Sciences",
+        "book_title": "كتاب العلوم الطبيعية — الصف الأول المتوسط",
+        "chapters": [
+          "الوحدة الأولى: العلوم والقياس",
+          "الوحدة الثانية: القوى والضغط",
+          "الوحدة الثالثة: المادة وخصائصها",
+          "الوحدة الرابعة: تركيب الخلية"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-العلوم-الطبيعية-الصف-الاول-المتوسط/",
+        "mdl_url": "https://mdl.edu.sd/SudaneseCurriculum",
+        "notes": "يدمج الكيمياء والفيزياء وعلم الأحياء في مادة واحدة في المرحلة المتوسطة"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_title": "English for Sudan — Grade 7 (Smile Series)",
+        "chapters": [
+          "Student's Book",
+          "Activity Book",
+          "Teacher's Guide (مرجع المعلم)"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.zarkachat.com/class-7-books-sudan/",
+        "notes": "سلسلة Smile المعتمدة لتعليم الإنجليزية في المناهج السودانية"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_title": "كتاب التربية الإسلامية — الصف الأول المتوسط",
+        "chapters": [
+          "القرآن الكريم وعلومه",
+          "الحديث النبوي الشريف",
+          "العقيدة الإسلامية",
+          "الفقه الإسلامي",
+          "السيرة النبوية"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/المنهج-السوداني/كتب-الاول-المتوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التاريخ",
+        "name_en": "History",
+        "book_title": "كتاب التاريخ — الصف الأول المتوسط",
+        "chapters": [
+          "الوحدة الأولى: التاريخ السوداني القديم (10 دروس — من عصر ما قبل التاريخ حتى الحضارة المروية)",
+          "الوحدة الثانية: بناء الدولة الإسلامية (9 دروس — الجزيرة العربية والدولة النبوية والراشدة)",
+          "الوحدة الثالثة: التاريخ الأفريقي (5 دروس — الحضارات المصرية والأكسومية وشمال أفريقيا)",
+          "الوحدة الرابعة: الحضارات الأوروبية القديمة (5 دروس — الحضارتان اليونانية والرومانية)"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-التاريخ-اول-متوسط-السودان/",
+        "notes": "كل وحدة تنتهي باختبار وحدة"
+      },
+      {
+        "name_ar": "الجغرافيا",
+        "name_en": "Geography",
+        "book_title": "كتاب الجغرافيا — الصف الأول المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/المنهج-السوداني/كتب-الاول-المتوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "تكنولوجيا المعلومات والاتصالات",
+        "name_en": "Information & Communications Technology (ICT)",
+        "book_title": "كتاب تكنولوجيا المعلومات والاتصالات — الصف الأول المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.zarkachat.com/class-7-books-sudan/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التربية الفنية",
+        "name_en": "Art Education",
+        "book_title": "كتاب التربية الفنية — الصف الأول المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/المنهج-السوداني/كتب-الاول-المتوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التربية البدنية",
+        "name_en": "Physical Education",
+        "book_title": "كتاب التربية البدنية — الصف الأول المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": false,
+        "download_url": null,
+        "notes": "مذكور في المنهج لكن لا تتوفر نسخة PDF موثقة عبر الإنترنت"
+      }
+    ],
+    "total_subjects": 10,
+    "sources": [
+      "https://www.alktab24.com/المنهج-السوداني/كتب-الاول-المتوسط-السودان/",
+      "https://www.zarkachat.com/class-7-books-sudan/",
+      "https://afedne.com/كتب-الصف-السابع-أساس-المنهاج-السوداني-20/",
+      "https://mdl.edu.sd/SudaneseCurriculum"
+    ]
+  },
+  "grade_8": {
+    "label_ar": "الصف الثاني المتوسط (الثامن)",
+    "label_en": "Grade 8 - Second Middle",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_title": "كتاب اللغة العربية — الصف الثاني المتوسط",
+        "chapters": [
+          "القراءة والنصوص الأدبية",
+          "النحو والصرف",
+          "التعبير والبلاغة",
+          "الإملاء"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-اللغة-العربية-للصف-الثاني/",
+        "notes": ""
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_title": "كتاب الرياضيات — الصف الثاني المتوسط",
+        "chapters": [
+          "الوحدة الأولى: مجموعة الأعداد الحقيقية",
+          "الوحدة الثانية: النسبة والتناسب",
+          "الوحدة الثالثة: المعادلات والمتباينات",
+          "الوحدة الرابعة: الهندسة التحليلية",
+          "الوحدة الخامسة: المثلثات",
+          "الوحدة السادسة: الدوال",
+          "الوحدة السابعة: الأشكال ثلاثية الأبعاد"
+        ],
+        "chapters_count": 7,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-الرياضيات-للصف-الثاني-المتوسط/",
+        "notes": ""
+      },
+      {
+        "name_ar": "العلوم الطبيعية",
+        "name_en": "Natural Sciences",
+        "book_title": "كتاب العلوم الطبيعية — الصف الثاني المتوسط",
+        "chapters": [
+          "الوحدة الأولى: طبيعة العلم والشغل والآلات البسيطة",
+          "الوحدة الثانية: تركيب المادة",
+          "الوحدة الثالثة: الحيوانات الفقارية",
+          "الوحدة الرابعة: البناء الضوئي",
+          "الوحدة الخامسة: النقل في النباتات",
+          "الوحدة السادسة: البيئة والمحافظة عليها"
+        ],
+        "chapters_count": 6,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-العلوم-الصف-الثاني/",
+        "notes": "يُراعي الكتاب مهارات القرن الـ21 ويعتمد التعلم بالاستقصاء والاستكشاف"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_title": "English for Sudan — Grade 8 + The Prisoner of Zenda (قراءة إضافية)",
+        "chapters": [
+          "Student's Book",
+          "Activity Book",
+          "The Prisoner of Zenda (قصة مقررة)"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.zarkachat.com/class-8-books-sudan/",
+        "notes": "يُقرر في الصف الثامن قراءة رواية 'أسير زندا' بالإنجليزية"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_title": "كتاب التربية الإسلامية — الصف الثاني المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.zarkachat.com/class-8-books-sudan/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التاريخ",
+        "name_en": "History",
+        "book_title": "كتاب التاريخ — الصف الثاني المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.al-amgaad.com/2022/08/grade8sudan.html",
+        "notes": ""
+      },
+      {
+        "name_ar": "الجغرافيا",
+        "name_en": "Geography",
+        "book_title": "كتاب الجغرافيا — الصف الثاني المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.al-amgaad.com/2022/08/grade8sudan.html",
+        "notes": ""
+      },
+      {
+        "name_ar": "تكنولوجيا المعلومات والاتصالات",
+        "name_en": "Information & Communications Technology (ICT)",
+        "book_title": "كتاب تكنولوجيا المعلومات والاتصالات — الصف الثاني المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.zarkachat.com/class-8-books-sudan/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التربية التقنية",
+        "name_en": "Technical Education",
+        "book_title": "أساسيات التربية التقنية — الصف الثاني المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.zarkachat.com/class-8-books-sudan/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التربية الوطنية",
+        "name_en": "Civic / National Education",
+        "book_title": "كتاب التربية الوطنية — الصف الثاني المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.mdl.edu.sd/img/bookpdf/%20الوطنية%20الصف%20الثاني%20متوسط_1695553430.pdf",
+        "notes": "رابط مباشر من موقع وزارة التربية السودانية (mdl.edu.sd)"
+      }
+    ],
+    "total_subjects": 10,
+    "sources": [
+      "https://www.zarkachat.com/class-8-books-sudan/",
+      "https://www.al-amgaad.com/2022/08/grade8sudan.html",
+      "https://afedne.com/كتب-الصف-الثامن-أساس/",
+      "https://www.alktab24.com/books/كتاب-العلوم-الصف-الثاني/",
+      "https://mdl.edu.sd/SudaneseCurriculum"
+    ]
+  },
+  "grade_9": {
+    "label_ar": "الصف الثالث المتوسط (التاسع)",
+    "label_en": "Grade 9 - Third Middle",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_title": "كتاب اللغة العربية — ثالث متوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-اللغة-العربية-ثالث-متوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_title": "كتاب الرياضيات — الصف الثالث المتوسط",
+        "chapters": [
+          "الوحدة الأولى: مجموعة الأعداد الحقيقية المتقدمة",
+          "الوحدة الثانية: النسبة المثلثية",
+          "الوحدة الثالثة: الهندسة الإحداثية",
+          "الوحدة الرابعة: الاحتمالات والإحصاء"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-الرياضيات-الصف-الثالث-المتوسط-السودان/",
+        "notes": "بيانات الوحدات تقريبية بناءً على المصادر المتاحة"
+      },
+      {
+        "name_ar": "العلوم",
+        "name_en": "Sciences",
+        "book_title": "كتاب العلوم — الصف الثالث المتوسط",
+        "chapters": [
+          "الوحدة الأولى: النماذج العلمية (النماذج المادية، الحاسوبية، الفكرية)",
+          "الوحدة الثانية: الكيمياء والتفاعلات الكيميائية",
+          "الوحدة الثالثة: الفيزياء والطاقة",
+          "الوحدة الرابعة: علم الأحياء والجسم البشري"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-العلوم-الصف-الثالث-المتوسط-السودان/",
+        "notes": "بيانات الوحدات جزئية — الوحدة الأولى موثقة، البقية تقريبية"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_title": "English for Sudan — Grade 9",
+        "chapters": [
+          "Student's Book",
+          "Activity Book"
+        ],
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/المنهج-السوداني/كتب-الثالث-المتوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_title": "كتاب التربية الإسلامية — الصف الثالث المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/المنهج-السوداني/كتب-الثالث-المتوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التاريخ",
+        "name_en": "History",
+        "book_title": "كتاب التاريخ — الصف الثالث المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/ورقة-عمل-التاريخ-الثالث-المتوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "الجغرافيا",
+        "name_en": "Geography",
+        "book_title": "كتاب الجغرافيا — الصف الثالث المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/المنهج-السوداني/كتب-الثالث-المتوسط-السودان/",
+        "notes": ""
+      },
+      {
+        "name_ar": "تكنولوجيا المعلومات والاتصالات",
+        "name_en": "Information & Communications Technology (ICT)",
+        "book_title": "كتاب تكنولوجيا المعلومات والاتصالات — الثالث المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://afedne.com/كتب-الصف-الثالث-المتوسط/",
+        "notes": ""
+      },
+      {
+        "name_ar": "التربية التقنية",
+        "name_en": "Technical Education",
+        "book_title": "كتاب التربية التقنية — الصف الثالث المتوسط",
+        "chapters": null,
+        "chapters_count": null,
+        "available_pdf": true,
+        "download_url": "https://afedne.com/كتب-الصف-الثالث-المتوسط/",
+        "notes": ""
+      }
+    ],
+    "total_subjects": 9,
+    "sources": [
+      "https://www.alktab24.com/المنهج-السوداني/كتب-الثالث-المتوسط-السودان/",
+      "https://afedne.com/كتب-الصف-الثالث-المتوسط/",
+      "https://www.al-amgaad.com/2024/04/blog-post_232.html",
+      "https://www.almualm.com/الثالث-المتوسط-السودان",
+      "https://mdl.edu.sd/SudaneseCurriculum"
+    ]
+  },
+  "important_notes_for_platform": {
+    "sciences_integration": "في المرحلة المتوسطة، تُدرَّس العلوم كمادة موحدة (علوم طبيعية) تشمل الفيزياء والكيمياء وعلم الأحياء معاً. الفصل بين هذه العلوم يبدأ في المرحلة الثانوية.",
+    "english_series": "سلسلة الإنجليزية المعتمدة هي Smile/English for Sudan الصادرة بالتنسيق مع وزارة التربية السودانية.",
+    "new_system": "المنهج الحالي معتمد منذ عام 2021-2022 ضمن النظام 6-3-3، ولا يزال يُطوَّر تدريجياً.",
+    "subjects_priority_for_interactive_labs": [
+      "العلوم الطبيعية (الصف 7) — تجارب: القياس، الخلية، خصائص المادة",
+      "العلوم الطبيعية (الصف 8) — تجارب: الآلات البسيطة، البناء الضوئي، النقل في النباتات",
+      "العلوم (الصف 9) — تجارب: النماذج العلمية، التفاعلات الكيميائية",
+      "الرياضيات (الصف 7) — محاكاة: الأعداد النسبية، المضلعات، الإحصاء",
+      "الرياضيات (الصف 8) — محاكاة: الأعداد الحقيقية، الدوال، ثلاثية الأبعاد"
+    ],
+    "download_availability": "جميع الكتب متاحة بصيغة PDF من خلال مواقع متعددة، والمصدر الرسمي هو مكتبة الميزاب الرقمية على mdl.edu.sd"
+  }
+}

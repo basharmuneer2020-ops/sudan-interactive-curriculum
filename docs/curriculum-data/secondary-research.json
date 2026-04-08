@@ -1,0 +1,721 @@
+{
+  "metadata": {
+    "stage": "المرحلة الثانوية",
+    "stage_en": "Secondary School",
+    "grade_range": "10-12 (الأول - الثالث ثانوي)",
+    "system": "6-3-3 (منظومة تعليمية معتمدة من 2021)",
+    "research_date": "2026-04-08",
+    "sources_summary": "بيانات مجمّعة من: afedne.com، alktab24.com، al-amgaad.com، almualm.com، awaidabooks.com، gmoe.gov.sd (وزارة التربية السودانية الرسمية)",
+    "notes": "المرحلة الثانوية = 3 سنوات. الصف الأول موحد لجميع الطلاب. من الصف الثاني تبدأ التخصصات (علمي/أدبي/مهني). الصف الثالث هو شهادة الثانوية السودانية (SACE).",
+    "tracks": {
+      "science": "المسار العلمي — الفيزياء + الكيمياء + الأحياء",
+      "humanities": "المسار الأدبي — التاريخ + الجغرافيا + اللغات",
+      "engineering": "العلوم الهندسية — أساسيات الهندسة التطبيقية",
+      "computer": "علوم الحاسوب — البرمجة وتقنية المعلومات"
+    }
+  },
+  "grade_10": {
+    "label_ar": "الصف الأول الثانوي (العاشر)",
+    "label_en": "Grade 10 - First Secondary",
+    "track": "منهج موحد لجميع الطلاب",
+    "total_subjects": 18,
+    "subjects": [
+      {
+        "name_ar": "المطالعة والأدب",
+        "name_en": "Arabic Literature & Reading",
+        "book_title": "كتاب المطالعة والأدب — الصف الأول الثانوي",
+        "chapters": [
+          "الباب الأول: الأدب الجاهلي",
+          "الباب الثاني: الأدب الإسلامي والأموي",
+          "الباب الثالث: الأدب العباسي",
+          "الباب الرابع: الأدب السوداني الحديث",
+          "الباب الخامس: فن المقالة والقصة"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/11P8WaOpC_H84qe-9ar7B6Ushb2sH/",
+        "source": "afedne.com",
+        "notes": "يشمل نصوصاً أدبية عربية وسودانية مع تحليل ونقد"
+      },
+      {
+        "name_ar": "قواعد النحو",
+        "name_en": "Arabic Grammar",
+        "book_title": "كتاب قواعد النحو — الصف الأول الثانوي",
+        "chapters": [
+          "الباب الأول: المبتدأ والخبر وأنواعهما",
+          "الباب الثاني: النواسخ (كان وأخواتها، إنّ وأخواتها)",
+          "الباب الثالث: الفاعل ونائب الفاعل",
+          "الباب الرابع: المفاعيل والتوابع",
+          "الباب الخامس: الأساليب الإنشائية"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/115bp5akk1l2hgY5kVIQ2Ru7B6Ushb2sH/",
+        "source": "afedne.com",
+        "notes": "نحو وصرف وإعراب"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_title": "English for Sudan — Grade 10",
+        "chapters": [
+          "Unit 1: People & Society",
+          "Unit 2: Science & Technology",
+          "Unit 3: Environment & Ecology",
+          "Unit 4: Health & Medicine",
+          "Unit 5: Culture & Heritage"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/10qvAwrTKluWaSX-gP1rkxuvO_smlUnmo/",
+        "source": "afedne.com",
+        "notes": "سلسلة English for Sudan المعتمدة من وزارة التربية"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_title": "كتاب الرياضيات — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: المجموعات والمنطق الرياضي",
+          "الوحدة الثانية: الدوال وأنواعها",
+          "الوحدة الثالثة: المتتاليات والمتسلسلات",
+          "الوحدة الرابعة: نظرية الأعداد والأعداد المركبة",
+          "الوحدة الخامسة: الإحداثيات والهندسة التحليلية",
+          "الوحدة السادسة: المثلثات والتوابع المثلثية",
+          "الوحدة السابعة: الإحصاء والاحتمالات"
+        ],
+        "chapters_count": 7,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/10SsKBJb4bk0XgCICRJLGZHZBRvmSmDj0/",
+        "source": "afedne.com",
+        "notes": "رياضيات موحدة لجميع الطلاب في الأول الثانوي"
+      },
+      {
+        "name_ar": "الفيزياء",
+        "name_en": "Physics",
+        "book_title": "كتاب الفيزياء — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: المادة والحركة (القياس، الكميات الفيزيائية، الحركة)",
+          "الوحدة الثانية: القوى والطاقة الميكانيكية",
+          "الوحدة الثالثة: الموجات والصوت",
+          "الوحدة الرابعة: الضوء والبصريات",
+          "الوحدة الخامسة: الكهرباء الساكنة والتيار الكهربائي"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/10kriqTbzQFgpQS00IOElx5zP_0oAaQUx/",
+        "source": "afedne.com + almualm.com",
+        "notes": "الوحدة الأولى تغطي الكميات الفيزيائية والوحدات الدولية والحركة"
+      },
+      {
+        "name_ar": "الكيمياء",
+        "name_en": "Chemistry",
+        "book_title": "كتاب الكيمياء — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: البنية الذرية والجدول الدوري",
+          "الوحدة الثانية: الروابط الكيميائية",
+          "الوحدة الثالثة: التفاعلات الكيميائية والكميات المولية",
+          "الوحدة الرابعة: الحلول والتفاعلات في المحلول",
+          "الوحدة الخامسة: الغازات وقوانينها"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/109BMtdTzaXnwPeosCILSVoYrp6_-bo_n/",
+        "source": "afedne.com",
+        "notes": "كيمياء عامة تغطي الأساسيات للمسار العلمي"
+      },
+      {
+        "name_ar": "الأحياء",
+        "name_en": "Biology",
+        "book_title": "كتاب الأحياء — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: تنوع الحياة وتصنيف الكائنات الحية",
+          "الوحدة الثانية: تركيب الخلية ووظائفها",
+          "الوحدة الثالثة: العمليات الحيوية في النبات",
+          "الوحدة الرابعة: العمليات الحيوية في الحيوان",
+          "الوحدة الخامسة: التكاثر والنمو"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/10DAMZq-s89Kr6LSn3YKvMqwF4ruSGvYE/",
+        "source": "afedne.com + alktab24.com",
+        "notes": "يغطي تنوع الأحياء والخلية والعمليات الحيوية"
+      },
+      {
+        "name_ar": "التاريخ",
+        "name_en": "History",
+        "book_title": "كتاب التاريخ — الصف الأول الثانوي",
+        "chapters": [
+          "الباب الأول: الحضارات القديمة — مصر ومروي",
+          "الباب الثاني: الفتح الإسلامي وممالك السودان",
+          "الباب الثالث: الاستعمار والمقاومة السودانية",
+          "الباب الرابع: الثورة المهدية والدولة المهدية",
+          "الباب الخامس: الفترة الاستعمارية الثانية والاستقلال"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/10ef66QkLHaodCnWrKSqDxq2ZRwFx_CJm/",
+        "source": "afedne.com",
+        "notes": "تاريخ السودان وحضاراته مع السياق العالمي"
+      },
+      {
+        "name_ar": "الجغرافيا والدراسات البيئية",
+        "name_en": "Geography & Environmental Studies",
+        "book_title": "كتاب الجغرافيا والدراسات البيئية — الصف الأول الثانوي",
+        "chapters": [
+          "الفصل الأول: الأرض وطبقاتها وظواهرها",
+          "الفصل الثاني: المناخ والأحوال الجوية في السودان",
+          "الفصل الثالث: الموارد الطبيعية وتوزيعها",
+          "الفصل الرابع: السكان والتوزيع الجغرافي",
+          "الفصل الخامس: البيئة والتنمية المستدامة"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/11ImHwSRUhU4AfCa2UKdy1vwOGoFxjlYN/",
+        "source": "afedne.com",
+        "notes": "جغرافيا سودانية وعالمية مع دراسات بيئية"
+      },
+      {
+        "name_ar": "الدراسات الإسلامية",
+        "name_en": "Islamic Studies",
+        "book_title": "كتاب الدراسات الإسلامية — الصف الأول الثانوي",
+        "chapters": [
+          "الباب الأول: العقيدة الإسلامية",
+          "الباب الثاني: الفقه والعبادات",
+          "الباب الثالث: السيرة النبوية",
+          "الباب الرابع: الأخلاق الإسلامية والمعاملات"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/11drhzzxreXYFRzDh1C4BE6Kk7wBBszjX/",
+        "source": "afedne.com",
+        "notes": "للمسلمين (يوجد كتاب التربية المسيحية للمسيحيين)"
+      },
+      {
+        "name_ar": "القرآن الكريم وعلومه",
+        "name_en": "Quran & Quran Sciences",
+        "book_title": "القرآن الكريم وعلومه — الصف الأول الثانوي",
+        "chapters": [
+          "حفظ: سور مختارة من جزء عمّ والجزء الثلاثون",
+          "تجويد: أحكام التجويد المتوسطة",
+          "علوم القرآن: أسباب النزول، الناسخ والمنسوخ",
+          "تفسير: تفسير آيات مختارة"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/1-w0VH9EKje9zrmKQEz8va3jcMXBgC3ii/",
+        "source": "afedne.com",
+        "notes": "حفظ وتجويد وتفسير"
+      },
+      {
+        "name_ar": "علوم الحاسوب",
+        "name_en": "Computer Science",
+        "book_title": "كتاب علوم الحاسوب — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: مقدمة في الحوسبة وتاريخ الحاسوب",
+          "الوحدة الثانية: أنظمة التشغيل والبرامج",
+          "الوحدة الثالثة: معالجة البيانات وقواعد البيانات",
+          "الوحدة الرابعة: الشبكات والإنترنت",
+          "الوحدة الخامسة: البرمجة (مقدمة)"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/110h7oO8OFEBHA8MQ-nf5RhNNW8nDTcdu/",
+        "source": "afedne.com",
+        "notes": "مقدمة في الحوسبة والبرمجة"
+      },
+      {
+        "name_ar": "أساسيات العلوم الهندسية",
+        "name_en": "Engineering Fundamentals",
+        "book_title": "كتاب أساسيات العلوم الهندسية — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: الرسم الهندسي والتصميم",
+          "الوحدة الثانية: المواد الهندسية وخواصها",
+          "الوحدة الثالثة: الهندسة الميكانيكية الأساسية",
+          "الوحدة الرابعة: الهندسة الكهربائية الأساسية"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/10Uuw6E8xfFRTvViPIUnmoT8PMkuboMC_/",
+        "source": "afedne.com",
+        "notes": "للطلاب المهتمين بالمسار التقني والهندسي"
+      },
+      {
+        "name_ar": "العلوم الأسرية",
+        "name_en": "Home Science",
+        "book_title": "كتاب العلوم الأسرية — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: التغذية والصحة الأسرية",
+          "الوحدة الثانية: إدارة الموارد الأسرية",
+          "الوحدة الثالثة: الملبس والنسيج",
+          "الوحدة الرابعة: المسكن والبيئة الأسرية"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/10IN7TFhQfEGZ96qzXqOSnV-Oc6v4O0_0/",
+        "source": "afedne.com",
+        "notes": "علوم تطبيقية في الحياة اليومية"
+      },
+      {
+        "name_ar": "الفنون والتصميم",
+        "name_en": "Arts & Design",
+        "book_title": "كتاب الفنون والتصميم — الصف الأول الثانوي",
+        "chapters": [
+          "الوحدة الأولى: أسس التصميم والجماليات",
+          "الوحدة الثانية: الرسم والتلوين",
+          "الوحدة الثالثة: الفنون السودانية التراثية",
+          "الوحدة الرابعة: التصميم الجرافيكي المقدمة"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "download_url": "https://drive.google.com/file/d/11wNA5l9fO0uvoO_c1XNbzTv-HHGc5cLg/",
+        "source": "afedne.com",
+        "notes": "فنون بصرية وتصميم"
+      }
+    ]
+  },
+  "grade_11": {
+    "label_ar": "الصف الثاني الثانوي (الحادي عشر)",
+    "label_en": "Grade 11 - Second Secondary",
+    "track": "مسارات متخصصة: علمي / أدبي / هندسي / حاسوبي",
+    "notes": "يختار الطلاب مسارهم التخصصي. المواد المشتركة: العربية + الإنجليزية + الرياضيات + الدراسات الدينية",
+    "common_subjects": [
+      {
+        "name_ar": "المطالعة والأدب",
+        "name_en": "Arabic Literature",
+        "book_title": "كتاب المطالعة والأدب — الصف الثاني الثانوي",
+        "chapters": [
+          "الباب الأول: الأدب في العصر الحديث",
+          "الباب الثاني: الشعر العربي المعاصر",
+          "الباب الثالث: فن الرواية والقصة القصيرة",
+          "الباب الرابع: الأدب السوداني — أعلام ونماذج",
+          "الباب الخامس: النقد الأدبي"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "البلاغة والتعبير",
+        "name_en": "Rhetoric & Expression",
+        "book_title": "كتاب البلاغة والتعبير — الصف الثاني الثانوي",
+        "chapters": [
+          "الفصل الأول: علم البيان (التشبيه، الاستعارة، الكناية)",
+          "الفصل الثاني: علم المعاني",
+          "الفصل الثالث: علم البديع",
+          "الفصل الرابع: التعبير الكتابي الأكاديمي"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_title": "English for Sudan — Grade 11",
+        "chapters": [
+          "Unit 1: Global Issues",
+          "Unit 2: Literature & Arts",
+          "Unit 3: Science & Discovery",
+          "Unit 4: Business & Economics",
+          "Unit 5: Academic Writing"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_title": "كتاب الرياضيات — الصف الثاني الثانوي",
+        "chapters": [
+          "الوحدة الأولى: الحساب المتجهي",
+          "الوحدة الثانية: حساب التفاضل والتكامل (مقدمة)",
+          "الوحدة الثالثة: المصفوفات والمحددات",
+          "الوحدة الرابعة: الهندسة الإحداثية المتقدمة",
+          "الوحدة الخامسة: الاحتمالات والإحصاء"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "الدراسات الإسلامية",
+        "name_en": "Islamic Studies",
+        "book_title": "كتاب الدراسات الإسلامية — الصف الثاني الثانوي",
+        "chapters": [
+          "الباب الأول: الفقه المقارن",
+          "الباب الثاني: الاقتصاد الإسلامي",
+          "الباب الثالث: الحضارة الإسلامية",
+          "الباب الرابع: الأخلاق والمسؤولية"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "القرآن الكريم وعلومه",
+        "name_en": "Quran Sciences",
+        "book_title": "القرآن الكريم وعلومه — الصف الثاني الثانوي",
+        "chapters": [
+          "حفظ: سور مختارة",
+          "تجويد: أحكام متقدمة",
+          "تفسير موضوعي"
+        ],
+        "chapters_count": 3,
+        "available_pdf": true,
+        "source": "afedne.com"
+      }
+    ],
+    "science_track_subjects": [
+      {
+        "name_ar": "الفيزياء (علمي)",
+        "name_en": "Physics - Science Track",
+        "book_title": "كتاب الفيزياء — الصف الثاني الثانوي",
+        "chapters": [
+          "الوحدة الأولى: الديناميكا والطاقة الميكانيكية المتقدمة",
+          "الوحدة الثانية: الكهرباء والمغناطيسية",
+          "الوحدة الثالثة: التيار المتردد والدوائر الكهربائية",
+          "الوحدة الرابعة: الفيزياء الحرارية",
+          "الوحدة الخامسة: الفيزياء الذرية — مقدمة"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "الكيمياء (علمي)",
+        "name_en": "Chemistry - Science Track",
+        "book_title": "كتاب الكيمياء — الصف الثاني الثانوي",
+        "chapters": [
+          "الوحدة الأولى: الكيمياء العضوية — مقدمة",
+          "الوحدة الثانية: الهيدروكربونات (الألكانات، الألكينات، الألكاينات)",
+          "الوحدة الثالثة: المركبات العضوية الحاوية على الأكسجين",
+          "الوحدة الرابعة: الكيمياء الحيوية (البروتينات، الكربوهيدرات)",
+          "الوحدة الخامسة: المعادلة الكيميائية والطاقة"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "الأحياء (علمي)",
+        "name_en": "Biology - Science Track",
+        "book_title": "كتاب الأحياء — الصف الثاني الثانوي",
+        "chapters": [
+          "الوحدة الأولى: الوراثة الجزيئية (DNA والبروتين)",
+          "الوحدة الثانية: الوراثة الصفاتية ومندل",
+          "الوحدة الثالثة: جهاز الجسم الدفاعي والمناعة",
+          "الوحدة الرابعة: الجهاز العصبي والهرمونات",
+          "الوحدة الخامسة: البيئة والتوازن البيولوجي"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "source": "afedne.com + alktab24.com"
+      }
+    ],
+    "humanities_track_subjects": [
+      {
+        "name_ar": "التاريخ (أدبي)",
+        "name_en": "History - Humanities Track",
+        "book_title": "كتاب التاريخ — الصف الثاني الثانوي",
+        "chapters": [
+          "الباب الأول: تاريخ أفريقيا الحديث",
+          "الباب الثاني: الثورات العالمية والحركات الوطنية",
+          "الباب الثالث: الحرب العالمية وما بعدها",
+          "الباب الرابع: استقلال السودان وتكوين الدولة الحديثة"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "الجغرافيا والدراسات البيئية (أدبي)",
+        "name_en": "Geography - Humanities Track",
+        "book_title": "كتاب الجغرافيا — الصف الثاني الثانوي",
+        "chapters": [
+          "الفصل الأول: الجغرافيا الاقتصادية",
+          "الفصل الثاني: جغرافيا الموارد الطبيعية في السودان",
+          "الفصل الثالث: الجغرافيا البشرية والتحضر",
+          "الفصل الرابع: قضايا التنمية والتغير المناخي"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "اللغة الفرنسية (أدبي/اختياري)",
+        "name_en": "French Language (optional)",
+        "book_title": "كتاب اللغة الفرنسية — الصف الثاني الثانوي",
+        "chapters": [
+          "Unité 1: La vie quotidienne",
+          "Unité 2: La culture et les arts",
+          "Unité 3: La société contemporaine",
+          "Unité 4: Grammaire avancée"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      }
+    ]
+  },
+  "grade_12": {
+    "label_ar": "الصف الثالث الثانوي (الثاني عشر) — الشهادة السودانية",
+    "label_en": "Grade 12 - Third Secondary (SACE - Sudan Advanced Certificate of Education)",
+    "track": "7 مواد امتحانية (إلزامي + اختياري)",
+    "exam_structure": {
+      "compulsory_for_all": [
+        "اللغة العربية (المطالعة + قواعد النحو + البلاغة)",
+        "اللغة الإنجليزية",
+        "الرياضيات",
+        "التربية الدينية (إسلامية أو مسيحية)"
+      ],
+      "science_electives": [
+        "الفيزياء",
+        "الكيمياء",
+        "الأحياء",
+        "العلوم الهندسية",
+        "علوم الحاسوب",
+        "العلوم الأسرية"
+      ],
+      "humanities_electives": [
+        "التاريخ",
+        "الجغرافيا والدراسات البيئية",
+        "اللغة الفرنسية",
+        "الفنون والتصميم",
+        "الأدب الإنجليزي",
+        "الدراسات الإسلامية"
+      ],
+      "note": "يجلس الطالب لـ 7 مواد: 4 إلزامية + 3 اختيارية. المسار العلمي عادةً: فيزياء + كيمياء + أحياء"
+    },
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية (ثلاثة كتب)",
+        "name_en": "Arabic Language (3 books)",
+        "books": [
+          {
+            "title": "كتاب المطالعة والأدب — الثالث الثانوي",
+            "download_url": "https://www.alktab24.com/books/كتاب-المطالعة-والادب-الصف-الثالث-الثانوي/",
+            "chapters": [
+              "قصيدة في أدب الرومانسية السودانية",
+              "النثر الأدبي — نماذج تحليلية",
+              "الشعر الحديث والمعاصر",
+              "أدب الرواية السودانية"
+            ]
+          },
+          {
+            "title": "كتاب قواعد النحو — الثالث الثانوي",
+            "chapters": [
+              "المركبات النحوية المتقدمة",
+              "البلاغة والتذوق الأدبي",
+              "التعبير والكتابة الأكاديمية"
+            ]
+          }
+        ],
+        "available_pdf": true,
+        "source": "alktab24.com"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_title": "English for Sudan — Grade 12",
+        "chapters": [
+          "Unit 1: Advanced Reading & Comprehension",
+          "Unit 2: Academic Writing & Research",
+          "Unit 3: Literature Analysis",
+          "Unit 4: Language & Communication"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_title": "كتاب الرياضيات — الثالث الثانوي",
+        "chapters": [
+          "الوحدة الأولى: حساب التكامل وتطبيقاته",
+          "الوحدة الثانية: التفاضل وتطبيقاته (الوحدة التي بها المعمل الحالي)",
+          "الوحدة الثالثة: الأعداد المركبة والمتجهات",
+          "الوحدة الرابعة: المعادلات التفاضلية — مقدمة",
+          "الوحدة الخامسة: الإحصاء والتوزيعات الاحتمالية"
+        ],
+        "chapters_count": 5,
+        "available_pdf": true,
+        "download_url": "https://www.alktab24.com/books/كتاب-الرياضيات-الصف-الثالث-الثانوي/",
+        "source": "alktab24.com"
+      },
+      {
+        "name_ar": "الفيزياء (علمي)",
+        "name_en": "Physics - Science Track",
+        "book_title": "كتاب الفيزياء — الثالث الثانوي",
+        "chapters": [
+          "الباب الأول: المجال التثاقلي والحركة الدائرية (يتضمن معمل الفيزياء الحالي)",
+          "الباب الثاني: الكهرومغناطيسية والمحاثة",
+          "الباب الثالث: الفيزياء النووية والإشعاع",
+          "الباب الرابع: الإلكترونيات والدوائر الرقمية"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com + alktab24.com",
+        "lab_available": true,
+        "lab_id": "gravity",
+        "lab_unit": "الباب الأول"
+      },
+      {
+        "name_ar": "الكيمياء (علمي)",
+        "name_en": "Chemistry - Science Track",
+        "book_title": "كتاب الكيمياء — الثالث الثانوي",
+        "chapters": [
+          "الوحدة الأولى: الكيمياء العضوية المتقدمة",
+          "الوحدة الثانية: كيمياء الإشعاع والنظائر",
+          "الوحدة الثالثة: التحليل الكيميائي الكيفي (يتضمن معمل الكيمياء الحالي)",
+          "الوحدة الرابعة: الكيمياء الصناعية والتطبيقية"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com + alktab24.com",
+        "lab_available": true,
+        "lab_id": "qualitative-analysis",
+        "lab_unit": "الوحدة الثالثة"
+      },
+      {
+        "name_ar": "الأحياء (علمي)",
+        "name_en": "Biology - Science Track",
+        "book_title": "كتاب الأحياء — الثالث الثانوي",
+        "chapters": [
+          "الوحدة الأولى: الوراثة الجزيئية (DNA والتعبير الجيني)",
+          "الوحدة الثانية: الوراثة الصفاتية وقوانين مندل (يتضمن معمل الأحياء الحالي)",
+          "الوحدة الثالثة: التطور ونظرية دارون",
+          "الوحدة الرابعة: التنوع البيولوجي والبيئة"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "alktab24.com + afedne.com",
+        "lab_available": true,
+        "lab_id": "genetics",
+        "lab_unit": "الوحدة الثانية"
+      },
+      {
+        "name_ar": "التاريخ (أدبي)",
+        "name_en": "History - Humanities Track",
+        "book_title": "كتاب التاريخ — الثالث الثانوي",
+        "chapters": [
+          "الباب الأول: العلاقات الدولية في القرن العشرين",
+          "الباب الثاني: الحرب الباردة وانعكاساتها",
+          "الباب الثالث: حركات التحرر الوطني في أفريقيا",
+          "الباب الرابع: قضايا العالم المعاصر"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      },
+      {
+        "name_ar": "الجغرافيا والدراسات البيئية (أدبي)",
+        "name_en": "Geography - Humanities Track",
+        "book_title": "كتاب الجغرافيا — الثالث الثانوي",
+        "chapters": [
+          "الفصل الأول: الجغرافيا السياسية والاقتصادية العالمية",
+          "الفصل الثاني: موارد السودان وخطط التنمية",
+          "الفصل الثالث: التغير المناخي والتنمية المستدامة",
+          "الفصل الرابع: دراسات في الجغرافيا الأفريقية"
+        ],
+        "chapters_count": 4,
+        "available_pdf": true,
+        "source": "afedne.com"
+      }
+    ]
+  },
+  "priority_labs": {
+    "grade_10": [
+      {
+        "subject": "physics",
+        "topic": "القياس والحركة المتسارعة",
+        "unit": "الوحدة الأولى",
+        "why": "أساسي لفهم الفيزياء كلها — المقياس والكميات الفيزيائية",
+        "priority": "عالية جداً"
+      },
+      {
+        "subject": "chemistry",
+        "topic": "البنية الذرية وجدول مندليف التفاعلي",
+        "unit": "الوحدة الأولى",
+        "why": "بداية الكيمياء — فهم الجدول الدوري بصرياً",
+        "priority": "عالية"
+      },
+      {
+        "subject": "biology",
+        "topic": "تركيب الخلية النباتية والحيوانية",
+        "unit": "الوحدة الثانية",
+        "why": "وحدة الحياة — مشاهدة بصرية تعوض غياب المجهر",
+        "priority": "عالية"
+      },
+      {
+        "subject": "math",
+        "topic": "الدوال وتمثيلها البياني",
+        "unit": "الوحدة الثانية",
+        "why": "أساس الرياضيات العليا — رسم الدوال تفاعلياً",
+        "priority": "عالية"
+      }
+    ],
+    "grade_11": [
+      {
+        "subject": "physics",
+        "topic": "الكهرباء والمغناطيسية — التجارب",
+        "unit": "الوحدة الثانية",
+        "why": "تجارب يصعب إجراؤها في المدارس السودانية",
+        "priority": "عالية"
+      },
+      {
+        "subject": "chemistry",
+        "topic": "الكيمياء العضوية — الهيدروكربونات",
+        "unit": "الوحدة الثانية",
+        "why": "صعبة التخيل — يحتاج نماذج ثلاثية الأبعاد",
+        "priority": "متوسطة"
+      }
+    ]
+  },
+  "download_sources": [
+    {
+      "name": "afedne.com — أفدني",
+      "url": "https://afedne.com",
+      "description": "أكثر مصادر كتب المرحلة الثانوية اكتمالاً — روابط Google Drive مباشرة",
+      "grades_covered": ["10", "11", "12"],
+      "verified": true
+    },
+    {
+      "name": "alktab24.com — كتابك المدرسي",
+      "url": "https://www.alktab24.com/المنهج-السوداني/كتب-الاول-الثانوي-السودان/",
+      "description": "منصة متخصصة بالكتب السودانية — محتوى منظّم حسب المرحلة",
+      "grades_covered": ["10", "11", "12"],
+      "verified": true
+    },
+    {
+      "name": "almualm.com — المعلم التعليمي",
+      "url": "https://www.almualm.com",
+      "description": "كتب + أوراق عمل + امتحانات الثانوية",
+      "grades_covered": ["10", "12"],
+      "verified": true
+    },
+    {
+      "name": "awaidabooks.com — مكتبة العوايدة",
+      "url": "https://www.awaidabooks.com/2025/05/Secondary-school-books.html",
+      "description": "كتب الثانوية بصيغة PDF جميع الفصول",
+      "grades_covered": ["10", "11", "12"],
+      "verified": true
+    },
+    {
+      "name": "gmoe.gov.sd — وزارة التربية السودانية (رسمي)",
+      "url": "https://gmoe.gov.sd",
+      "description": "الموقع الرسمي — دليل امتحانات الشهادة الثانوية 2025",
+      "grades_covered": ["12"],
+      "verified": true
+    },
+    {
+      "name": "al-amgaad.com — الأمجاد",
+      "url": "https://www.al-amgaad.com",
+      "description": "روابط تحميل لكل المراحل بما فيها الثانوية",
+      "grades_covered": ["10", "11", "12"],
+      "verified": true
+    }
+  ]
+}

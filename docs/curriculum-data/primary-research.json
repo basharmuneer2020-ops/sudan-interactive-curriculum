@@ -1,0 +1,826 @@
+{
+  "_meta": {
+    "title": "بحث المنهج السوداني - المرحلة الابتدائية والروضة",
+    "description": "بيانات منظمة عن مواد المنهج السوداني من مرحلة الروضة حتى الصف السادس الأساسي",
+    "research_date": "2026-04-07",
+    "last_updated": "2026-04-07 (verified by scheduled task run)",
+    "version": "2.1",
+    "system_note": "تم تحديث النظام التعليمي السوداني عام 2020-2021 إلى: 2 روضة + 6 سنوات ابتدائية + 3 سنوات متوسطة + 3 سنوات ثانوية (نظام 2-6-3-3)",
+    "sources_researched": [
+      "afedne.com - أفدني (منصة تعليمية - كتب بروابط وزارية مجانية)",
+      "al-amgaad.com - الأمجاد (روابط مباشرة لجميع المراحل)",
+      "almualm.com - المعلم التعليمي (كتب وأوراق عمل وامتحانات)",
+      "alktab24.com - منصة كتابك المدرسي (مكتبة الكتب السودانية)",
+      "awa-sd.com - أخبار وادي النيل (كتب مرتبة حسب المرحلة)",
+      "almashhadalsudani.com - المشهد السوداني (كتب جميع المراحل)",
+      "sudanakhbar.com - أخبار السودان (كتب جميع المراحل)",
+      "rakobanews.com - أخبار راكوبة",
+      "sudan.sooq-ar.com - معلومات المنهج السوداني",
+      "zarkachat.com - كتب المنهج السوداني",
+      "sd-exam.ktesh.com - سودان إكزام",
+      "sudanschool.com - مدرسة السودان الإلكترونية",
+      "mdl.edu.sd - وزارة التربية والتعليم السودانية (رسمي)",
+      "K12 Academics - Education in Sudan",
+      "rakobanews.com - أخبار راكوبة (تحميل كتب جميع المراحل 2025)",
+      "awaidabooks.com - مكتبة العوايدة (كتب الثانوية PDF)",
+      "almasarplus.com - المسار بلس (كتب السودانية جميع المراحل)",
+      "UNESCO Sudan Education Policy Review",
+      "World Bank - Curriculum and Learning Assessment in Sudan (2021)",
+      "UNICEF Sudan Education Report 2020"
+    ],
+    "access_note": "معظم المواقع التعليمية السودانية محجوبة من خادم البحث، لكن تم التحقق من وجودها وتوفر الكتب عبر نتائج البحث"
+  },
+  "kindergarten": {
+    "name_ar": "مرحلة رياض الأطفال",
+    "name_en": "Kindergarten / Pre-school",
+    "levels": ["KG1 - روضة أول", "KG2 - روضة ثاني"],
+    "age_range": "3-6 سنوات",
+    "duration": "سنتان (وفق نظام 2-6-3-3 الجديد)",
+    "compulsory": false,
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية والتواصل",
+        "name_en": "Arabic Language & Communication",
+        "notes": "الحروف الأبجدية، الأصوات، كلمات بسيطة، أناشيد، التعرف على الحروف والكتابة الأولية"
+      },
+      {
+        "name_ar": "الرياضيات المبكرة",
+        "name_en": "Early Mathematics",
+        "notes": "العد حتى 20، جمع وطرح بسيط بأدوات ملموسة، الأشكال الهندسية الأساسية"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "notes": "قصص إسلامية، أدعية قصيرة، قيم أخلاقية، سور قصيرة من القرآن"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية المبكرة",
+        "name_en": "Early English",
+        "notes": "مقدمة بسيطة - الحروف الإنجليزية، الأعداد، الكلمات الأساسية (مستحدثة في المنهج الجديد 2020)"
+      },
+      {
+        "name_ar": "الفنون والإبداع",
+        "name_en": "Arts & Creativity",
+        "notes": "رسم، تلوين، أشغال يدوية، تعبير فني"
+      },
+      {
+        "name_ar": "التربية البدنية والحركة",
+        "name_en": "Physical Education & Movement",
+        "notes": "ألعاب حركية، تنمية المهارات الحركية الدقيقة والكبرى"
+      },
+      {
+        "name_ar": "المهارات الاجتماعية والحياتية",
+        "name_en": "Social & Life Skills",
+        "notes": "التعاون، التواصل، التكيف مع البيئة المدرسية، النظافة والصحة"
+      },
+      {
+        "name_ar": "العلوم والاستكشاف",
+        "name_en": "Science & Exploration",
+        "notes": "الحيوانات والنباتات، الأحوال الجوية، البيئة المحيطة (المستوى الثاني)"
+      }
+    ],
+    "pedagogy": "التعلم عبر اللعب والأنشطة الحسية والحركية",
+    "books_available": true,
+    "books_status": "متوفرة جزئياً - مناهج رياض الأطفال الرسمية من وزارة التربية والتعليم",
+    "sources": [
+      {
+        "name": "منهج رياض الأطفال في السودان - شرح شامل وروابط تحميل",
+        "url": "https://sudan.sooq-ar.com/2025/07/sudan-preschool-curriculum-pdf-download.html",
+        "type": "info_and_download"
+      },
+      {
+        "name": "تحميل كتب المنهج الدراسي السوداني لمرحلة التعليم الأساس - أفدني",
+        "url": "https://afedne.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%83%D8%A7%D9%85%D9%84%D8%A7%D9%8B-%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%AA%D9%8A-%D8%A7%D9%84%D8%A3/",
+        "type": "download"
+      }
+    ]
+  },
+  "grade_1": {
+    "name_ar": "الصف الأول الأساسي",
+    "name_en": "Grade 1",
+    "age_range": "6-7 سنوات",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_available": true,
+        "notes": "القراءة والكتابة الأساسية، تعرف الحروف والكلمات"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_available": true,
+        "notes": "أعداد أساسية، جمع وطرح بسيط"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_available": true,
+        "notes": "قرآن كريم (سور قصيرة)، أحكام إسلامية أساسية، أخلاق"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_available": true,
+        "notes": "مقدمة في اللغة الإنجليزية (من الروضة وفق المنهج الجديد 2020)"
+      },
+      {
+        "name_ar": "التربية الفنية",
+        "name_en": "Arts Education",
+        "book_available": true,
+        "notes": "رسم، تشكيل، تربية فنية (أعيدت في المنهج الجديد)"
+      },
+      {
+        "name_ar": "التربية البدنية",
+        "name_en": "Physical Education",
+        "book_available": false,
+        "notes": "ألعاب وأنشطة حركية"
+      }
+    ],
+    "total_subjects": 6,
+    "books_available": true,
+    "books_status": "متوفرة بصيغة PDF - وزارة التربية والتعليم السودانية",
+    "pedagogy_note": "التعليم عبر اللعب والأنشطة للصفوف 1-3 وفق المنهج الجديد",
+    "sources": [
+      {
+        "name": "تحميل كتب الصف الأول أساسي السودان 2023 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2022/08/sudan1books.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب اللغة العربية الصف الأول أساس - أفدني",
+        "url": "https://afedne.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D9%85/",
+        "type": "download"
+      },
+      {
+        "name": "كتب الصف الأول أساس - أفدني",
+        "url": "https://afedne.com/%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%A7%D8%B3-2022/",
+        "type": "download"
+      },
+      {
+        "name": "كتاب اللغة العربية الأول أساسي - منصة كتابك المدرسي",
+        "url": "https://www.alktab24.com/books/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7/",
+        "type": "download"
+      },
+      {
+        "name": "كتاب اللغة العربية للصف الأول ابتدائي السودان 2026 - المعلم",
+        "url": "https://www.almualm.com/2022/10/2023-3.html",
+        "type": "download"
+      },
+      {
+        "name": "كتب الصف الأول السودان - منصة كتابك المدرسي",
+        "url": "https://www.alktab24.com/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A/%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86/",
+        "type": "index"
+      },
+      {
+        "name": "الأول الابتدائي السودان - المعلم التعليمي",
+        "url": "https://www.almualm.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A/s1",
+        "type": "index"
+      },
+      {
+        "name": "رياضيات الأول السودان - Scribd",
+        "url": "https://www.scribd.com/document/686350400/%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+        "type": "view"
+      }
+    ]
+  },
+  "grade_2": {
+    "name_ar": "الصف الثاني الأساسي",
+    "name_en": "Grade 2",
+    "age_range": "7-8 سنوات",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_available": true,
+        "notes": "تطوير مهارات القراءة والكتابة"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_available": true,
+        "notes": "عمليات حسابية أساسية، أشكال هندسية"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_available": true,
+        "notes": "قرآن، فقه بسيط، سيرة نبوية"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_available": true,
+        "notes": "تطوير المفردات والجمل البسيطة"
+      },
+      {
+        "name_ar": "العلوم",
+        "name_en": "Science",
+        "book_available": true,
+        "notes": "علوم بيئية وطبيعية بسيطة"
+      },
+      {
+        "name_ar": "التربية الفنية",
+        "name_en": "Arts Education",
+        "book_available": true,
+        "notes": "رسم وتشكيل وتربية فنية"
+      },
+      {
+        "name_ar": "التربية البدنية",
+        "name_en": "Physical Education",
+        "book_available": false,
+        "notes": "أنشطة رياضية"
+      }
+    ],
+    "total_subjects": 7,
+    "books_available": true,
+    "books_status": "متوفرة بصيغة PDF",
+    "pedagogy_note": "التعليم عبر اللعب والأنشطة (ضمن الصفوف 1-3)",
+    "sources": [
+      {
+        "name": "تحميل كتب الصف الثاني الابتدائي أساس السودان 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2021/11/sudan2-books.html",
+        "type": "download"
+      },
+      {
+        "name": "تحميل كتب الصف الثاني الابتدائي - المنهج السوداني 2026 - المعلم",
+        "url": "https://www.almualm.com/2022/10/2023_36.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب اللغة العربية الثاني أساسي السودان 2026 - منصة كتابك",
+        "url": "https://www.alktab24.com/books/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A/",
+        "type": "download"
+      },
+      {
+        "name": "تحميل كتاب اللغة العربية الصف الثاني الابتدائي 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2021/10/arabic2-sudan-pdf.html",
+        "type": "download"
+      },
+      {
+        "name": "اللغة العربية الصف الثاني السودان - Scribd",
+        "url": "https://www.scribd.com/document/686347927/%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+        "type": "view"
+      }
+    ]
+  },
+  "grade_3": {
+    "name_ar": "الصف الثالث الأساسي",
+    "name_en": "Grade 3",
+    "age_range": "8-9 سنوات",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_available": true,
+        "notes": "قراءة معبرة، كتابة، تعبير"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_available": true,
+        "notes": "ضرب وقسمة، كسور بسيطة"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_available": true,
+        "notes": "قرآن، عقيدة، أخلاق"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_available": true,
+        "notes": "جمل ومحادثة بسيطة (كتاب الطالب + كتاب النشاط)"
+      },
+      {
+        "name_ar": "العلوم",
+        "name_en": "Science",
+        "book_available": true,
+        "notes": "علوم حياة، علوم أرض بسيطة"
+      },
+      {
+        "name_ar": "التربية الفنية",
+        "name_en": "Arts Education",
+        "book_available": true,
+        "notes": "تربية فنية ومهارات إبداعية"
+      },
+      {
+        "name_ar": "التربية البدنية",
+        "name_en": "Physical Education",
+        "book_available": false,
+        "notes": "ألعاب جماعية وفردية"
+      }
+    ],
+    "total_subjects": 7,
+    "books_available": true,
+    "books_status": "متوفرة بصيغة PDF",
+    "pedagogy_note": "آخر صف في مرحلة التعليم عبر اللعب (الصفوف 1-3)",
+    "sources": [
+      {
+        "name": "تحميل كتب الصف الثالث الابتدائي أساس السودان 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2021/12/sudan3-books.html",
+        "type": "download"
+      },
+      {
+        "name": "تحميل كتب الصف الثالث الأساسي - المنهج السوداني 2025 - المعلم",
+        "url": "https://www.almualm.com/2022/10/2023_25.html",
+        "type": "download"
+      },
+      {
+        "name": "الإنجليزي كتاب الطالب الثالث أساسي السودان 2026 - منصة كتابك",
+        "url": "https://www.alktab24.com/books/%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A/",
+        "type": "download"
+      },
+      {
+        "name": "الإنجليزي كتاب النشاط الثالث أساسي السودان 2026 - منصة كتابك",
+        "url": "https://www.alktab24.com/books/%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A/",
+        "type": "download"
+      }
+    ]
+  },
+  "grade_4": {
+    "name_ar": "الصف الرابع الأساسي",
+    "name_en": "Grade 4",
+    "age_range": "9-10 سنوات",
+    "transition_note": "بداية المرحلة العليا من الابتدائية - تتوسع المواد لتشمل التاريخ والجغرافيا وتكنولوجيا المعلومات",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_available": true,
+        "notes": "نحو وصرف، قراءة وتعبير"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_available": true,
+        "notes": "أعداد كلية، قياس، كسور، هندسة"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_available": true,
+        "notes": "فقه، تفسير، سيرة نبوية"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_available": true,
+        "notes": "قواعد ومحادثة وقراءة"
+      },
+      {
+        "name_ar": "العلوم الطبيعية",
+        "name_en": "Natural Sciences",
+        "book_available": true,
+        "notes": "علوم حياة، كيمياء وفيزياء مقدمة"
+      },
+      {
+        "name_ar": "التاريخ",
+        "name_en": "History",
+        "book_available": true,
+        "notes": "تاريخ السودان والعالم"
+      },
+      {
+        "name_ar": "الجغرافيا",
+        "name_en": "Geography",
+        "book_available": true,
+        "notes": "جغرافيا السودان والعالم"
+      },
+      {
+        "name_ar": "التربية الفنية",
+        "name_en": "Arts Education",
+        "book_available": true,
+        "notes": "رسم، تصميم وزخرفة، تشكيل وتركيب"
+      },
+      {
+        "name_ar": "تكنولوجيا المعلومات والاتصالات",
+        "name_en": "ICT",
+        "book_available": true,
+        "notes": "مقدمة في الحاسوب والتكنولوجيا"
+      },
+      {
+        "name_ar": "التربية البدنية",
+        "name_en": "Physical Education",
+        "book_available": false,
+        "notes": "رياضة وألعاب"
+      }
+    ],
+    "total_subjects": 10,
+    "books_available": true,
+    "books_status": "متوفرة بصيغة PDF - المنهج الجديد 2026",
+    "sources": [
+      {
+        "name": "تحميل وتنزيل كتب المنهج السوداني الصف الرابع المنهج الجديد 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2021/12/sudan4-books.html",
+        "type": "download"
+      },
+      {
+        "name": "تحميل كتب الصف الرابع الأساسي - المنهج السوداني 2025 - المعلم",
+        "url": "https://www.almualm.com/2022/10/2023_97.html",
+        "type": "download"
+      },
+      {
+        "name": "أوراق عمل اللغة العربية الرابع أساس السودان 2026 - المعلم",
+        "url": "https://www.almualm.com/2025/05/%D8%A7%D9%88%D8%B1%D8%A7%D9%82-%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A7%D8%B3.html",
+        "type": "worksheets"
+      },
+      {
+        "name": "تحميل كتب الصف الرابع أساس السودان 2023 - أفدني",
+        "url": "https://afedne.com/%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A3%D8%B3%D8%A7%D8%B3/",
+        "type": "download"
+      },
+      {
+        "name": "كتب الصف الرابع السودان - منصة كتابك المدرسي",
+        "url": "https://www.alktab24.com/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A/%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86/",
+        "type": "index"
+      }
+    ]
+  },
+  "grade_5": {
+    "name_ar": "الصف الخامس الأساسي",
+    "name_en": "Grade 5",
+    "age_range": "10-11 سنوات",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_available": true,
+        "notes": "أدب، نحو، تعبير إبداعي"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_available": true,
+        "notes": "كسور، نسبة، هندسة، قياس"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_available": true,
+        "notes": "قرآن، فقه، تاريخ إسلامي"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_available": true,
+        "notes": "قواعد، قراءة، كتابة"
+      },
+      {
+        "name_ar": "العلوم الطبيعية",
+        "name_en": "Natural Sciences",
+        "book_available": true,
+        "notes": "أحياء، فيزياء، كيمياء"
+      },
+      {
+        "name_ar": "التاريخ",
+        "name_en": "History",
+        "book_available": true,
+        "notes": "تاريخ السودان والحضارات"
+      },
+      {
+        "name_ar": "الجغرافيا",
+        "name_en": "Geography",
+        "book_available": true,
+        "notes": "جغرافيا طبيعية وبشرية"
+      },
+      {
+        "name_ar": "التربية الفنية",
+        "name_en": "Arts Education",
+        "book_available": true,
+        "notes": "رسم، تصميم، تشكيل"
+      },
+      {
+        "name_ar": "تكنولوجيا المعلومات والاتصالات",
+        "name_en": "ICT",
+        "book_available": true,
+        "notes": "حاسوب، برمجة أساسية، إنترنت"
+      },
+      {
+        "name_ar": "التربية البدنية",
+        "name_en": "Physical Education",
+        "book_available": false,
+        "notes": "رياضة وألعاب جماعية"
+      }
+    ],
+    "total_subjects": 10,
+    "books_available": true,
+    "books_status": "متوفرة بصيغة PDF",
+    "sources": [
+      {
+        "name": "تحميل جميع كتب الصف الخامس الأساسي السودان 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2021/12/2022-pdf.html",
+        "type": "download"
+      },
+      {
+        "name": "تحميل كتب الصف الخامس الأساسي - المنهج السوداني 2025 - المعلم",
+        "url": "https://www.almualm.com/2022/10/2023_6.html",
+        "type": "download"
+      },
+      {
+        "name": "كتب الصف الخامس أساس في السودان - زركاشات",
+        "url": "https://www.zarkachat.com/class-5-books-sudan/",
+        "type": "download"
+      },
+      {
+        "name": "كتاب اللغة العربية الخامس أساسي - منصة كتابك",
+        "url": "https://www.alktab24.com/books/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A/",
+        "type": "download"
+      },
+      {
+        "name": "كتاب التربية الإسلامية الخامس أساسي - منصة كتابك",
+        "url": "https://www.alktab24.com/books/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A/",
+        "type": "download"
+      },
+      {
+        "name": "كتاب اللغة الإنجليزية الخامس أساسي - منصة كتابك",
+        "url": "https://www.alktab24.com/books/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A/",
+        "type": "download"
+      }
+    ]
+  },
+  "grade_6": {
+    "name_ar": "الصف السادس الأساسي",
+    "name_en": "Grade 6",
+    "age_range": "11-12 سنوات",
+    "notes": "نهاية المرحلة الابتدائية في النظام الجديد (2020-2021) - امتحان الشهادة الابتدائية",
+    "subjects": [
+      {
+        "name_ar": "اللغة العربية",
+        "name_en": "Arabic Language",
+        "book_available": true,
+        "notes": "أدب ونصوص، نحو متقدم، إنشاء"
+      },
+      {
+        "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
+        "book_available": true,
+        "notes": "جبر مقدمة، هندسة، نسبة ومعدل"
+      },
+      {
+        "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic Education",
+        "book_available": true,
+        "notes": "قرآن وتجويد، فقه، سيرة، أخلاق"
+      },
+      {
+        "name_ar": "اللغة الإنجليزية",
+        "name_en": "English Language",
+        "book_available": true,
+        "notes": "قواعد، مطالعة، محادثة، كتابة"
+      },
+      {
+        "name_ar": "العلوم الطبيعية",
+        "name_en": "Natural Sciences",
+        "book_available": true,
+        "notes": "أحياء، فيزياء، كيمياء، أرض وبيئة"
+      },
+      {
+        "name_ar": "التاريخ",
+        "name_en": "History",
+        "book_available": true,
+        "notes": "تاريخ السودان والعالم الإسلامي"
+      },
+      {
+        "name_ar": "الجغرافيا",
+        "name_en": "Geography",
+        "book_available": true,
+        "notes": "جغرافيا السودان والقارات"
+      },
+      {
+        "name_ar": "التربية الفنية",
+        "name_en": "Arts Education",
+        "book_available": true,
+        "notes": "رسم، تصميم، زخرفة، تشكيل (أعيدت في المنهج الجديد)"
+      },
+      {
+        "name_ar": "تكنولوجيا المعلومات والاتصالات",
+        "name_en": "ICT",
+        "book_available": true,
+        "notes": "الشبكات، الجرائم الإلكترونية، العروض التقديمية، البرمجيات وقواعد البيانات (4 وحدات)"
+      },
+      {
+        "name_ar": "التربية الوطنية",
+        "name_en": "Civic/National Education",
+        "book_available": true,
+        "notes": "تربية مدنية ووطنية (حلت محل التربية العسكرية في المنهج الجديد)"
+      },
+      {
+        "name_ar": "التربية البدنية",
+        "name_en": "Physical Education",
+        "book_available": false,
+        "notes": "رياضة وألعاب"
+      }
+    ],
+    "total_subjects": 11,
+    "books_available": true,
+    "books_status": "متوفرة بصيغة PDF - المنهج الجديد",
+    "exam_note": "يخضع طلاب الصف السادس لامتحان الشهادة الابتدائية",
+    "sources": [
+      {
+        "name": "كتب السادس السودان - منصة كتابك المدرسي",
+        "url": "https://www.alktab24.com/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A/%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86/",
+        "type": "index"
+      },
+      {
+        "name": "كتاب العلوم الصف السادس السودان الجديد 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2024/07/blog-post_25.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب التاريخ الصف السادس المنهج السوداني الجديد 2026 - المعلم",
+        "url": "https://www.almualm.com/2024/07/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D8%AF.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب العلوم الصف السادس السودان الجديد 2026 - المعلم",
+        "url": "https://www.almualm.com/2024/07/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%AF%D9%86-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2024-pdf.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب تكنولوجيا المعلومات الصف السادس السودان 2026 - المعلم",
+        "url": "https://www.almualm.com/2024/07/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب تكنولوجيا المعلومات السادس الابتدائي السودان 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2024/08/blog-post.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب التربية الإسلامية الصف السادس السودان 2026 - الأمجاد",
+        "url": "https://www.al-amgaad.com/2024/07/blog-post_14.html",
+        "type": "download"
+      },
+      {
+        "name": "كتاب التربية الفنية الصف السادس السودان الجديد 2026 - المعلم",
+        "url": "https://www.almualm.com/2024/07/blog-post_24.html",
+        "type": "download"
+      },
+      {
+        "name": "تحميل كتب الصف السادس أساس السودان - أفدني",
+        "url": "https://afedne.com/%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A3%D8%B3%D8%A7%D8%B3/",
+        "type": "download"
+      },
+      {
+        "name": "امتحان الشهادة الابتدائية تكنولوجيا المعلومات سادس السودان 2026 - المعلم",
+        "url": "https://www.almualm.com/2025/12/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7.html",
+        "type": "exam"
+      },
+      {
+        "name": "تكنولوجيا المعلومات والاتصالات - وزارة التربية والتعليم (رسمي)",
+        "url": "https://www.mdl.edu.sd/img/bookpdf/_1664625975.pdf",
+        "type": "official_pdf"
+      },
+      {
+        "name": "مذكرة تكنولوجيا المعلومات السادس منهج السودان - Scribd",
+        "url": "https://www.scribd.com/document/944026246/%D9%85%D8%B0%D9%83%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A",
+        "type": "view"
+      },
+      {
+        "name": "الصف السادس - مدرسة السودان الإلكترونية",
+        "url": "https://sudanschool.com/course/index.php?categoryid=9",
+        "type": "online_courses"
+      }
+    ]
+  },
+  "general_info": {
+    "education_system": {
+      "new_system_2020": "2 روضة + 6 ابتدائي + 3 متوسط + 3 ثانوي (نظام 2-6-3-3)",
+      "old_system": "8 أساسي + 4 ثانوي (أُلغي)",
+      "reform_year": "2020-2021",
+      "language_of_instruction": "العربية (مع إنجليزية من الروضة في المنهج الجديد)",
+      "reform_committee": "لجنة من 64 شخصاً لمراجعة الكتب المدرسية من الروضة حتى السادس",
+      "compulsory_education": "التعليم الأساسي إلزامي (الصفوف 1-6)"
+    },
+    "key_curriculum_changes_2020": [
+      "اللغة الإنجليزية تبدأ من مرحلة الروضة بدلاً من الصف الثالث",
+      "التربية الوطنية بدلاً من التربية العسكرية",
+      "إعادة الفنون والمسرح والموسيقى في جميع المراحل",
+      "التعليم عبر اللعب في الصفوف 1-3",
+      "منهج خفيف قائم على الفهم وليس الحفظ",
+      "إدخال تكنولوجيا المعلومات والاتصالات من الصف الرابع",
+      "تقليص المرحلة الابتدائية من 8 سنوات إلى 6 سنوات",
+      "استحداث المرحلة المتوسطة (3 سنوات)"
+    ],
+    "subjects_progression": {
+      "all_grades_1_to_6": ["اللغة العربية", "الرياضيات", "التربية الإسلامية", "اللغة الإنجليزية", "التربية الفنية", "التربية البدنية"],
+      "from_grade_2": ["العلوم / العلوم الطبيعية"],
+      "from_grade_4": ["التاريخ", "الجغرافيا", "تكنولوجيا المعلومات والاتصالات"],
+      "grade_6_only": ["التربية الوطنية"]
+    },
+    "books_download_sites": [
+      {
+        "name": "أفدني",
+        "url": "https://afedne.com",
+        "description": "كتب ومناهج السودان بروابط وزارية مجانية مباشرة من وزارة التربية والتعليم",
+        "coverage": "جميع الصفوف من الأول إلى الثالث ثانوي"
+      },
+      {
+        "name": "الأمجاد",
+        "url": "https://www.al-amgaad.com",
+        "description": "روابط مباشرة وسريعة لجميع المراحل الدراسية وفق كتب وزارة التربية",
+        "coverage": "الصف الأول ابتدائي حتى الثالث ثانوي"
+      },
+      {
+        "name": "منصة كتابك المدرسي",
+        "url": "https://www.alktab24.com",
+        "description": "مكتبة الكتب السودانية - كتب فردية بصيغة PDF",
+        "coverage": "جميع الصفوف والمواد"
+      },
+      {
+        "name": "المعلم التعليمي",
+        "url": "https://www.almualm.com",
+        "description": "كتب وأوراق عمل وامتحانات ومذكرات تركيز",
+        "coverage": "جميع الصفوف مع موارد إضافية (أوراق عمل، امتحانات)"
+      },
+      {
+        "name": "أخبار وادي النيل",
+        "url": "https://awa-sd.com",
+        "description": "كتب مدرسية بصيغة PDF مرتبة حسب المرحلة الدراسية والفصل",
+        "coverage": "جميع المراحل عدا الثالث متوسط"
+      },
+      {
+        "name": "المشهد السوداني",
+        "url": "https://almashhadalsudani.com",
+        "description": "تحميل الكتب المدرسية الجديدة لجميع المراحل بصيغة PDF",
+        "coverage": "الابتدائية والمتوسطة والثانوية"
+      },
+      {
+        "name": "أخبار السودان",
+        "url": "https://www.sudanakhbar.com",
+        "description": "موقع تحميل الكتب المدرسية لجميع المراحل الدراسية",
+        "coverage": "جميع المراحل"
+      },
+      {
+        "name": "سودان إكزام",
+        "url": "https://sd-exam.ktesh.com",
+        "description": "كتب المنهج الجديد للعام 2025-2026",
+        "coverage": "المرحلة الثانوية بشكل رئيسي"
+      },
+      {
+        "name": "مدرسة السودان الإلكترونية",
+        "url": "https://sudanschool.com",
+        "description": "دروس ومقررات إلكترونية تفاعلية",
+        "coverage": "جميع الصفوف"
+      },
+      {
+        "name": "وزارة التربية والتعليم (رسمي)",
+        "url": "https://www.mdl.edu.sd",
+        "description": "الموقع الرسمي لوزارة التربية والتعليم - كتب PDF رسمية",
+        "coverage": "كتب رسمية معتمدة"
+      },
+      {
+        "name": "المنهج السوداني - تيليجرام",
+        "url": "https://t.me/almanhj_s",
+        "description": "قناة تيليجرام للمنهج السوداني",
+        "coverage": "كتب ومواد تعليمية متنوعة"
+      },
+      {
+        "name": "أخبار راكوبة",
+        "url": "https://rakobanews.com",
+        "description": "تحميل الكتب المدرسية لجميع المراحل الدراسية 2025 بصيغة PDF",
+        "coverage": "جميع المراحل"
+      },
+      {
+        "name": "مكتبة العوايدة",
+        "url": "https://www.awaidabooks.com",
+        "description": "كتب المرحلة الثانوية PDF المنهج السوداني",
+        "coverage": "المرحلة الثانوية"
+      },
+      {
+        "name": "المسار بلس",
+        "url": "https://www.almasarplus.com",
+        "description": "الكتب المدرسية السودانية PDF لجميع المراحل",
+        "coverage": "جميع المراحل عدا الثالث متوسط"
+      }
+    ],
+    "international_references": [
+      {
+        "name": "World Bank - Curriculum and Learning Assessment in Sudan (2021)",
+        "url": "https://documents1.worldbank.org/curated/en/099305406222290054/pdf/P17524201ead630dd0a52e048c054cd322a.pdf",
+        "type": "policy_document"
+      },
+      {
+        "name": "UNESCO Sudan Education Policy Review",
+        "url": "https://sudan.un.org/sites/default/files/2019-10/Sudan%20Education%20Policy%20Review%20UNESCO.pdf",
+        "type": "policy_document"
+      },
+      {
+        "name": "UNICEF Sudan Education Report 2020",
+        "url": "https://www.unicef.org/sudan/media/6111/file/Education.pdf",
+        "type": "report"
+      },
+      {
+        "name": "K12 Academics - Education in Sudan",
+        "url": "https://www.k12academics.com/Education%20Worldwide/education-sudan",
+        "type": "overview"
+      },
+      {
+        "name": "Sudan's troubled attempt at education reform - The World (PRX)",
+        "url": "https://theworld.org/stories/2021/07/22/sudan-s-troubled-attempt-education-reform",
+        "type": "article"
+      }
+    ]
+  }
+}
