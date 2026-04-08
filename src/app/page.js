@@ -70,7 +70,7 @@ export default function Home() {
       subjects: ['الفيزياء', 'الكيمياء', 'الرياضيات', 'الأحياء', 'الإنجليزية', 'العربية'],
       status: 'معامل جاهزة',
       hasLabs: true,
-      tracks: ['علمي', 'أدبي', 'هندسي', 'حاسوب'],
+      tracks: ['علمي أحياء', 'علمي هندسية', 'علمي حاسوب', 'أدبي'],
     },
   ]
 
@@ -239,7 +239,7 @@ export default function Home() {
             { label: 'مرحلة دراسية', value: '4', emoji: '🏫', desc: 'روضة — ثانوي' },
             { label: 'صف دراسي', value: String(totalGrades), emoji: '📊', desc: 'بكل المراحل' },
             { label: 'مادة مفهرسة', value: `${totalSubjects}+`, emoji: '📖', desc: 'بالفصول والوحدات' },
-            { label: 'معمل تفاعلي', value: '4', emoji: '🔬', desc: 'الثالث ثانوي' },
+            { label: 'معمل تفاعلي', value: '4+', emoji: '🔬', desc: 'والمزيد قيد الإنشاء' },
           ].map((stat, i) => (
             <div
               key={i}
@@ -259,7 +259,7 @@ export default function Home() {
         <div className="text-center mb-10">
           <span className="bg-emerald-100 text-emerald-700 text-sm font-bold px-4 py-1.5 rounded-full">متاحة الآن</span>
           <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mt-4">المعامل التفاعلية</h2>
-          <p className="text-gray-500 mt-2 max-w-xl mx-auto">الصف الثالث الثانوي — الشهادة السودانية (SACE) — 4 معامل في المواد العلمية</p>
+          <p className="text-gray-500 mt-2 max-w-xl mx-auto">الصف الثالث الثانوي — الشهادة السودانية (SACE) — نماذج أولية والمزيد قادم</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
@@ -387,10 +387,10 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              { name: 'المسار العلمي', icon: '🔬', desc: 'فيزياء، كيمياء، أحياء، رياضيات', color: 'bg-blue-50 border-blue-200 text-blue-800' },
-              { name: 'المسار الأدبي', icon: '📝', desc: 'تاريخ، جغرافيا، لغات، أدب', color: 'bg-amber-50 border-amber-200 text-amber-800' },
-              { name: 'المسار الهندسي', icon: '⚙️', desc: 'رياضيات متقدمة، علوم هندسية', color: 'bg-indigo-50 border-indigo-200 text-indigo-800' },
-              { name: 'مسار الحاسوب', icon: '💻', desc: 'علوم حاسوب، برمجة، تقنية', color: 'bg-emerald-50 border-emerald-200 text-emerald-800' },
+              { name: 'علمي — أحياء', icon: '🧬', desc: 'فيزياء، كيمياء، أحياء، رياضيات', color: 'bg-blue-50 border-blue-200 text-blue-800' },
+              { name: 'علمي — هندسية', icon: '⚙️', desc: 'فيزياء، كيمياء، رياضيات متقدمة، علوم هندسية', color: 'bg-indigo-50 border-indigo-200 text-indigo-800' },
+              { name: 'علمي — حاسوب', icon: '💻', desc: 'فيزياء، كيمياء، رياضيات، علوم حاسوب', color: 'bg-emerald-50 border-emerald-200 text-emerald-800' },
+              { name: 'المسار الأدبي', icon: '📝', desc: 'تاريخ، جغرافيا، لغات، أدب، علوم إسلامية', color: 'bg-amber-50 border-amber-200 text-amber-800' },
             ].map((track, i) => (
               <div key={i} className={`${track.color} border-2 rounded-2xl p-5 text-center hover:shadow-md transition-all`}>
                 <span className="text-3xl block mb-2">{track.icon}</span>
@@ -407,7 +407,7 @@ export default function Home() {
         <div className="bg-gradient-to-l from-emerald-600 to-teal-700 rounded-3xl p-8 md:p-12 text-white text-center shadow-2xl shadow-emerald-200">
           <h2 className="text-2xl md:text-3xl font-bold mb-3">ابدأ التعلّم الآن</h2>
           <p className="text-emerald-100 mb-6 max-w-xl mx-auto">
-            الصف الثالث الثانوي جاهز بالكامل — 4 معامل تفاعلية في الكيمياء والفيزياء والرياضيات والأحياء
+            بدأنا بالصف الثالث الثانوي — معامل تفاعلية في الكيمياء والفيزياء والرياضيات والأحياء، والمزيد قادم بإذن الله
           </p>
           <div className="flex justify-center gap-4 flex-wrap">
             <Link

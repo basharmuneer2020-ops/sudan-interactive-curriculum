@@ -223,9 +223,11 @@
       "icon": "🏫",
       "color": "from-purple-400 to-indigo-500",
       "ageRange": "15-18 سنة",
-      "notes": "التقسيم لمسار علمي/أدبي يبدأ من الصف الثاني الثانوي",
+      "notes": "التخصص يبدأ من الصف الثاني: علمي (أحياء/هندسية/حاسوب) وأدبي",
       "pathways": {
-        "scientific": { "nameAr": "المسار العلمي", "nameEn": "Scientific Pathway" },
+        "scientific-bio": { "nameAr": "علمي أحياء", "nameEn": "Scientific - Biology" },
+        "scientific-eng": { "nameAr": "علمي هندسية", "nameEn": "Scientific - Engineering" },
+        "scientific-cs": { "nameAr": "علمي حاسوب", "nameEn": "Scientific - Computer Science" },
         "literary": { "nameAr": "المسار الأدبي", "nameEn": "Literary Pathway" }
       },
       "grades": [

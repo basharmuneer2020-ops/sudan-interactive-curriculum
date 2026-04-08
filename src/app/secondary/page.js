@@ -4,8 +4,8 @@ import Link from 'next/link'
 export default function SecondaryPage() {
   const grades = [
     { id: 'grade-1', title: 'الأول الثانوي', subjects: 10, emoji: '١', note: 'منهج موحد' },
-    { id: 'grade-2', title: 'الثاني الثانوي', subjects: 8, emoji: '٢', note: 'علمي / أدبي' },
-    { id: 'grade-3', title: 'الثالث الثانوي', subjects: 7, emoji: '٣', note: 'الشهادة السودانية', hasLabs: true },
+    { id: 'grade-2', title: 'الثاني الثانوي', subjects: 8, emoji: '٢', note: 'علمي (أحياء/هندسية/حاسوب) / أدبي' },
+    { id: 'grade-3', title: 'الثالث الثانوي', subjects: 7, emoji: '٣', note: 'الشهادة السودانية — علمي (أحياء/هندسية/حاسوب) / أدبي', hasLabs: true },
   ]
 
   return (
@@ -17,7 +17,7 @@ export default function SecondaryPage() {
           </Link>
           <span className="text-5xl block mb-3">🏫</span>
           <h1 className="text-3xl md:text-4xl font-extrabold mb-2">المرحلة الثانوية</h1>
-          <p className="text-indigo-200">3 سنوات — التقسيم لعلمي/أدبي من الصف الثاني</p>
+          <p className="text-indigo-200">3 سنوات — التخصص من الصف الثاني: علمي (أحياء/هندسية/حاسوب) وأدبي</p>
         </div>
       </div>
 
@@ -38,7 +38,7 @@ export default function SecondaryPage() {
               </div>
               <div className="flex items-center gap-2">
                 {grade.hasLabs && (
-                  <span className="bg-emerald-100 text-emerald-700 text-xs px-2 py-1 rounded-full font-bold">4 معامل</span>
+                  <span className="bg-emerald-100 text-emerald-700 text-xs px-2 py-1 rounded-full font-bold">معامل متاحة</span>
                 )}
                 <span className="text-indigo-600 font-bold">←</span>
               </div>

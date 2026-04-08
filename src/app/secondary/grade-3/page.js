@@ -91,7 +91,7 @@ export default function Grade3Page() {
           <p className="text-indigo-200 mb-2">الشهادة السودانية — SACE</p>
           <div className="flex justify-center gap-3 mt-3 flex-wrap">
             <span className="bg-white/20 backdrop-blur px-3 py-1 rounded-full text-sm">7 مواد امتحانية</span>
-            <span className="bg-emerald-500/80 px-3 py-1 rounded-full text-sm font-bold">4 معامل تفاعلية ✅</span>
+            <span className="bg-emerald-500/80 px-3 py-1 rounded-full text-sm font-bold">معامل تفاعلية متاحة</span>
           </div>
         </div>
       </div>
@@ -195,7 +195,7 @@ export default function Grade3Page() {
         <div className="mt-8 bg-indigo-50 border border-indigo-200 rounded-2xl p-5">
           <h3 className="font-bold text-indigo-800 mb-2">📌 عن الثالث الثانوي</h3>
           <p className="text-indigo-700 text-sm leading-relaxed">
-            الشهادة السودانية للتعليم العام (SACE) تتطلب 7 مواد. الطالب يختار مجموعته من المواد العلمية أو الإنسانية. المعامل الأربعة المتاحة حالياً تغطي المواضيع الأهم في الفيزياء والكيمياء والأحياء والرياضيات. نعمل على إضافة معامل لبقية الأبواب.
+            الشهادة السودانية للتعليم العام (SACE) تتطلب 7 مواد. الطالب يختار تخصصه: علمي أحياء، علمي هندسية، علمي حاسوب، أو أدبي. المعامل المتاحة حالياً هي البداية فقط — المنهج يحتوي على عشرات المعامل المحتملة في كل مادة، ونعمل على إضافتها تدريجياً بمشاركة المجتمع.
           </p>
         </div>
       </div>

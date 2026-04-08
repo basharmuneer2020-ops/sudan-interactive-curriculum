@@ -117,7 +117,7 @@ export default function Grade2SecondaryPage() {
             <span className="text-3xl font-bold">٢</span>
           </div>
           <h1 className="text-3xl md:text-4xl font-extrabold mb-2">الثاني الثانوي</h1>
-          <p className="text-indigo-200 mb-2">مسارات متخصصة — علمي / أدبي / هندسي / حاسوبي</p>
+          <p className="text-indigo-200 mb-2">مسارات متخصصة — علمي (أحياء / هندسية / حاسوب) وأدبي</p>
           <p className="text-white/60 text-sm">مواد مشتركة + تخصصات حسب المسار</p>
         </div>
       </div>
@@ -127,10 +127,10 @@ export default function Grade2SecondaryPage() {
         {/* Tracks Overview */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
           {[
-            { label: "المسار العلمي", emoji: "🔬", color: "bg-blue-50 border-blue-200 text-blue-700" },
+            { label: "علمي — أحياء", emoji: "🧬", color: "bg-blue-50 border-blue-200 text-blue-700" },
+            { label: "علمي — هندسية", emoji: "⚙️", color: "bg-gray-50 border-gray-200 text-gray-700" },
+            { label: "علمي — حاسوب", emoji: "💻", color: "bg-emerald-50 border-emerald-200 text-emerald-700" },
             { label: "المسار الأدبي", emoji: "📚", color: "bg-amber-50 border-amber-200 text-amber-700" },
-            { label: "المسار الهندسي", emoji: "⚙️", color: "bg-gray-50 border-gray-200 text-gray-700" },
-            { label: "مسار الحاسوب", emoji: "💻", color: "bg-emerald-50 border-emerald-200 text-emerald-700" },
           ].map((track, i) => (
             <div key={i} className={`${track.color} border rounded-xl p-3 text-center`}>
               <span className="text-2xl block mb-1">{track.emoji}</span>
