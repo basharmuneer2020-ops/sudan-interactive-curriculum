@@ -28,7 +28,9 @@
 | 🌱 الروضة | 1 | 5 | — |
 | 📚 الابتدائية | 6 | 36 | — |
 | 🎓 المتوسطة | 3 | 24 | — |
-| 🏫 الثانوية | 3 | 35+ | ✅ 4 معامل |
+| 🏫 الثانوية | 3 | 33 | ✅ 4 معامل |
+
+**المجموع:** 98 مادة مفهرسة من 100+ كتاب مدرسي
 
 ### المعامل التفاعلية (الصف الثالث الثانوي)
 
@@ -38,6 +40,24 @@
 | ⚛️ الفيزياء | المجال التثاقلي والجاذبية | الباب الأول |
 | 📐 الرياضيات | التفاضل وتطبيقاته | الباب الثاني |
 | 🧬 الأحياء | تجارب مندل في الوراثة | الباب الثاني |
+
+### 🔬 معامل تنتظر مساهمين! (11 معمل)
+
+استخرجنا هيكل منهج الثالث ثانوي بالكامل (19 مادة، 67 وحدة، 195 موضوع) وحددنا 11 معمل تفاعلي مطلوب. كل واحد له [Issue مفتوح](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues) جاهز للمساهمة:
+
+| المعمل | المادة | الصعوبة |
+|--------|--------|---------|
+| [الموجات والضوء](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/1) | فيزياء | 🔴 متقدم |
+| [المجالات المغناطيسية](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/2) | فيزياء | 🔴 متقدم |
+| [التحليل الكيفي](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/3) | كيمياء | 🟡 متوسط |
+| [التحليل الحجمي](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/4) | كيمياء | 🟡 متوسط |
+| [الاتزان الكيميائي](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/5) | كيمياء | 🟡 متوسط |
+| [الكيمياء الكهربائية](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/6) | كيمياء | 🔴 متقدم |
+| [التكاثر في النباتات](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/7) | أحياء | 🟡 متوسط |
+| [تجارب مندل](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/8) | أحياء | 🟡 متوسط |
+| [الدورات البيوجيوكيميائية](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/9) | أحياء | 🟡 متوسط |
+| [قواعد البيانات](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/10) | حاسوب | 🟡 متوسط |
+| [الثورة المهدية](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues/11) | تاريخ | 🟢 مبتدئ |
 
 ### المسارات الدراسية (الثانوية)
 
@@ -97,9 +117,9 @@ npm run dev
 
 ### أسرع طريقة للبدء:
 
-1. **اختر مهمة** من [خارطة الطريق](docs/ROADMAP.md) — المهام مقسمة حسب الصعوبة
-2. **افتح Issue** على GitHub وأخبرنا أنك تريد العمل عليها
-3. **اقرأ [دليل المساهمة](CONTRIBUTING.md)** للتفاصيل التقنية
+1. **اختر Issue** من [المعامل المطلوبة](https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/issues?q=label%3Alab) — مقسمة حسب الصعوبة
+2. **علّق على الـ Issue** وأخبرنا أنك تريد العمل عليه
+3. **اقرأ [دليل المساهمة](CONTRIBUTING.md)** للتفاصيل التقنية والمرجع العلمي
 4. **قدّم Pull Request** عند الانتهاء
 
 ### أنواع المساهمات المطلوبة:
@@ -133,7 +153,7 @@ A free, open-source interactive educational platform for the Sudanese school cur
 
 **Why?** Government schools in Sudan lack labs and equipment. Students memorize without experiencing. This project provides free virtual labs accessible from any device.
 
-**Features:** 4 stages (Kindergarten → Secondary), 100+ subjects indexed, 4 interactive labs (Grade 12), study tracks (Science/Humanities/Engineering/CS)
+**Features:** 4 stages (Kindergarten → Secondary), 98 subjects indexed from 100+ textbooks, 4 interactive labs (Grade 12) + 11 more awaiting contributors, 4 study tracks (Science/Humanities/Engineering/CS)
 
 **Tech Stack:** Next.js 14, React, Tailwind CSS, Three.js, Recharts, GitHub Pages
 
