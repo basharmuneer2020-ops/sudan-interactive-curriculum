@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "title": "المنهج السوداني التفاعلي - قاعدة بيانات المنهج الكامل",
+    "version": "1.0.0",
+    "lastUpdated": "2026-04-07",
+    "educationSystem": "السلم التعليمي الجديد (2020-2021)",
+    "structure": "6 سنوات ابتدائي + 3 سنوات متوسط + 3 سنوات ثانوي",
+    "language": "العربية (أساسية) + الإنجليزية (من الروضة)",
+    "sources": [
+      "afedne.com",
+      "alktab24.com",
+      "al-amgaad.com",
+      "almualm.com",
+      "sudanexams.com",
+      "mdl.edu.sd"
+    ]
+  },
+  "stages": {
+    "kindergarten": {
+      "id": "kindergarten",
+      "nameAr": "مرحلة الروضة",
+      "nameEn": "Kindergarten",
+      "slug": "kindergarten",
+      "icon": "🌱",
+      "color": "from-pink-400 to-rose-500",
+      "ageRange": "4-6 سنوات",
+      "grades": [
+        {
+          "id": "kg",
+          "nameAr": "الروضة",
+          "nameEn": "KG",
+          "slug": "kg",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "art", "nameAr": "التربية الفنية", "nameEn": "Art Education", "icon": "🎨", "status": "planned" }
+          ],
+          "booksAvailable": false,
+          "notes": "المعلومات التفصيلية عن منهج الروضة تحتاج تأكيد من وزارة التربية"
+        }
+      ]
+    },
+    "primary": {
+      "id": "primary",
+      "nameAr": "المرحلة الابتدائية",
+      "nameEn": "Primary School",
+      "slug": "primary",
+      "icon": "📚",
+      "color": "from-blue-400 to-cyan-500",
+      "ageRange": "6-12 سنة",
+      "grades": [
+        {
+          "id": "grade-1",
+          "nameAr": "الصف الأول",
+          "nameEn": "Grade 1",
+          "slug": "grade-1",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned", "bookTitle": "اللغة العربية - الصف الأول" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned", "bookTitle": "English - Grade 1 (Student Book + Activity Book)" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned", "bookTitle": "الرياضيات - الصف الأول" },
+            { "id": "science", "nameAr": "العلوم", "nameEn": "Science", "icon": "🔬", "status": "planned", "bookTitle": "العلوم - الصف الأول" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned", "bookTitle": "التربية الإسلامية - الصف الأول" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["afedne.com", "alktab24.com", "al-amgaad.com", "almualm.com"]
+        },
+        {
+          "id": "grade-2",
+          "nameAr": "الصف الثاني",
+          "nameEn": "Grade 2",
+          "slug": "grade-2",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلوم", "nameEn": "Science", "icon": "🔬", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["afedne.com", "al-amgaad.com", "almualm.com"]
+        },
+        {
+          "id": "grade-3",
+          "nameAr": "الصف الثالث",
+          "nameEn": "Grade 3",
+          "slug": "grade-3",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلوم", "nameEn": "Science", "icon": "🔬", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["afedne.com", "al-amgaad.com", "alktab24.com"]
+        },
+        {
+          "id": "grade-4",
+          "nameAr": "الصف الرابع",
+          "nameEn": "Grade 4",
+          "slug": "grade-4",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلوم", "nameEn": "Science", "icon": "🔬", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "art", "nameAr": "التربية الفنية", "nameEn": "Art Education", "icon": "🎨", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["al-amgaad.com", "sudanschool.com", "alktab24.com"]
+        },
+        {
+          "id": "grade-5",
+          "nameAr": "الصف الخامس",
+          "nameEn": "Grade 5",
+          "slug": "grade-5",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلوم", "nameEn": "Science", "icon": "🔬", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "ict", "nameAr": "تكنولوجيا المعلومات", "nameEn": "ICT", "icon": "💻", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["almualm.com", "afedne.com", "alktab24.com"]
+        },
+        {
+          "id": "grade-6",
+          "nameAr": "الصف السادس",
+          "nameEn": "Grade 6",
+          "slug": "grade-6",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلوم", "nameEn": "Science", "icon": "🔬", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" },
+            { "id": "geography", "nameAr": "الجغرافيا", "nameEn": "Geography", "icon": "🌍", "status": "planned" },
+            { "id": "ict", "nameAr": "تكنولوجيا المعلومات", "nameEn": "ICT", "icon": "💻", "status": "planned" },
+            { "id": "art", "nameAr": "التربية الفنية", "nameEn": "Art Education", "icon": "🎨", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["alktab24.com", "almualm.com", "sudanschool.com"]
+        }
+      ]
+    },
+    "middle": {
+      "id": "middle",
+      "nameAr": "المرحلة المتوسطة",
+      "nameEn": "Middle School",
+      "slug": "middle",
+      "icon": "🎓",
+      "color": "from-emerald-400 to-teal-500",
+      "ageRange": "12-15 سنة",
+      "notes": "لا يوجد تقسيم علمي/أدبي — جميع الطلاب يدرسون نفس المواد",
+      "grades": [
+        {
+          "id": "grade-7",
+          "nameAr": "الصف السابع",
+          "nameEn": "Grade 7",
+          "slug": "grade-7",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلوم الطبيعية", "nameEn": "Natural Sciences", "icon": "🔬", "status": "planned" },
+            { "id": "social", "nameAr": "الدراسات الاجتماعية", "nameEn": "Social Studies", "icon": "🌍", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "ict", "nameAr": "تكنولوجيا المعلومات", "nameEn": "ICT", "icon": "💻", "status": "planned" },
+            { "id": "art", "nameAr": "التربية الفنية والتقنية", "nameEn": "Art & Technical Education", "icon": "🎨", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["al-amgaad.com", "sudanexams.com", "afedne.com"]
+        },
+        {
+          "id": "grade-8",
+          "nameAr": "الصف الثامن",
+          "nameEn": "Grade 8",
+          "slug": "grade-8",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية (القبس)", "nameEn": "Arabic (Al-Qabas)", "icon": "📝", "status": "planned" },
+            { "id": "grammar", "nameAr": "قواعد النحو", "nameEn": "Arabic Grammar", "icon": "✍️", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلم في حياتنا", "nameEn": "Science in Our Life", "icon": "🔬", "status": "planned" },
+            { "id": "quran", "nameAr": "القرآن الكريم وعلومه", "nameEn": "Quran Sciences", "icon": "📖", "status": "planned" },
+            { "id": "fiqh", "nameAr": "الفقه والعقيدة", "nameEn": "Fiqh & Aqeedah", "icon": "🕌", "status": "planned" },
+            { "id": "art", "nameAr": "التربية الفنية والتقنية", "nameEn": "Art & Technical Education", "icon": "🎨", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["al-amgaad.com", "golden-library1.blogspot.com", "awaidabooks.com"]
+        },
+        {
+          "id": "grade-9",
+          "nameAr": "الصف التاسع",
+          "nameEn": "Grade 9",
+          "slug": "grade-9",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "grammar", "nameAr": "قواعد النحو", "nameEn": "Arabic Grammar", "icon": "✍️", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "science", "nameAr": "العلوم الطبيعية", "nameEn": "Natural Sciences", "icon": "🔬", "status": "planned" },
+            { "id": "social", "nameAr": "الدراسات الاجتماعية", "nameEn": "Social Studies", "icon": "🌍", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "ict", "nameAr": "تكنولوجيا المعلومات", "nameEn": "ICT", "icon": "💻", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["afedne.com", "almurasel.com", "sudanakhbar.com"]
+        }
+      ]
+    },
+    "secondary": {
+      "id": "secondary",
+      "nameAr": "المرحلة الثانوية",
+      "nameEn": "Secondary School",
+      "slug": "secondary",
+      "icon": "🏫",
+      "color": "from-purple-400 to-indigo-500",
+      "ageRange": "15-18 سنة",
+      "notes": "التقسيم لمسار علمي/أدبي يبدأ من الصف الثاني الثانوي",
+      "pathways": {
+        "scientific": { "nameAr": "المسار العلمي", "nameEn": "Scientific Pathway" },
+        "literary": { "nameAr": "المسار الأدبي", "nameEn": "Literary Pathway" }
+      },
+      "grades": [
+        {
+          "id": "grade-1",
+          "nameAr": "الأول الثانوي",
+          "nameEn": "Grade 1 Secondary",
+          "slug": "grade-1",
+          "pathway": "common",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "physics", "nameAr": "الفيزياء", "nameEn": "Physics", "icon": "⚡", "status": "planned" },
+            { "id": "chemistry", "nameAr": "الكيمياء", "nameEn": "Chemistry", "icon": "🧪", "status": "planned" },
+            { "id": "biology", "nameAr": "الأحياء", "nameEn": "Biology", "icon": "🧬", "status": "planned" },
+            { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" },
+            { "id": "geography", "nameAr": "الجغرافيا", "nameEn": "Geography", "icon": "🌍", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "cs", "nameAr": "الحاسوب", "nameEn": "Computer Science", "icon": "💻", "status": "planned" }
+          ],
+          "booksAvailable": true,
+          "bookSources": ["al-amgaad.com", "afedne.com", "alktab24.com", "almualm.com"]
+        },
+        {
+          "id": "grade-2",
+          "nameAr": "الثاني الثانوي",
+          "nameEn": "Grade 2 Secondary",
+          "slug": "grade-2",
+          "pathway": "split",
+          "subjects": {
+            "common": [
+              { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+              { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+              { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+              { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" }
+            ],
+            "scientific": [
+              { "id": "physics", "nameAr": "الفيزياء", "nameEn": "Physics", "icon": "⚡", "status": "planned" },
+              { "id": "chemistry", "nameAr": "الكيمياء", "nameEn": "Chemistry", "icon": "🧪", "status": "planned" },
+              { "id": "biology", "nameAr": "الأحياء", "nameEn": "Biology", "icon": "🧬", "status": "planned" },
+              { "id": "cs", "nameAr": "الحاسوب", "nameEn": "Computer Science", "icon": "💻", "status": "planned" }
+            ],
+            "literary": [
+              { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" },
+              { "id": "geography", "nameAr": "الجغرافيا", "nameEn": "Geography", "icon": "🌍", "status": "planned" },
+              { "id": "rhetoric", "nameAr": "البلاغة والنقد", "nameEn": "Rhetoric", "icon": "📖", "status": "planned" },
+              { "id": "french", "nameAr": "اللغة الفرنسية", "nameEn": "French", "icon": "🇫🇷", "status": "planned" }
+            ]
+          },
+          "booksAvailable": true,
+          "bookSources": ["al-amgaad.com", "afedne.com", "sudanexams.com"]
+        },
+        {
+          "id": "grade-3",
+          "nameAr": "الثالث الثانوي",
+          "nameEn": "Grade 3 Secondary",
+          "slug": "grade-3",
+          "pathway": "split",
+          "subjects": {
+            "common": [
+              { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "has_lab" },
+              { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+              { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" }
+            ],
+            "scientific": [
+              { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "📐", "status": "has_lab" },
+              { "id": "physics", "nameAr": "الفيزياء", "nameEn": "Physics", "icon": "⚡", "status": "has_lab" },
+              { "id": "chemistry", "nameAr": "الكيمياء", "nameEn": "Chemistry", "icon": "🧪", "status": "has_lab" },
+              { "id": "biology", "nameAr": "الأحياء", "nameEn": "Biology", "icon": "🧬", "status": "has_lab" }
+            ],
+            "literary": [
+              { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+              { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" },
+              { "id": "geography", "nameAr": "الجغرافيا", "nameEn": "Geography", "icon": "🌍", "status": "planned" },
+              { "id": "eng_lit", "nameAr": "الأدب الإنجليزي", "nameEn": "English Literature", "icon": "📚", "status": "planned" }
+            ]
+          },
+          "booksAvailable": true,
+          "bookSources": ["al-amgaad.com", "afedne.com", "sudanexams.com", "alktab24.com"]
+        }
+      ]
+    }
+  },
+  "statistics": {
+    "totalStages": 4,
+    "totalGrades": 13,
+    "totalSubjects": {
+      "kindergarten": 5,
+      "primary": 32,
+      "middle": 24,
+      "secondary": 30
+    },
+    "subjectsWithLabs": 4,
+    "labsBuilt": 4,
+    "totalUniqueSubjects": 20,
+    "completionPercentage": 3
+  },
+  "bookSources": [
+    { "name": "أفدني", "url": "https://afedne.com", "coverage": "جميع المراحل", "format": "PDF" },
+    { "name": "كتابك المدرسي", "url": "https://www.alktab24.com", "coverage": "جميع المراحل", "format": "PDF" },
+    { "name": "الأمجاد", "url": "https://www.al-amgaad.com", "coverage": "جميع المراحل", "format": "PDF" },
+    { "name": "المعلم", "url": "https://www.almualm.com", "coverage": "ابتدائي + ثانوي", "format": "PDF" },
+    { "name": "امتحانات السودان", "url": "https://www.sudanexams.com", "coverage": "متوسط + ثانوي", "format": "PDF" },
+    { "name": "مدرسة السودان", "url": "https://sudanschool.com", "coverage": "ابتدائي", "format": "PDF" },
+    { "name": "المراسل", "url": "https://www.almurasel.com", "coverage": "جميع المراحل", "format": "PDF" },
+    { "name": "مكتبة العوايدة", "url": "https://www.awaidabooks.com", "coverage": "متوسط + ثانوي", "format": "PDF" }
+  ]
+}

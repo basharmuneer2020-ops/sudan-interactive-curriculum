@@ -2,100 +2,120 @@
 
 # 🇸🇩 المنهج السوداني التفاعلي
 
-**منصة تعليمية تفاعلية مجانية للمنهج السوداني**
+[![المساهمة مرحب بها](https://img.shields.io/badge/المساهمة-مرحب%20بها-brightgreen.svg)](CONTRIBUTING.md)
+[![الترخيص: MIT](https://img.shields.io/badge/الترخيص-MIT-blue.svg)](LICENSE)
+
+**منصة تعليمية تفاعلية مجانية شاملة للمنهج السوداني — من الروضة حتى الشهادة السودانية**
 
 معامل افتراضية ومحاكاة تفاعلية لمواد الكيمياء والفيزياء والرياضيات والأحياء — لأن طلابنا يستحقون أن يتعلموا بالتجربة لا بالحفظ.
 
+🌐 **[تصفح الموقع](https://basharmuneer2020-ops.github.io/sudan-interactive-curriculum/)**
+
 ---
 
-## المشكلة
+## لماذا هذا المشروع؟
 
-المدارس الحكومية في السودان تفتقر للمعامل والأجهزة. الطلاب يحفظون أن التفاعل ينتج لوناً أحمر دون أن يروه بأعينهم. هذا المشروع يوفر معامل افتراضية تفاعلية مجانية يمكن الوصول إليها من أي جهاز.
+المدارس الحكومية في السودان تفتقر للمعامل والأجهزة. الطلاب يحفظون أن التفاعل ينتج لوناً أحمر دون أن يروه بأعينهم. هذا المشروع **صدقة جارية** يوفر معامل افتراضية تفاعلية مجانية يمكن الوصول إليها من أي جهاز.
 
-## المحتوى المتاح (المرحلة الأولى)
+---
 
-| المادة | الوحدة | المعمل |
-|--------|--------|--------|
-| 🧬 الأحياء | الوراثة | تجارب مندل في الوراثة |
-| 🧪 الكيمياء | التحليل الكيميائي الكيفي | معمل التحليل الكيفي |
-| ⚛️ الفيزياء | المجال التثاقلي | الجاذبية والحركة الدائرية |
-| 📐 الرياضيات | التفاضل | التفاضل وتطبيقاته |
+## ما المتاح حالياً؟
 
-## هيكل المشروع
+### المراحل الدراسية المفهرسة
 
-</div>
+| المرحلة | الصفوف | عدد المواد | المعامل |
+|---------|--------|-----------|---------|
+| 🌱 الروضة | 1 | 5 | — |
+| 📚 الابتدائية | 6 | 36 | — |
+| 🎓 المتوسطة | 3 | 24 | — |
+| 🏫 الثانوية | 3 | 35+ | ✅ 4 معامل |
 
-```
-sudan-interactive-curriculum/
-├── src/
-│   ├── app/
-│   │   ├── page.js                          # الصفحة الرئيسية
-│   │   ├── layout.js                        # التخطيط العام
-│   │   ├── globals.css                      # الأنماط العامة
-│   │   ├── secondary/                       # المرحلة الثانوية
-│   │   │   └── grade-3/                     # الصف الثالث
-│   │   │       ├── page.js                  # صفحة الصف
-│   │   │       ├── biology/genetics/        # معمل الوراثة
-│   │   │       ├── chemistry/qualitative-analysis/
-│   │   │       ├── physics/gravity/
-│   │   │       └── math/differentiation/
-│   │   ├── middle/                          # المرحلة المتوسطة (قريباً)
-│   │   └── primary/                         # المرحلة الأساسية (قريباً)
-│   └── components/
-│       ├── biology/                         # مكونات الأحياء
-│       ├── chemistry/                       # مكونات الكيمياء
-│       ├── physics/                         # مكونات الفيزياء
-│       └── math/                            # مكونات الرياضيات
-├── docs/                                    # وثائق المشروع
-├── public/                                  # الملفات الثابتة
-└── package.json
-```
+### المعامل التفاعلية (الصف الثالث الثانوي)
 
-<div dir="rtl" align="right">
+| المادة | المعمل | الباب |
+|--------|--------|-------|
+| 🧪 الكيمياء | التحليل الكيميائي الكيفي | الباب الثالث |
+| ⚛️ الفيزياء | المجال التثاقلي والجاذبية | الباب الأول |
+| 📐 الرياضيات | التفاضل وتطبيقاته | الباب الثاني |
+| 🧬 الأحياء | تجارب مندل في الوراثة | الباب الثاني |
+
+### المسارات الدراسية (الثانوية)
+
+الصفان الثاني والثالث ثانوي يشملان 4 مسارات: **علمي** • **أدبي** • **هندسي** • **حاسوب**
+
+---
 
 ## التشغيل المحلي
 
 </div>
 
 ```bash
-# استنساخ المشروع
+# 1. استنسخ المشروع
 git clone https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum.git
 cd sudan-interactive-curriculum
 
-# تثبيت التبعيات
+# 2. ثبّت المكتبات
 npm install
 
-# تشغيل سيرفر التطوير
+# 3. شغّل خادم التطوير
 npm run dev
 
-# بناء نسخة الإنتاج
-npm run build
+# 4. افتح المتصفح
+# http://localhost:3000/sudan-interactive-curriculum/
 ```
 
 <div dir="rtl" align="right">
 
+---
+
 ## التقنيات المستخدمة
 
-- **Next.js 14** — إطار عمل React
-- **Tailwind CSS** — التنسيق
-- **Recharts** — الرسوم البيانية (الرياضيات)
-- **GitHub Pages** — الاستضافة المجانية
+| التقنية | الاستخدام |
+|---------|----------|
+| Next.js 14 | إطار العمل الأساسي (App Router) |
+| React | بناء الواجهات التفاعلية |
+| Tailwind CSS | التنسيق والتصميم |
+| Three.js | المحاكاة ثلاثية الأبعاد |
+| Recharts | الرسوم البيانية |
+| GitHub Pages | الاستضافة المجانية |
+
+---
 
 ## خارطة الطريق
 
-- [x] المرحلة الأولى: الصف الثالث الثانوي (4 معامل)
-- [ ] المرحلة الثانية: توسيع الصف الثالث الثانوي (بقية الوحدات)
-- [ ] المرحلة الثالثة: الصف الثاني والأول الثانوي
-- [ ] المرحلة الرابعة: المرحلة المتوسطة
-- [ ] المرحلة الخامسة: المرحلة الأساسية
+- [x] **المرحلة 1** — فهرسة كل المراحل + 4 معامل تفاعلية (الثالث ثانوي) ✅
+- [ ] **المرحلة 2** — معامل الأول والثاني ثانوي + محتوى المتوسطة 🔄
+- [ ] **المرحلة 3** — نظام تقييم + ألعاب تعليمية + تغطية شاملة 📋
 
-## المساهمة
+📍 التفاصيل الكاملة: **[docs/ROADMAP.md](docs/ROADMAP.md)**
 
-المشروع مفتوح المصدر ونرحب بأي مساهمة! إذا كنت معلماً أو مطوراً سودانياً وتريد المساهمة، افتح Issue أو Pull Request.
+---
+
+## 🤝 كيف تساهم؟
+
+نرحب بأي مساهمة! سواء كنت مطوراً، معلماً، طالباً، أو مهتماً بالتعليم في السودان.
+
+### أسرع طريقة للبدء:
+
+1. **اختر مهمة** من [خارطة الطريق](docs/ROADMAP.md) — المهام مقسمة حسب الصعوبة
+2. **افتح Issue** على GitHub وأخبرنا أنك تريد العمل عليها
+3. **اقرأ [دليل المساهمة](CONTRIBUTING.md)** للتفاصيل التقنية
+4. **قدّم Pull Request** عند الانتهاء
+
+### أنواع المساهمات المطلوبة:
+
+| النوع | الوصف | المستوى |
+|-------|-------|---------|
+| 🔬 معمل تفاعلي | بناء محاكاة تفاعلية لدرس علمي | متوسط-متقدم |
+| 📝 محتوى تعليمي | كتابة شروحات وأسئلة | مبتدئ-متوسط |
+| 🎨 تحسين التصميم | تحسين الواجهة وتجربة المستخدم | مبتدئ-متوسط |
+| 🐛 إصلاح أخطاء | إصلاح مشاكل تقنية أو محتوى | مبتدئ |
+
+---
 
 ## الترخيص
 
-هذا المشروع مرخص تحت رخصة MIT — انظر ملف [LICENSE](LICENSE).
+هذا المشروع مرخص تحت **رخصة MIT** — انظر ملف [LICENSE](LICENSE).
 
 ---
 
@@ -109,10 +129,14 @@ npm run build
 
 ## Sudan Interactive Curriculum (English)
 
-A free, open-source interactive educational platform for the Sudanese school curriculum. Provides virtual labs and interactive simulations for Chemistry, Physics, Mathematics, and Biology.
+A free, open-source interactive educational platform for the Sudanese school curriculum. Provides virtual labs and interactive simulations for Chemistry, Physics, Mathematics, and Biology — from kindergarten through secondary school.
 
 **Why?** Government schools in Sudan lack labs and equipment. Students memorize without experiencing. This project provides free virtual labs accessible from any device.
 
-**Tech Stack:** Next.js 14, React, Tailwind CSS, Recharts, GitHub Pages
+**Features:** 4 stages (Kindergarten → Secondary), 100+ subjects indexed, 4 interactive labs (Grade 12), study tracks (Science/Humanities/Engineering/CS)
+
+**Tech Stack:** Next.js 14, React, Tailwind CSS, Three.js, Recharts, GitHub Pages
+
+**Contributing:** See [CONTRIBUTING.md](CONTRIBUTING.md) and [ROADMAP.md](docs/ROADMAP.md)
 
 **License:** MIT
