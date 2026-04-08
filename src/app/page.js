@@ -66,7 +66,7 @@ export default function Home() {
       desc: 'الأول — الثالث ثانوي',
       grades: '3 صفوف',
       gradesCount: 3,
-      subjectsCount: 35,
+      subjectsCount: 33,
       subjects: ['الفيزياء', 'الكيمياء', 'الرياضيات', 'الأحياء', 'الإنجليزية', 'العربية'],
       status: 'معامل جاهزة',
       hasLabs: true,

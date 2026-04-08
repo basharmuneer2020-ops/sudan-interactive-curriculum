@@ -317,9 +317,9 @@
     "totalGrades": 13,
     "totalSubjects": {
       "kindergarten": 5,
-      "primary": 32,
+      "primary": 36,
       "middle": 24,
-      "secondary": 30
+      "secondary": 33
     },
     "subjectsWithLabs": 4,
     "labsBuilt": 4,
