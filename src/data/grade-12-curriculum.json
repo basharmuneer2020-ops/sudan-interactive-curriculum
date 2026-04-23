@@ -4,17 +4,18 @@
     "grade": 3,
     "gradeAr": "الصف الثالث الثانوي (الشهادة السودانية)",
     "gradeEn": "Grade 12 (SACE)",
-    "totalBooks": 19,
+    "totalBooks": 21,
     "source": "المركز القومي للمناهج والبحث التربوي - بخت الرضا",
     "extractedAt": "2026-04-08",
-    "extractionMethod": "PyMuPDF + pdftotext + visual OCR"
+    "extractionMethod": "PyMuPDF + pdftotext + visual OCR",
+    "officialSource": "دليل امتحان الشهادة الثانوية 2025م — وزارة التربية والتعليم / المركز القومي للمناهج والبحث التربوي — بخت الرضا"
   },
   "subjects": [
     {
       "id": "SEC-G12-PHY",
       "nameAr": "الفيزياء",
       "nameEn": "Physics",
-      "track": "scientific",
+      "track": "scientific-fixed",
       "pages": 217,
       "hasLab": true,
       "units": [
@@ -114,7 +115,7 @@
       "id": "SEC-G12-CHE",
       "nameAr": "الكيمياء",
       "nameEn": "Chemistry",
-      "track": "scientific",
+      "track": "scientific-fixed",
       "pages": 408,
       "hasLab": true,
       "units": [
@@ -173,7 +174,7 @@
       "id": "SEC-G12-BIO",
       "nameAr": "الأحياء",
       "nameEn": "Biology",
-      "track": "scientific",
+      "track": "scientific-7th",
       "pages": 252,
       "hasLab": true,
       "units": [
@@ -325,7 +326,7 @@
       "id": "SEC-G12-MAT",
       "nameAr": "الرياضيات الأساسية",
       "nameEn": "Mathematics (Core)",
-      "track": "common",
+      "track": "literary-fixed",
       "pages": 161,
       "units": [
         {
@@ -391,7 +392,7 @@
       "id": "SEC-G12-MAT-SP1",
       "nameAr": "الرياضيات المتخصصة 1",
       "nameEn": "Specialized Mathematics 1",
-      "track": "scientific",
+      "track": "scientific-fixed",
       "pages": 207,
       "units": [
         {
@@ -448,7 +449,7 @@
       "id": "SEC-G12-MAT-SP2",
       "nameAr": "الرياضيات المتخصصة 2",
       "nameEn": "Specialized Mathematics 2",
-      "track": "scientific",
+      "track": "scientific-fixed",
       "pages": 180,
       "units": [
         {
@@ -467,7 +468,7 @@
       "id": "SEC-G12-CSC",
       "nameAr": "الحاسوب",
       "nameEn": "Computer Science",
-      "track": "scientific",
+      "track": "scientific-7th",
       "pages": 185,
       "units": [
         {
@@ -612,7 +613,7 @@
       "id": "SEC-G12-COM",
       "nameAr": "العلوم التجارية",
       "nameEn": "Commercial Sciences",
-      "track": "common",
+      "track": "other",
       "pages": 157,
       "units": [
         {
@@ -681,7 +682,7 @@
       "id": "SEC-G12-HIS",
       "nameAr": "التاريخ",
       "nameEn": "History",
-      "track": "literary",
+      "track": "literary-fixed",
       "pages": 275,
       "units": [
         {
@@ -712,7 +713,7 @@
       "id": "SEC-G12-ARA",
       "nameAr": "اللغة العربية الخاصة",
       "nameEn": "Arabic Language (Specialized)",
-      "track": "literary",
+      "track": "common",
       "pages": 208,
       "units": [
         {
@@ -771,7 +772,7 @@
       "id": "SEC-G12-ARA-BLG",
       "nameAr": "البلاغة",
       "nameEn": "Rhetoric (Balagha)",
-      "track": "literary",
+      "track": "common",
       "pages": 102,
       "units": [
         {
@@ -1117,7 +1118,7 @@
       "id": "SEC-G12-HMS",
       "nameAr": "العلوم الأسرية",
       "nameEn": "Home Science",
-      "track": "common",
+      "track": "scientific-7th",
       "pages": 167,
       "units": [
         {
@@ -1156,7 +1157,7 @@
       "id": "SEC-G12-ART",
       "nameAr": "الفنون والتصميم",
       "nameEn": "Arts & Design",
-      "track": "common",
+      "track": "both-7th",
       "pages": 161,
       "units": [
         {
@@ -1190,7 +1191,7 @@
       "id": "SEC-G12-ESC",
       "nameAr": "العلوم الهندسية",
       "nameEn": "Engineering Sciences",
-      "track": "common",
+      "track": "scientific-7th",
       "pages": 226,
       "units": [
         {
@@ -1210,7 +1211,7 @@
       "id": "SEC-G12-PED",
       "nameAr": "التربية البدنية",
       "nameEn": "Physical Education",
-      "track": "common",
+      "track": "other",
       "pages": 143,
       "units": [
         {
@@ -1269,9 +1270,29 @@
       "id": "SEC-G12-FRN",
       "nameAr": "الفرنسية",
       "nameEn": "French (J'apprends le Français 3)",
-      "track": "literary",
+      "track": "literary-7th",
       "pages": 88,
       "note": "كتاب J'APPRENDS LE FRANÇAIS 3"
+    },
+    {
+      "id": "SEC-G12-GEO",
+      "nameAr": "الجغرافيا والدراسات البيئية",
+      "nameEn": "Geography & Environmental Studies",
+      "track": "literary-fixed",
+      "pages": 0,
+      "hasLab": false,
+      "units": [],
+      "notes": "مادة تخصص المسار الأدبي — محتوى الوحدات لم يُستخرج بعد"
+    },
+    {
+      "id": "SEC-G12-IST",
+      "nameAr": "الدراسات الإسلامية",
+      "nameEn": "Islamic Studies",
+      "track": "literary-7th",
+      "pages": 0,
+      "hasLab": false,
+      "units": [],
+      "notes": "مادة تخصص المسار الأدبي — محتوى الوحدات لم يُستخرج بعد"
     }
   ],
   "statistics": {

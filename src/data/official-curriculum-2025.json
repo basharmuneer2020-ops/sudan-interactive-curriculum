@@ -1,0 +1,864 @@
+{
+  "metadata": {
+    "source": "دليل امتحان الشهادة الثانوية السودانية 2025م",
+    "issuer": "وزارة التربية والتعليم الاتحادية - المركز القومي للمناهج والبحث التربوي",
+    "academicYear": "2024-2025",
+    "extractedDate": "2026-04-09",
+    "totalSubjects": 18,
+    "stage": "الشهادة الثانوية (الصف الثالث الثانوي)",
+    "trackSystem": {
+      "commonSubjects": 3,
+      "trackFixedSubjects": 3,
+      "seventhSubjectChoice": 1,
+      "maxSubjectsPerStudent": 7,
+      "tracks": ["علمي", "أدبي"]
+    }
+  },
+  "subjects": [
+    {
+      "id": "islamic-education",
+      "nameAr": "التربية الإسلامية",
+      "nameEn": "Islamic Education",
+      "category": "common",
+      "trackCategory": "common",
+      "textbook": {
+        "name": "كتاب التربية الإسلامية للصف الثالث الثانوي",
+        "edition": "طبعة 2018م"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 5,
+        "questionsRequired": 5,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "التجويد", "marks": 6, "percentage": 6 },
+        { "name": "سورة النور", "marks": 34, "percentage": 34 },
+        { "name": "الحديث", "marks": 15, "percentage": 15 },
+        { "name": "التوحيد", "marks": 15, "percentage": 15 },
+        { "name": "الأحكام الفقهية", "marks": 5, "percentage": 5 },
+        { "name": "خصائص الأمة", "marks": 10, "percentage": 10 },
+        { "name": "الآيات المختارة", "marks": 15, "percentage": 15 }
+      ],
+      "cognitivelevels": [
+        { "level": "حفظ", "percentage": 50 },
+        { "level": "فهم", "percentage": 25 },
+        { "level": "تطبيق", "percentage": 15 },
+        { "level": "تحليل", "percentage": 10 }
+      ],
+      "deletedContent": [],
+      "notes": [
+        "سورة النور للحفظ والشرح"
+      ]
+    },
+    {
+      "id": "christian-education",
+      "nameAr": "التربية المسيحية",
+      "nameEn": "Christian Education",
+      "category": "common",
+      "trackCategory": "common",
+      "textbook": {
+        "name": "كتاب التربية المسيحية للصف الثالث الثانوي",
+        "edition": "طبعة 2017م"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "2.5 ساعة",
+        "totalMarks": 100,
+        "totalQuestions": 5,
+        "questionsRequired": 5,
+        "questionType": "إجبارية"
+      },
+      "units": [],
+      "cognitivelevels": [],
+      "deletedContent": [],
+      "notes": [
+        "بديل للتربية الإسلامية للطلاب المسيحيين"
+      ]
+    },
+    {
+      "id": "arabic-language",
+      "nameAr": "اللغة العربية",
+      "nameEn": "Arabic Language",
+      "category": "common",
+      "trackCategory": "common",
+      "textbook": {
+        "name": "كتب اللغة العربية للصف الثالث الثانوي (قراءة وأدب، قواعد نحو، بلاغة، تعبير)",
+        "edition": "الطبعات المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 4,
+        "questionsRequired": 4,
+        "questionType": "إجبارية - 4 مكونات"
+      },
+      "components": [
+        {
+          "name": "القراءة والأدب",
+          "marks": 40,
+          "details": "دروس القراءة والنصوص الأدبية والقصائد المقررة للحفظ والدراسة"
+        },
+        {
+          "name": "قواعد النحو",
+          "marks": 25,
+          "details": "القواعد النحوية المقررة مع استثناء بعض الأبواب"
+        },
+        {
+          "name": "البلاغة",
+          "marks": 20,
+          "details": "علوم البلاغة المقررة"
+        },
+        {
+          "name": "التعبير",
+          "marks": 15,
+          "details": "التعبير الإبداعي والوظيفي"
+        }
+      ],
+      "cognitivelevels": [
+        { "level": "حفظ", "percentage": 35 },
+        { "level": "فهم", "percentage": 25 },
+        { "level": "تحليل", "percentage": 20 },
+        { "level": "تركيب وتقويم", "percentage": 20 }
+      ],
+      "deletedContent": [
+        { "topic": "النسب", "pages": "ص42-48", "component": "قواعد النحو" },
+        { "topic": "الجامد والمشتق", "pages": "ص77-97", "component": "قواعد النحو" },
+        { "topic": "بعض حروف المعاني", "pages": "ص125-130", "component": "قواعد النحو" },
+        { "topic": "بعض الأخطاء الشائعة", "pages": "ص134-136", "component": "قواعد النحو" }
+      ],
+      "notes": [
+        "القصائد المقررة للحفظ والدراسة محددة في الدليل",
+        "يشمل الامتحان القراءة والأدب والقواعد والبلاغة والتعبير في ورقة واحدة"
+      ]
+    },
+    {
+      "id": "english-language",
+      "nameAr": "اللغة الإنجليزية",
+      "nameEn": "English Language",
+      "category": "common",
+      "trackCategory": "common",
+      "textbook": {
+        "name": "SPINE Series (Books 4, 5, 6) + Treasure Island (supplementary reader)",
+        "edition": "الطبعات المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 5,
+        "questionsRequired": 5,
+        "questionType": "إجبارية - 5 أجزاء"
+      },
+      "parts": [
+        {
+          "name": "Part 1: Language",
+          "marks": 24,
+          "details": "Tenses, word formation, vocabulary/structure"
+        },
+        {
+          "name": "Part 2: Comprehension",
+          "marks": 27,
+          "details": "Passage 250-300 words with questions"
+        },
+        {
+          "name": "Part 3: Composition",
+          "marks": 15,
+          "details": "Guided paragraphs 120-180 words"
+        },
+        {
+          "name": "Part 4: Summary",
+          "marks": 10,
+          "details": "Summary writing skills"
+        },
+        {
+          "name": "Part 5: Supplementary Readers / Treasure Island",
+          "marks": 24,
+          "details": "Short answers (6 marks), MCQ (10 marks), True/False (8 marks)"
+        }
+      ],
+      "cognitivelevels": [],
+      "deletedContent": [],
+      "notes": [
+        "تشمل المادة كتب SPINE للصفوف الثلاثة الثانوية",
+        "Treasure Island كقارئ إضافي مقرر"
+      ]
+    },
+    {
+      "id": "basic-mathematics",
+      "nameAr": "الرياضيات الأساسية",
+      "nameEn": "Basic Mathematics",
+      "category": "literary-fixed",
+      "trackCategory": "literary-fixed",
+      "textbook": {
+        "name": "كتاب الرياضيات الأساسية للصف الثالث الثانوي",
+        "edition": "الطبعة المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 5,
+        "questionsRequired": 5,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "الدوال الحقيقية والنهايات", "marks": 20, "percentage": 20 },
+        { "name": "التفاضل", "marks": 20, "percentage": 20 },
+        { "name": "التكامل", "marks": 20, "percentage": 20 },
+        { "name": "الإحصاء", "marks": 15, "percentage": 15 },
+        { "name": "الاحتمالات", "marks": 15, "percentage": 15 },
+        { "name": "المصفوفات", "marks": 10, "percentage": 10 }
+      ],
+      "cognitivelevels": [],
+      "deletedContent": [],
+      "notes": []
+    },
+    {
+      "id": "specialized-mathematics",
+      "nameAr": "الرياضيات المتخصصة",
+      "nameEn": "Specialized Mathematics",
+      "category": "scientific-fixed",
+      "trackCategory": "scientific-fixed",
+      "textbook": {
+        "name": "كتاب الرياضيات المتخصصة - الكتاب الأول والكتاب الثاني",
+        "edition": "الطبعة المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 6,
+        "questionsRequired": 6,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "مبدأ العدد", "book": 1, "marks": null },
+        { "name": "المصفوفات", "book": 1, "marks": null },
+        { "name": "الكسور الجزئية", "book": 1, "marks": null },
+        { "name": "الاحتمالات", "book": 1, "marks": null },
+        { "name": "الإحصاء", "book": 1, "marks": null },
+        { "name": "الدوال الحقيقية والنهايات", "book": 2, "marks": null },
+        { "name": "التفاضل", "book": 2, "marks": null },
+        { "name": "تطبيقات التفاضل", "book": 2, "marks": null },
+        { "name": "التكامل", "book": 2, "marks": null },
+        { "name": "التكامل المحدد", "book": 2, "marks": null },
+        { "name": "الدائرة", "book": 2, "marks": null },
+        { "name": "مجموعة الأعداد المركبة", "book": 2, "marks": null }
+      ],
+      "cognitivelevels": [],
+      "deletedContent": [
+        { "topic": "مبدأ الاستنتاج الرياضي", "pages": "" },
+        { "topic": "قانون الاحتمال الثنائي", "pages": "" },
+        { "topic": "النهايات العظمى والصغرى", "pages": "" },
+        { "topic": "المعدلات الزمنية المرتبطة", "pages": "" },
+        { "topic": "المساحات والنظرية الأساسية للتكامل", "pages": "" },
+        { "topic": "حل معادلات الدرجة الثانية في مجموعة الأعداد المركبة", "pages": "" },
+        { "topic": "الجذور التكعيبية للواحد الصحيح", "pages": "" }
+      ],
+      "notes": [
+        "يشمل كتابين: الكتاب الأول (5 وحدات) والكتاب الثاني (7 وحدات)"
+      ]
+    },
+    {
+      "id": "physics",
+      "nameAr": "الفيزياء",
+      "nameEn": "Physics",
+      "category": "scientific-fixed",
+      "trackCategory": "scientific-fixed",
+      "textbook": {
+        "name": "كتاب الفيزياء للصف الثالث الثانوي",
+        "edition": "الطبعة الثانية المنقحة 2005م"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": null,
+        "questionsRequired": null,
+        "questionType": "قسمان: أ (مفاهيم) + ب (تفكير عالي)"
+      },
+      "units": [
+        {
+          "name": "الفصل الأول: الحركة الدائرية",
+          "sections": [
+            { "name": "الحركة الدائرية", "marks": 10 },
+            { "name": "الحركة التوافقية البسيطة", "marks": 9 }
+          ]
+        },
+        {
+          "name": "الفصل الثاني: الموجات والضوء",
+          "sections": [
+            { "name": "الموجات", "marks": 5 },
+            { "name": "الضوء", "marks": 14 },
+            { "name": "الانكسار", "marks": 9 },
+            { "name": "العدسات", "marks": 7 },
+            { "name": "المجموعات البصرية", "marks": 5 },
+            { "name": "المرايا الكرية", "marks": 3 }
+          ]
+        },
+        {
+          "name": "الفصل الثالث: المجالات المغنطيسية والكهربية",
+          "sections": [
+            { "name": "المغناطيسية", "marks": 1 },
+            { "name": "الكهربية الساكنة", "marks": 4 },
+            { "name": "الكهربية التيارية", "marks": 9 },
+            { "name": "المجال المغناطيسي للتيار الكهربي", "marks": 7 }
+          ]
+        },
+        {
+          "name": "الفصل الرابع: الذرة والاتصالات",
+          "sections": [
+            { "name": "الذرة", "marks": 17 }
+          ]
+        }
+      ],
+      "cognitivelevels": [
+        { "level": "التذكر", "percentage": 20 },
+        { "level": "الفهم والاستيعاب", "percentage": 40 },
+        { "level": "التطبيق", "percentage": 15 },
+        { "level": "التحليل", "percentage": 15 },
+        { "level": "التركيب والتقويم", "percentage": 10 }
+      ],
+      "deletedContent": [],
+      "notes": [
+        "الامتحان مقسم إلى قسمين: القسم أ (مفاهيم) والقسم ب (تفكير عالي المستوى)"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "nameAr": "الكيمياء",
+      "nameEn": "Chemistry",
+      "category": "scientific-fixed",
+      "trackCategory": "scientific-fixed",
+      "textbook": {
+        "name": "كتاب الكيمياء للصف الثالث الثانوي + وحدة الكيمياء العضوية من كتاب الصف الثاني",
+        "edition": "الطبعة المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 5,
+        "questionsRequired": 5,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "الكيمياء الكهربية", "marks": 22, "percentage": 22 },
+        { "name": "سرعة وآلية التفاعلات الكيميائية", "marks": 6, "percentage": 6 },
+        { "name": "الطاقة في التفاعلات الكيميائية", "marks": 18, "percentage": 18 },
+        { "name": "التحليل الكيفي", "marks": 16, "percentage": 16 },
+        { "name": "الأحماض والقواعد", "marks": 10, "percentage": 10 },
+        { "name": "التحليل الحجمي", "marks": 10, "percentage": 10 },
+        { "name": "الكيمياء العضوية", "marks": 18, "percentage": 18, "source": "من كتاب الصف الثاني - الوحدة الثالثة" }
+      ],
+      "cognitivelevels": [
+        { "level": "حفظ", "percentage": 20 },
+        { "level": "فهم", "percentage": 30 },
+        { "level": "تطبيق", "percentage": 40 },
+        { "level": "تحليل", "percentage": 10 }
+      ],
+      "deletedContent": [
+        { "topic": "الاتزان الكيميائي", "pages": "ص280-307" },
+        { "topic": "الكيمياء النووية", "pages": "ص370-401" }
+      ],
+      "notes": [
+        "الكيمياء العضوية مأخوذة من كتاب الصف الثاني الثانوي (الوحدة الثالثة)"
+      ]
+    },
+    {
+      "id": "biology",
+      "nameAr": "الأحياء",
+      "nameEn": "Biology",
+      "category": "scientific-7th",
+      "trackCategory": "scientific-7th",
+      "textbook": {
+        "name": "كتاب الأحياء للصف الثالث الثانوي",
+        "edition": "الطبعة المنقحة 2015م (245 صفحة)"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 7,
+        "questionsRequired": 7,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "التكاثر", "marks": 40, "percentage": 40 },
+        { "name": "الوراثة", "marks": 35, "percentage": 35 },
+        { "name": "النظام البيئي", "marks": 25, "percentage": 25 }
+      ],
+      "cognitivelevels": [
+        { "level": "التذكر", "percentage": 25 },
+        { "level": "الفهم", "percentage": 30 },
+        { "level": "التطبيق", "percentage": 20 },
+        { "level": "التحليل", "percentage": 15 },
+        { "level": "التركيب والتقويم", "percentage": 10 }
+      ],
+      "deletedContent": [],
+      "notes": [
+        "أنواع الأسئلة: صواب وخطأ، مطابقة، اختيار من متعدد، إجابات قصيرة، مقالية"
+      ]
+    },
+    {
+      "id": "computer-science",
+      "nameAr": "علوم الحاسوب",
+      "nameEn": "Computer Science",
+      "category": "scientific-7th",
+      "trackCategory": "scientific-7th",
+      "textbook": {
+        "name": "علوم الحاسوب للصف الثالث الثانوي",
+        "edition": "الطبعة الثانية المنقحة 2010م"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 6,
+        "questionsRequired": 6,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "الدوائر المنطقية والعد الثنائي", "marks": 20, "percentage": 20 },
+        { "name": "بنائيات البيانات", "marks": 20, "percentage": 20 },
+        { "name": "الخوارزميات البيانية", "marks": 20, "percentage": 20 },
+        { "name": "نظم التشغيل", "marks": 20, "percentage": 20 },
+        { "name": "تحليل وتصميم النظم الآلية للمعلومات", "marks": 20, "percentage": 20 }
+      ],
+      "cognitivelevels": [],
+      "deletedContent": [],
+      "notes": [
+        "5 فصول بوزن متساوٍ (20 درجة لكل فصل)"
+      ]
+    },
+    {
+      "id": "engineering-sciences",
+      "nameAr": "أساسيات العلوم الهندسية",
+      "nameEn": "Engineering Sciences Fundamentals",
+      "category": "scientific-7th",
+      "trackCategory": "scientific-7th",
+      "textbook": {
+        "name": "كتاب العلوم الهندسية للصف الثالث الثانوي",
+        "edition": "الطبعة المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 4,
+        "questionsRequired": 4,
+        "questionType": "إجبارية (عملي 60 + نظري 40)"
+      },
+      "units": [
+        {
+          "name": "الرسم",
+          "marks": 25,
+          "breakdown": { "practical": 15, "theoretical": 10 }
+        },
+        {
+          "name": "الميكانيكا",
+          "marks": 28,
+          "breakdown": { "practical": 18, "theoretical": 10 }
+        },
+        {
+          "name": "الكهرباء",
+          "marks": 25,
+          "breakdown": { "practical": 15, "theoretical": 10 }
+        },
+        {
+          "name": "المدنية",
+          "marks": 22,
+          "breakdown": { "practical": 12, "theoretical": 10 }
+        }
+      ],
+      "cognitivelevels": [],
+      "deletedContent": [
+        { "topic": "هندسة الالكترونيات", "pages": "ص127-143 من الفصل الثالث" },
+        { "topic": "التساقط", "pages": "ص194-200" },
+        { "topic": "أساسيات هندسة الطرق والمرور", "pages": "ص202-214 من الفصل الرابع" }
+      ],
+      "notes": [
+        "الامتحان مقسم: 60% عملي + 40% نظري"
+      ]
+    },
+    {
+      "id": "geography",
+      "nameAr": "الجغرافيا والدراسات البيئية",
+      "nameEn": "Geography & Environmental Studies",
+      "category": "literary-fixed",
+      "trackCategory": "literary-fixed",
+      "textbook": {
+        "name": "كتاب الجغرافيا والدراسات البيئية + أطلس السودان والعالم",
+        "edition": "الطبعة المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 5,
+        "questionsRequired": 5,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "مقدمة في قراءة وتفسير الصور الجوية والفضائية", "marks": 35, "percentage": 35 },
+        { "name": "الجغرافيا الاقتصادية", "marks": 40, "percentage": 40 },
+        { "name": "الإنسان والبيئة", "marks": 25, "percentage": 25 }
+      ],
+      "cognitivelevels": [
+        { "level": "التذكر", "percentage": 45 },
+        { "level": "الفهم", "percentage": 35 },
+        { "level": "التحليل", "percentage": 15 },
+        { "level": "التركيب", "percentage": 5 }
+      ],
+      "deletedContent": [],
+      "notes": [
+        "المعلومات المتعلقة بجنوب السودان مستثناة من الامتحان",
+        "يستخدم أطلس السودان والعالم كمرجع إضافي"
+      ]
+    },
+    {
+      "id": "history",
+      "nameAr": "التاريخ",
+      "nameEn": "History",
+      "category": "literary-fixed",
+      "trackCategory": "literary-fixed",
+      "textbook": {
+        "name": "التاريخ للصف الثالث الثانوي",
+        "edition": "الطبعة المنقحة 2009م"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 5,
+        "questionsRequired": 5,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "الثورة والدولة المهدية 1881-1899", "lessons": 11, "marks": 30, "percentage": 30 },
+        { "name": "الحكم الثنائي والحركة الوطنية 1899-1956", "lessons": 10, "marks": 30, "percentage": 30 },
+        { "name": "دولة الخلافة العثمانية والأطماع الاستعمارية", "lessons": 7, "marks": 25, "percentage": 25 },
+        { "name": "حركات التحرر العربية", "lessons": 12, "marks": 15, "percentage": 15 }
+      ],
+      "cognitivelevels": [
+        { "level": "التذكر", "percentage": 40 },
+        { "level": "الفهم", "percentage": 35 },
+        { "level": "التحليل", "percentage": 15 },
+        { "level": "التركيب", "percentage": 10 }
+      ],
+      "deletedContent": [
+        { "topic": "دروس محذوفة من كل وحدة محددة في الدليل", "pages": "" }
+      ],
+      "questionTypes": [
+        "صواب وخطأ",
+        "مطابقة",
+        "إكمال",
+        "اختيار من متعدد",
+        "إجابة قصيرة",
+        "مقال قصير",
+        "مقال طويل"
+      ],
+      "notes": [
+        "بعض الدروس محذوفة من كل وحدة كما هو محدد في الدليل"
+      ]
+    },
+    {
+      "id": "islamic-studies",
+      "nameAr": "الدراسات الإسلامية",
+      "nameEn": "Islamic Studies",
+      "category": "literary-7th",
+      "trackCategory": "literary-7th",
+      "textbook": {
+        "name": "كتاب الدراسات الإسلامية للصف الثالث الثانوي",
+        "edition": "طبعة 2009م"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": null,
+        "questionsRequired": null,
+        "questionType": "إجبارية"
+      },
+      "units": [],
+      "syllabus": "كل الكتاب مقرر إلا باب الاقتصاد الإسلامي",
+      "cognitivelevels": [],
+      "deletedContent": [
+        { "topic": "باب الاقتصاد الإسلامي", "pages": "" }
+      ],
+      "questionTypes": [
+        "صواب وخطأ مع التصحيح",
+        "إكمال الآيات والأحاديث",
+        "أسئلة مقالية"
+      ],
+      "notes": [
+        "سورة محمد للحفظ والشرح",
+        "كل الكتاب مقرر ما عدا باب الاقتصاد الإسلامي"
+      ]
+    },
+    {
+      "id": "english-literature",
+      "nameAr": "الأدب الإنجليزي",
+      "nameEn": "English Literature",
+      "category": "literary-7th",
+      "trackCategory": "literary-7th",
+      "textbook": {
+        "name": "1. Things Fall Apart (Chinua Achebe) \n2. Our Mutual Friend (Charles Dickens)",
+        "edition": "الطبعات المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "2 ساعة",
+        "totalMarks": 100,
+        "totalQuestions": 6,
+        "questionsRequired": 6,
+        "questionType": "إجبارية - 3 أسئلة لكل كتاب"
+      },
+      "parts": [
+        {
+          "name": "Part One: Things Fall Apart",
+          "marks": 50,
+          "questions": [
+            { "type": "Question A: Answer questions", "marks": 10 },
+            { "type": "Question B: Match A with B", "marks": 10 },
+            { "type": "Question C: MCQ (a, b, c, or d)", "marks": 30 }
+          ]
+        },
+        {
+          "name": "Part Two: Our Mutual Friend",
+          "marks": 50,
+          "questions": [
+            { "type": "Question A: Answer questions", "marks": 10 },
+            { "type": "Question B: Match A with B", "marks": 10 },
+            { "type": "Question C: MCQ (a, b, c, or d)", "marks": 30 }
+          ]
+        }
+      ],
+      "cognitivelevels": [],
+      "deletedContent": [],
+      "notes": [
+        "أُعيد إدراج مادة الأدب في العام الدراسي 2020-2021 كمادة اختيارية مستقلة",
+        "بقرار من المدير العام للمركز القومي للمناهج والبحث التربوي"
+      ]
+    },
+    {
+      "id": "arts-and-design",
+      "nameAr": "الفنون والتصميم",
+      "nameEn": "Arts & Design",
+      "category": "both-7th",
+      "trackCategory": "both-7th",
+      "textbook": {
+        "name": "1. كتاب الفنون والتصميم للصف الأول والثاني الثانوي\n2. كتاب الفنون والتصميم للصف الثالث الثانوي",
+        "edition": "الطبعة المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": null,
+        "questionsRequired": null,
+        "questionType": "إجبارية - قسمان (نظري + تطبيقي)"
+      },
+      "sections": [
+        {
+          "name": "القسم الأول: النظري",
+          "marks": 10,
+          "details": "10 أسئلة تغطي كل أبواب المقرر (كتاب الصف الثالث فقط)",
+          "questions": [
+            { "number": 1, "marks": 5, "description": "تحدث عن أحد المدارس الفنية" },
+            { "number": 2, "marks": 2, "description": "إكمال" },
+            { "number": 3, "marks": 3, "description": "أسئلة متنوعة" }
+          ]
+        },
+        {
+          "name": "القسم الثاني: التطبيقي",
+          "marks": 90,
+          "parts": [
+            {
+              "name": "رسم خيالي بالألوان",
+              "marks": 45,
+              "details": "يختار الطالب أحد الموضوعات الاجتماعية المرتبطة بالموروثات السودانية"
+            },
+            {
+              "name": "التصميم والزخرفة",
+              "marks": 45,
+              "details": "تصميم وزخرفة أو تصميم إيضاحي"
+            }
+          ]
+        }
+      ],
+      "bookChapters": [
+        { "grade": "الصف الأول والثاني", "chapters": ["الثقافة الفنية", "الرسم", "التصميم", "التلوين"] },
+        { "grade": "الصف الثالث", "chapters": ["الثقافة الفنية", "الرسم", "التصميم", "التلوين"] }
+      ],
+      "cognitivelevels": [],
+      "deletedContent": [],
+      "drawingTopics": [
+        "النفير في القرية أو المدينة (حملات تحسين بيئات المدارس)",
+        "منظر طبيعي يتحقق فيه المنظور اللوني والظل والنور",
+        "أطفال الدرداقات في السوق",
+        "رسم غصن نبات (من الخيال) مراعياً الظل والضوء",
+        "أثر التريس على الشوارع العامة بالعاصمة الخرطوم",
+        "أثر مياه الصرف الصحي والأوساخ في الشوارع العامة أو في الأحياء",
+        "المزارعون وأسرهم يتنشرون لجني القطن في الحقول الممتدة",
+        "أثر السيول والأمطار على المنازل السكنية (انهيار البيوت) في بعض مدن وقرى السودان",
+        "المظاهر السالبة لبعض الشباب في الشارع العام",
+        "مشهد من رسم الجداريات الفنية في المشهد السوداني",
+        "بائعة الشاي في السوق"
+      ],
+      "notes": [
+        "الامتحان 10% نظري + 90% تطبيقي",
+        "موضوعات الرسم مرتبطة بالبيئة السودانية"
+      ]
+    },
+    {
+      "id": "home-science",
+      "nameAr": "العلوم الأسرية",
+      "nameEn": "Home Science",
+      "category": "scientific-7th",
+      "trackCategory": "scientific-7th",
+      "textbook": {
+        "name": "كتاب العلوم الأسرية للصف الثالث الثانوي",
+        "edition": "طبعة (2009-2010م)"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 6,
+        "questionsRequired": 6,
+        "questionType": "إجبارية"
+      },
+      "units": [
+        { "name": "الباب الأول: التغذية العامة", "marks": 20, "percentage": 20 },
+        { "name": "الباب الثاني: الأمراض المرتبطة بسوء التغذية", "marks": 20, "percentage": 20 },
+        { "name": "الباب الثالث: الصحة العامة والخدمات الصحية", "marks": 20, "percentage": 20 },
+        { "name": "الباب الرابع: الأمن الغذائي وتغذية الطوارئ", "marks": 15, "percentage": 15 },
+        { "name": "الباب الخامس: صحة وسلامة الغذاء وضبط جودته", "marks": 15, "percentage": 15 },
+        { "name": "الباب السادس: صحة المجتمع", "marks": 10, "percentage": 10 }
+      ],
+      "cognitivelevels": [
+        { "level": "التذكر", "percentage": null },
+        { "level": "الفهم", "percentage": null },
+        { "level": "التطبيق", "percentage": null },
+        { "level": "التحليل", "percentage": null },
+        { "level": "التركيب", "percentage": null },
+        { "level": "التقويم", "percentage": null }
+      ],
+      "questionTypes": [
+        "صواب وخطأ",
+        "مقارنة وتعليل",
+        "مطابقة / مزاوجة",
+        "إكمال معلومات",
+        "إكمال بيانات الرسومات والأشكال",
+        "مقالة قصيرة (لا يزيد عن 30 كلمة)"
+      ],
+      "deletedContent": [],
+      "notes": [
+        "تصاغ أسئلة الامتحان بحيث تقيس التذكر والفهم والتطبيق والتحليل والتركيب والتقويم"
+      ]
+    },
+    {
+      "id": "french-language",
+      "nameAr": "اللغة الفرنسية",
+      "nameEn": "French Language",
+      "category": "literary-7th",
+      "trackCategory": "literary-7th",
+      "textbook": {
+        "name": "كتب اللغة الفرنسية للصفوف الثلاثة الثانوية (الأول والثاني والثالث)",
+        "edition": "الطبعات المعتمدة"
+      },
+      "exam": {
+        "papers": 1,
+        "duration": "3 ساعات",
+        "totalMarks": 100,
+        "totalQuestions": 3,
+        "questionsRequired": 3,
+        "questionType": "إجبارية"
+      },
+      "parts": [
+        {
+          "name": "1) Grammaire (القواعد)",
+          "marks": 30,
+          "subparts": [
+            { "name": "a) Choisissez la bonne réponse (اختيار الإجابة الصحيحة)", "marks": 10 },
+            { "name": "b) Choisissez le mot convenable (اختيار الكلمة المناسبة)", "marks": 10 },
+            { "name": "c) Mettez les phrases dans l'ordre (ترتيب الجمل)", "marks": 10 }
+          ]
+        },
+        {
+          "name": "2) Compréhension des écrits (فهم النصوص المكتوبة)",
+          "marks": 40,
+          "subparts": [
+            { "name": "Document 1", "marks": 10 },
+            { "name": "Document 2", "marks": 10 },
+            { "name": "Document 3", "marks": 10 },
+            { "name": "Document 4", "marks": 10 }
+          ]
+        },
+        {
+          "name": "3) Expression écrite (التعبير الكتابي)",
+          "marks": 30,
+          "subparts": [
+            { "name": "القراءة الصامتة (4 وثائق مع أسئلة صواب/خطأ واختيار من متعدد)", "marks": null },
+            { "name": "الإنشاء - سؤالان: استمارة + كتابة موضوع (~50 كلمة)", "marks": null }
+          ]
+        }
+      ],
+      "grammarTopics": [
+        "الحاضر والماضي والمستقبل",
+        "الضمائر الشخصية بأنواعها",
+        "النفي والإثبات",
+        "حروف الجر المكانية والزمانية",
+        "صفات الإشارة",
+        "صفات الملكية",
+        "بعض ضمائر الوصل",
+        "اختيار من متعدد وترتيب جمل"
+      ],
+      "readingComprehension": "القراءة الصامتة: تحتوي على أربع وثائق أو نصوص قصيرة تتعلق بالحياة اليومية (رسائل شخصية، كروت بريدية، كروت دعوة، لوائح، فنادق، أحواض السباحة، المتاحف، حدائق عامة، إعلانات)",
+      "cognitivelevels": [],
+      "deletedContent": [],
+      "notes": [
+        "تشمل مادة الامتحان كتب الصفوف الثلاثة",
+        "القواعد تشمل ما دُرس في الكتب الثلاثة"
+      ]
+    }
+  ],
+  "trackSubjectMapping": {
+    "common": [
+      "islamic-education",
+      "arabic-language",
+      "english-language"
+    ],
+    "commonAlternative": {
+      "islamic-education": "christian-education"
+    },
+    "scientificFixed": [
+      "specialized-mathematics",
+      "physics",
+      "chemistry"
+    ],
+    "literaryFixed": [
+      "basic-mathematics",
+      "geography",
+      "history"
+    ],
+    "scientific7thOptions": [
+      "biology",
+      "computer-science",
+      "engineering-sciences",
+      "home-science",
+      "arts-and-design"
+    ],
+    "literary7thOptions": [
+      "islamic-studies",
+      "english-literature",
+      "french-language",
+      "arts-and-design"
+    ]
+  }
+}

@@ -1,0 +1,781 @@
+{
+  "id": "english-unit1-grammar-writing",
+  "subjectId": "english",
+  "unit": "Unit 1",
+  "unitNumber": 1,
+  "title": "Grammar & Writing Skills",
+  "description": "Tenses, Conditionals, Passive Voice, Essay Writing, and Comprehension Strategies",
+  "examWeight": "40%",
+  "pages": "1-50",
+  "sections": [
+    {
+      "sectionNumber": 1,
+      "title": "Tenses Review (الأزمنة الإنجليزية)",
+      "blocks": [
+        {
+          "type": "heading",
+          "content": "The 12 English Tenses: Complete Guide for SACE Exam"
+        },
+        {
+          "type": "text",
+          "content": "Mastering all 12 tenses is essential for writing and speaking correctly in English. Each tense conveys a specific timeframe and aspect of an action. Understanding tenses helps you express ideas accurately in essays, comprehensions, and spoken English."
+        },
+        {
+          "type": "heading",
+          "content": "PRESENT TENSES (الأزمنة الحاضرة)"
+        },
+        {
+          "type": "definition",
+          "label": "Simple Present (المضارع البسيط)",
+          "content": "Used for habitual actions, general truths, and facts. Signal words: always, usually, often, sometimes, every day, in general."
+        },
+        {
+          "type": "example",
+          "label": "Simple Present Examples",
+          "content": "• She studies English every day.\n• Water boils at 100 degrees Celsius.\n• He works as a doctor.",
+          "solution": "Used for routine actions (every day), scientific facts (boils), and professions (works)."
+        },
+        {
+          "type": "definition",
+          "label": "Present Continuous (المضارع المستمر)",
+          "content": "Used for actions happening right now or around the present moment. Signal words: now, at the moment, currently, right now."
+        },
+        {
+          "type": "example",
+          "label": "Present Continuous Examples",
+          "content": "• They are studying for their exams.\n• The children are playing in the garden.\n• I am writing a letter at the moment.",
+          "solution": "All actions are happening right now (studying, playing, writing)."
+        },
+        {
+          "type": "definition",
+          "label": "Present Perfect (الحاضر التام)",
+          "content": "Used for actions that started in the past and continue to the present, or past actions with present relevance. Signal words: already, yet, just, ever, never, for, since."
+        },
+        {
+          "type": "example",
+          "label": "Present Perfect Examples",
+          "content": "• She has lived in Khartoum for 10 years.\n• I have just finished my homework.\n• Have you ever visited Egypt?",
+          "solution": "Actions with connection to the present (for 10 years = still living there; just = recent)."
+        },
+        {
+          "type": "definition",
+          "label": "Present Perfect Continuous (الحاضر التام المستمر)",
+          "content": "Used for actions that started in the past, continue to the present, and may continue into the future. Signal words: for, since, how long, all day."
+        },
+        {
+          "type": "example",
+          "label": "Present Perfect Continuous Examples",
+          "content": "• They have been studying Arabic for 5 years.\n• She has been working here since 2020.\n• How long have you been waiting?",
+          "solution": "Emphasizes the duration of an ongoing action."
+        },
+        {
+          "type": "heading",
+          "content": "PAST TENSES (الأزمنة الماضية)"
+        },
+        {
+          "type": "definition",
+          "label": "Simple Past (الماضي البسيط)",
+          "content": "Used for completed actions in the past. Signal words: yesterday, last week, ago, in 2020, then, once."
+        },
+        {
+          "type": "example",
+          "label": "Simple Past Examples",
+          "content": "• He visited Sudan last year.\n• The exam finished at 3 PM yesterday.\n• She studied hard for the test.",
+          "solution": "All actions are completely finished (visited, finished, studied)."
+        },
+        {
+          "type": "definition",
+          "label": "Past Continuous (الماضي المستمر)",
+          "content": "Used for actions that were in progress at a specific time in the past. Often used with Simple Past for interruptions. Signal words: while, when, as, at that moment."
+        },
+        {
+          "type": "example",
+          "label": "Past Continuous Examples",
+          "content": "• While I was reading, my phone rang.\n• They were discussing the project when the teacher entered.\n• It was raining when we left the house.",
+          "solution": "Interrupted action (was reading → phone rang). Shows two actions with different durations."
+        },
+        {
+          "type": "definition",
+          "label": "Past Perfect (الماضي التام)",
+          "content": "Used for an action that happened before another action in the past. Shows sequence of events. Signal words: before, after, by the time, already, just."
+        },
+        {
+          "type": "example",
+          "label": "Past Perfect Examples",
+          "content": "• By the time she arrived, the meeting had started.\n• I had finished dinner before you called.\n• They had already left when we arrived.",
+          "solution": "First action (had started) happened before second action (she arrived)."
+        },
+        {
+          "type": "definition",
+          "label": "Past Perfect Continuous (الماضي التام المستمر)",
+          "content": "Used for actions that continued up to a specific point in the past. Shows duration before another past action."
+        },
+        {
+          "type": "example",
+          "label": "Past Perfect Continuous Examples",
+          "content": "• She had been studying for 2 hours before the exam started.\n• They had been working on the project for weeks when it was finally completed.",
+          "solution": "Emphasizes the duration of an action that happened before another past event."
+        },
+        {
+          "type": "heading",
+          "content": "FUTURE TENSES (الأزمنة المستقبلية)"
+        },
+        {
+          "type": "definition",
+          "label": "Simple Future (المستقبل البسيط)",
+          "content": "Used for future actions or predictions. Signal words: tomorrow, next week, in the future, will, shall."
+        },
+        {
+          "type": "example",
+          "label": "Simple Future Examples",
+          "content": "• She will graduate next year.\n• It will rain tomorrow.\n• I shall help you with your homework.",
+          "solution": "Actions that have not happened yet (will graduate, will rain)."
+        },
+        {
+          "type": "definition",
+          "label": "Future Continuous (المستقبل المستمر)",
+          "content": "Used for actions that will be in progress at a specific time in the future. Signal words: at this time tomorrow, while, this evening."
+        },
+        {
+          "type": "example",
+          "label": "Future Continuous Examples",
+          "content": "• This time next week, I will be studying for the final exam.\n• While you are sleeping, they will be preparing the classroom.\n• At 2 PM tomorrow, she will be in the laboratory.",
+          "solution": "Actions that will be ongoing at a future moment."
+        },
+        {
+          "type": "definition",
+          "label": "Future Perfect (المستقبل التام)",
+          "content": "Used for actions that will be completed before a specific time in the future. Shows completion of an action before another future event."
+        },
+        {
+          "type": "example",
+          "label": "Future Perfect Examples",
+          "content": "• By next month, she will have finished the project.\n• By the time you arrive, I will have prepared lunch.\n• By 2030, he will have completed his studies.",
+          "solution": "Action will be finished before a specific future time."
+        },
+        {
+          "type": "definition",
+          "label": "Future Perfect Continuous (المستقبل التام المستمر)",
+          "content": "Used for actions that will continue up to a specific time in the future. Shows duration of future actions."
+        },
+        {
+          "type": "example",
+          "label": "Future Perfect Continuous Examples",
+          "content": "• By June, she will have been studying medicine for 4 years.\n• By next year, they will have been working together for 5 years.",
+          "solution": "Emphasizes how long an action will have been going on by a future time."
+        },
+        {
+          "type": "table",
+          "headers": ["Tense", "Formation", "Signal Words", "Usage"],
+          "rows": [
+            ["Simple Present", "V + s/es", "always, usually, every day", "Habits, facts"],
+            ["Present Continuous", "am/is/are + V-ing", "now, at the moment", "Actions happening now"],
+            ["Present Perfect", "have/has + V-ed", "already, just, for, since", "Past with present effect"],
+            ["Past Simple", "V-ed / irregular", "yesterday, last week, ago", "Completed past actions"],
+            ["Past Continuous", "was/were + V-ing", "while, when, as", "Interrupted past actions"],
+            ["Past Perfect", "had + V-ed", "before, by the time", "Action before another past action"],
+            ["Simple Future", "will + V", "tomorrow, next week", "Future predictions"],
+            ["Future Continuous", "will be + V-ing", "at this time tomorrow", "Future ongoing actions"]
+          ]
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ WRONG: 'I am here since 2020.' ✓ CORRECT: 'I have been here since 2020.' — Use Present Perfect or Present Perfect Continuous for actions starting in the past and continuing now, NOT Present Continuous."
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ WRONG: 'When I arrived, they leave.' ✓ CORRECT: 'When I arrived, they were leaving.' or 'When I arrived, they had left.' — Use consistent past tenses when describing multiple past events."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "In SACE exams, look for SIGNAL WORDS to identify the correct tense. Example: 'by the time' suggests Past Perfect or Past Perfect Continuous. 'For' or 'since' suggests Present Perfect or Present Perfect Continuous. Always underline or identify signal words in exam questions."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "Practice tense conversion exercises. Often exams ask you to change a sentence from one tense to another. Example: 'Change this into Past Tense' or 'Rewrite using Present Perfect.' Master the formation rules by heart."
+        }
+      ],
+      "keyPoints": [
+        "12 tenses organized into Present, Past, and Future categories",
+        "Each category has: Simple, Continuous, Perfect, and Perfect Continuous forms",
+        "Signal words are the KEY to identifying which tense to use",
+        "Simple tenses show completed or habitual actions; Continuous shows ongoing actions",
+        "Perfect tenses show connection between different time periods",
+        "Always check for time reference words in exam questions"
+      ]
+    },
+    {
+      "sectionNumber": 2,
+      "title": "Conditionals & Passive Voice (الشروط والمبني للمجهول)",
+      "blocks": [
+        {
+          "type": "heading",
+          "content": "The Four Types of Conditionals"
+        },
+        {
+          "type": "definition",
+          "label": "Zero Conditional (الشرط الصفري)",
+          "content": "Used for universal truths and scientific facts. Structure: If + Simple Present, Simple Present. The condition is always true."
+        },
+        {
+          "type": "example",
+          "label": "Zero Conditional Examples",
+          "content": "• If you heat water to 100°C, it boils.\n• If students study hard, they pass exams.\n• If the sun rises, it becomes day.",
+          "solution": "These are universal facts that are always true. Both clauses use Simple Present."
+        },
+        {
+          "type": "definition",
+          "label": "First Conditional (الشرط الأول)",
+          "content": "Used for probable/likely future events. Structure: If + Simple Present, will + Base Verb. The condition is possible and likely to happen."
+        },
+        {
+          "type": "example",
+          "label": "First Conditional Examples",
+          "content": "• If you study hard, you will pass the exam.\n• If it rains tomorrow, we will stay at home.\n• If she finishes her project, she will submit it on time.",
+          "solution": "Realistic future situations. The condition is likely but not certain."
+        },
+        {
+          "type": "definition",
+          "label": "Second Conditional (الشرط الثاني)",
+          "content": "Used for hypothetical/unlikely situations in the present or future. Structure: If + Simple Past, would + Base Verb. The condition is imaginary and unlikely."
+        },
+        {
+          "type": "example",
+          "label": "Second Conditional Examples",
+          "content": "• If I were you, I would study more.\n• If we had more time, we would travel to Egypt.\n• If she spoke Arabic fluently, she would get the job.",
+          "solution": "Hypothetical situations that are unlikely to happen. Note: 'were' is used for 'I, he, she, it' (not 'was')."
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ WRONG: 'If I was rich, I would buy a car.' ✓ CORRECT: 'If I were rich, I would buy a car.' — In Second Conditional, always use 'were' for 'I, he, she, it' (subjunctive form), not 'was'."
+        },
+        {
+          "type": "definition",
+          "label": "Third Conditional (الشرط الثالث)",
+          "content": "Used for hypothetical situations in the past that did not happen. Structure: If + Past Perfect, would have + Past Participle. The condition is impossible because the time has passed."
+        },
+        {
+          "type": "example",
+          "label": "Third Conditional Examples",
+          "content": "• If I had studied harder, I would have passed the exam.\n• If she had arrived on time, she would have seen the performance.\n• If they had known about the accident, they would have called the ambulance.",
+          "solution": "Imaginary past situations. Something didn't happen in the past, so we imagine what would have happened if it had."
+        },
+        {
+          "type": "table",
+          "headers": ["Type", "Condition", "Result", "Meaning"],
+          "rows": [
+            ["Zero", "If + Simple Present", "Simple Present", "Universal truth"],
+            ["First", "If + Simple Present", "will + V", "Likely future event"],
+            ["Second", "If + Simple Past", "would + V", "Unlikely/imaginary now"],
+            ["Third", "If + Past Perfect", "would have + V-ed", "Impossible past situation"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Mixed Conditionals"
+        },
+        {
+          "type": "definition",
+          "label": "Mixed Conditional",
+          "content": "Combines Third and Second Conditional. The condition is in the past, but the result continues to affect the present."
+        },
+        {
+          "type": "example",
+          "label": "Mixed Conditional Examples",
+          "content": "• If I had studied medicine (past), I would be a doctor now (present).\n• If she had learned English well (past), she would speak fluently now (present).",
+          "solution": "Links a past condition to a present result."
+        },
+        {
+          "type": "heading",
+          "content": "Passive Voice (المبني للمجهول)"
+        },
+        {
+          "type": "definition",
+          "label": "Active vs. Passive Voice",
+          "content": "Active: Subject performs the action. 'The teacher teaches grammar.'\nPassive: Subject receives the action. 'Grammar is taught by the teacher.' Use passive voice when the action is more important than the doer, or the doer is unknown."
+        },
+        {
+          "type": "heading",
+          "content": "Forming Passive Voice with Different Tenses"
+        },
+        {
+          "type": "example",
+          "label": "Present Simple Passive",
+          "content": "Active: She writes letters.\nPassive: Letters are written by her.\nFormation: am/is/are + past participle",
+          "solution": "am/is/are + V-ed"
+        },
+        {
+          "type": "example",
+          "label": "Past Simple Passive",
+          "content": "Active: They built the school in 2010.\nPassive: The school was built in 2010.\nFormation: was/were + past participle",
+          "solution": "was/were + V-ed"
+        },
+        {
+          "type": "example",
+          "label": "Present Perfect Passive",
+          "content": "Active: The company has completed the project.\nPassive: The project has been completed by the company.\nFormation: have/has + been + past participle",
+          "solution": "have/has + been + V-ed"
+        },
+        {
+          "type": "example",
+          "label": "Future Passive",
+          "content": "Active: The government will build a new hospital.\nPassive: A new hospital will be built by the government.\nFormation: will be + past participle",
+          "solution": "will be + V-ed"
+        },
+        {
+          "type": "example",
+          "label": "Modal Passive",
+          "content": "Active: Students must submit their assignments.\nPassive: Assignments must be submitted by students.\nFormation: modal + be + past participle",
+          "solution": "must be + V-ed / can be + V-ed / should be + V-ed"
+        },
+        {
+          "type": "table",
+          "headers": ["Tense", "Active", "Passive"],
+          "rows": [
+            ["Present Simple", "He teaches", "It is taught"],
+            ["Past Simple", "They built", "It was built"],
+            ["Present Perfect", "She has finished", "It has been finished"],
+            ["Future Simple", "We will complete", "It will be completed"],
+            ["Modal", "Must write", "Must be written"]
+          ]
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ WRONG: 'The book was written by Shakespeare in the 17th century.' ✓ CORRECT: 'The book was written by Shakespeare in the 16th century.' — Check facts carefully when using passive voice."
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ WRONG: 'The poem is wrote by Tayeb Salih.' ✓ CORRECT: 'The poem was written by Tayeb Salih.' — Use correct past participle forms (wrote → written). Don't mix active and passive."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "In SACE exams, you may need to: (1) Identify whether a sentence is active or passive, (2) Convert active to passive or vice versa, (3) Use passive voice in your own writing for formal essays. Practice all three skills."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "Use passive voice in academic and formal writing to sound more professional. Example: 'Research shows that...' (active) can become 'It has been shown that...' (passive) for a more formal tone."
+        }
+      ],
+      "keyPoints": [
+        "Zero Conditional for universal truths (both clauses: Simple Present)",
+        "First Conditional for likely future events (Present + will)",
+        "Second Conditional for unlikely/imaginary present situations (Past + would)",
+        "Third Conditional for impossible past situations (Past Perfect + would have)",
+        "Mixed Conditional links past conditions to present results",
+        "Passive voice emphasizes the action, not the agent",
+        "Formation: be (conjugated) + past participle",
+        "Use passive in formal and academic writing"
+      ]
+    },
+    {
+      "sectionNumber": 3,
+      "title": "Essay Writing (كتابة الموضوع الإنشائي)",
+      "blocks": [
+        {
+          "type": "heading",
+          "content": "Essay Writing Structure for SACE Exams"
+        },
+        {
+          "type": "text",
+          "content": "A well-structured essay has three main parts: Introduction, Body, and Conclusion. Each part serves a specific purpose in presenting your ideas clearly and persuasively."
+        },
+        {
+          "type": "heading",
+          "content": "ARGUMENTATIVE ESSAY (المقالة الحجاجية)"
+        },
+        {
+          "type": "definition",
+          "label": "Purpose",
+          "content": "To present a clear argument and convince the reader of your viewpoint using evidence and logical reasoning."
+        },
+        {
+          "type": "definition",
+          "label": "Structure",
+          "content": "Introduction (thesis statement) → 2-3 Body paragraphs (each with topic sentence + evidence + explanation) → Conclusion (summary + restate thesis)"
+        },
+        {
+          "type": "example",
+          "label": "Argumentative Essay: 'Education is the Foundation of Society'",
+          "content": "INTRODUCTION:\n'Education plays a crucial role in shaping individuals and societies. This essay argues that education is the foundation of societal progress, as it empowers individuals, reduces poverty, and creates informed citizens.'\n\nBODY PARAGRAPH 1:\nTopic Sentence: 'First, education empowers individuals to pursue better opportunities.'\nEvidence: 'Studies show that educated individuals earn 40% more than those without formal education.'\nExplanation: 'This financial stability allows them to break the cycle of poverty.'\n\nBODY PARAGRAPH 2:\nTopic Sentence: 'Second, education creates informed and responsible citizens.'\nEvidence: 'Educated voters make better decisions for their communities and country.'\nExplanation: 'This leads to stronger democratic institutions and better governance.'\n\nCONCLUSION:\n'In conclusion, education is indispensable for individual and societal development. Governments must invest in education systems to ensure a better future.'",
+          "solution": "Clear thesis statement, supporting evidence, logical flow, and strong conclusion."
+        },
+        {
+          "type": "heading",
+          "content": "DESCRIPTIVE ESSAY (المقالة الوصفية)"
+        },
+        {
+          "type": "definition",
+          "label": "Purpose",
+          "content": "To describe a person, place, object, or experience in vivid detail using sensory language."
+        },
+        {
+          "type": "definition",
+          "label": "Key Features",
+          "content": "Vivid adjectives, sensory details (sight, sound, smell, taste, touch), organized spatial or temporal order, engaging opening and closing."
+        },
+        {
+          "type": "example",
+          "label": "Descriptive Essay: 'The Nile River'",
+          "content": "INTRODUCTION:\n'The Nile River is not just a body of water; it is the lifeblood of Sudan and Egypt, a source of inspiration and survival for millions.'\n\nBODY PARAGRAPH 1 (VISUAL DESCRIPTION):\n'The Nile stretches majestically from south to north, its azure waters reflecting the golden sun. Along its banks, date palm trees sway gently, their fronds creating dancing shadows on the water. During sunset, the sky transforms into shades of orange, pink, and purple, painting a breathtaking scene.'\n\nBODY PARAGRAPH 2 (SOUNDS AND ATMOSPHERE):\n'As you sit by the river, you hear the gentle splash of water against the shore, the distant calls of fishermen, and the rustle of palm leaves in the breeze. The air carries the fresh scent of water mixed with the earthy smell of the nearby soil.'\n\nCONCLUSION:\n'The Nile is a symphony of natural beauty and cultural significance. Its presence reminds us of the resilience and richness of our heritage.'",
+          "solution": "Rich sensory details, descriptive language, and emotional connection to the subject."
+        },
+        {
+          "type": "heading",
+          "content": "NARRATIVE ESSAY (المقالة السردية)"
+        },
+        {
+          "type": "definition",
+          "label": "Purpose",
+          "content": "To tell a story with a clear beginning, middle, and end, often with a lesson or moral."
+        },
+        {
+          "type": "definition",
+          "label": "Key Features",
+          "content": "Chronological order, vivid details, dialogue (optional), clear characters, conflict/problem, resolution, reflection."
+        },
+        {
+          "type": "example",
+          "label": "Narrative Essay: 'A Day That Changed Everything'",
+          "content": "INTRODUCTION:\n'It was an ordinary Tuesday morning when I faced a challenge that would transform my perspective on learning forever.'\n\nDEVELOPMENT:\n'I was struggling with mathematics, scoring poorly in every test. My parents suggested hiring a tutor, but I felt ashamed and refused. Then, during a class presentation, I made a terrible mistake—I couldn't solve a simple problem in front of everyone. Embarrassed, I left the classroom in tears.'\n\nTURNING POINT:\n'That evening, a teacher came to my home and spoke to me kindly. Instead of criticizing, she encouraged me and offered to help me. Together, we started learning, and gradually, I began to understand mathematics differently.'\n\nCONCLUSION:\n'Looking back, I realize that asking for help is not a weakness but a strength. This lesson has stayed with me throughout my academic journey.'",
+          "solution": "Clear narrative arc, emotional development, and a meaningful lesson."
+        },
+        {
+          "type": "heading",
+          "content": "Linking Words and Transitional Phrases (كلمات الربط)"
+        },
+        {
+          "type": "table",
+          "headers": ["Function", "Examples"],
+          "rows": [
+            ["Adding ideas", "Furthermore, Moreover, In addition, Also, Additionally"],
+            ["Showing contrast", "However, On the other hand, Nevertheless, Although, Despite"],
+            ["Giving examples", "For example, For instance, Such as, In particular"],
+            ["Showing cause/effect", "Because, As a result, Therefore, Consequently, Due to"],
+            ["Showing sequence", "First, Second, Finally, Meanwhile, Later, Initially"],
+            ["Concluding", "In conclusion, To summarize, In brief, Finally, To sum up"]
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Using Linking Words in a Paragraph",
+          "content": "WEAK: 'Education is important. It helps people get jobs. It improves society. Students should study hard.'\n\nSTRONG: 'Education is important because it helps people secure better jobs. Furthermore, it improves society by creating informed and skilled citizens. Therefore, students should study hard to prepare for their future.'",
+          "solution": "Linking words create flow and show relationships between ideas."
+        },
+        {
+          "type": "heading",
+          "content": "Essay Writing Checklist for SACE Exams"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Clear introduction with a thesis statement (main argument)",
+            "2-3 body paragraphs, each with: topic sentence, supporting evidence, explanation",
+            "Proper use of linking words to connect ideas",
+            "Varied sentence structures (simple, compound, complex sentences)",
+            "Concrete examples and evidence to support arguments",
+            "Conclusion that restates thesis and provides final thoughts",
+            "Correct grammar, spelling, and punctuation throughout",
+            "Appropriate tone and formal register (no slang)",
+            "Logical organization and clear paragraph structure",
+            "Answer the question/prompt fully and directly"
+          ]
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ WEAK INTRODUCTION: 'In this essay, I will write about education.' ✓ STRONG INTRODUCTION: 'Education is the cornerstone of personal and societal development, as it empowers individuals and strengthens communities.' — Make your opening compelling and clear."
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ NO LINKING WORDS: Paragraphs seem disconnected. ✓ WITH LINKING WORDS: Ideas flow smoothly. Example: 'Despite the challenges, students must remain motivated. Therefore, schools should provide support.' — Use linking words to improve coherence."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "Spend the first 5-10 minutes PLANNING your essay. Write a quick outline: Introduction (main idea), 3 body paragraphs (each with 1-2 points), Conclusion. This prevents rambling and ensures your essay stays on track."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "VARY YOUR SENTENCE STRUCTURE. Mix short sentences with longer ones. Example: 'Education is vital. Moreover, it provides students with essential skills that enable them to succeed in their careers.' This improves readability and impresses examiners."
+        }
+      ],
+      "keyPoints": [
+        "Argumentative essays present and support a viewpoint with evidence",
+        "Descriptive essays use vivid sensory language to paint a picture",
+        "Narrative essays tell a story with a clear beginning, middle, and end",
+        "All essays need Introduction, Body, and Conclusion",
+        "Linking words create flow and connect ideas logically",
+        "Topic sentences introduce the main idea of each paragraph",
+        "Evidence and explanations support your arguments",
+        "Vary sentence structures for better readability",
+        "Plan before writing to organize your thoughts"
+      ]
+    },
+    {
+      "sectionNumber": 4,
+      "title": "Reading Comprehension Strategies (استراتيجيات فهم النص المقروء)",
+      "blocks": [
+        {
+          "type": "heading",
+          "content": "Strategies for Success in Reading Comprehension"
+        },
+        {
+          "type": "text",
+          "content": "Reading comprehension is a critical component of the SACE exam. Mastering different reading strategies helps you extract information efficiently and understand texts at deeper levels. The three main strategies are Skimming, Scanning, and Detailed Reading."
+        },
+        {
+          "type": "heading",
+          "content": "SKIMMING (المسح السريع)"
+        },
+        {
+          "type": "definition",
+          "label": "Definition",
+          "content": "Rapid reading to get the main idea and general overview of the text without reading every word. Used to understand the overall topic and structure quickly."
+        },
+        {
+          "type": "definition",
+          "label": "How to Skim",
+          "content": "1. Read the title, headings, and subheadings\n2. Read the first and last paragraphs completely\n3. Read the first sentence of each body paragraph\n4. Look at any images, diagrams, or captions\n5. Notice emphasized words (bold, italics, CAPITALS)"
+        },
+        {
+          "type": "example",
+          "label": "Skimming Example",
+          "content": "ARTICLE: 'The Future of Renewable Energy'\nTitle: 'The Future of Renewable Energy' → Topic is about renewable energy trends\nSubheadings: 'Solar Power', 'Wind Energy', 'Hydroelectric Power' → Multiple types are discussed\nFirst paragraph: 'Renewable energy will dominate by 2050...' → Main idea\nQuick scan: Key points about different energy sources\n\nResult: You understand the text is about renewable energy types and their future without reading every detail.",
+          "solution": "Skimming takes 1-2 minutes and gives you the 'big picture' of the text."
+        },
+        {
+          "type": "tip",
+          "label": "When to use Skimming",
+          "content": "Use skimming when you need to quickly understand what a text is about, decide if it's relevant to your needs, or get an overview before detailed reading."
+        },
+        {
+          "type": "heading",
+          "content": "SCANNING (البحث السريع عن المعلومات)"
+        },
+        {
+          "type": "definition",
+          "label": "Definition",
+          "content": "Rapid search for specific information. You know what you're looking for and quickly locate it in the text. Used to find particular facts, dates, names, or numbers."
+        },
+        {
+          "type": "definition",
+          "label": "How to Scan",
+          "content": "1. Identify the specific information you need (key word, date, name, number)\n2. Look for related keywords or synonyms\n3. Move your eyes quickly through the text\n4. Stop when you find the target information\n5. Read that section carefully"
+        },
+        {
+          "type": "example",
+          "label": "Scanning Example",
+          "content": "TEXT: 'Sudan became independent on January 1, 1956. The struggle for independence was long and difficult. Led by leaders like Ali Abdel Latif and Abd al-Rahman al-Mahdi...'\n\nQUESTION: 'When did Sudan become independent?'\nTarget information: Date of independence\nScanning: Skim quickly for 'Sudan' + 'independent' or 'independence' = Found 'January 1, 1956'\nAnswer: January 1, 1956",
+          "solution": "Scanning finds specific facts quickly without reading the entire text."
+        },
+        {
+          "type": "tip",
+          "label": "When to use Scanning",
+          "content": "Use scanning for FACTUAL questions like 'When...?', 'Where...?', 'How much...?', 'Who...?' when you need to find specific details."
+        },
+        {
+          "type": "heading",
+          "content": "DETAILED READING (القراءة المتأنية)"
+        },
+        {
+          "type": "definition",
+          "label": "Definition",
+          "content": "Careful, thorough reading to understand all details, nuances, and implied meanings. Used for complex texts and inference questions."
+        },
+        {
+          "type": "definition",
+          "label": "How to Read in Detail",
+          "content": "1. Read the entire passage slowly\n2. Note unfamiliar words and try to guess from context\n3. Identify main and supporting ideas\n4. Look for cause-and-effect relationships\n5. Pay attention to the author's tone and attitude\n6. Make notes or underline key points"
+        },
+        {
+          "type": "heading",
+          "content": "INFERENCE & VOCABULARY IN CONTEXT"
+        },
+        {
+          "type": "definition",
+          "label": "Inference",
+          "content": "Reading between the lines to understand what the author implies but doesn't explicitly state. Requires understanding context, tone, and author's purpose."
+        },
+        {
+          "type": "example",
+          "label": "Inference Example",
+          "content": "TEXT: 'Sarah studied all night for her exam. The next morning, she arrived at school with dark circles under her eyes. She sat down and immediately fell asleep during the test.'\n\nDIRECT STATEMENT: Sarah studied all night and fell asleep during the test.\nINFERENCE: Sarah was exhausted because she didn't sleep. Her lack of sleep negatively affected her exam performance. She was unprepared despite studying because she was too tired to focus.",
+          "solution": "Inference requires you to connect information and draw conclusions."
+        },
+        {
+          "type": "definition",
+          "label": "Vocabulary in Context",
+          "content": "Determining the meaning of unfamiliar words by analyzing how they're used in surrounding sentences. Look for clues like definitions, examples, contrasts, or synonyms."
+        },
+        {
+          "type": "example",
+          "label": "Vocabulary in Context Example",
+          "content": "SENTENCE: 'The politician's nefarious schemes were exposed by the investigative journalists.'\nClue: 'nefarious' is described negatively (associated with 'schemes' that need exposing)\nContext clue: Opposite of what's good or honest\nMeaning: Nefarious = wicked, evil, corrupt\n\nANOTHER EXAMPLE:\n'The symptoms were transient; they disappeared within hours.' \nClue: 'disappeared within hours' shows something temporary\nMeaning: Transient = temporary, short-lived, fleeting",
+          "solution": "Context clues help you understand words without a dictionary."
+        },
+        {
+          "type": "heading",
+          "content": "Types of Context Clues"
+        },
+        {
+          "type": "table",
+          "headers": ["Type", "Clue", "Example"],
+          "rows": [
+            ["Definition", "The word is directly defined", "'Altruism (helping others) is a virtue.'"],
+            ["Synonym", "A similar word nearby", "'His gregarious, social nature made him popular.'"],
+            ["Antonym/Contrast", "An opposite word with 'but', 'however'", "'Unlike the placid lake, the ocean was turbulent.'"],
+            ["Example", "'Such as' or 'for example'", "'Nocturnal animals, such as owls, hunt at night.'"],
+            ["Cause-Effect", "Shows why or result", "'Due to his perspicacity, he solved the case quickly.'"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Common Question Types in Reading Comprehension"
+        },
+        {
+          "type": "list",
+          "items": [
+            "MAIN IDEA: 'What is the main idea of this passage?' → Read introduction and conclusion",
+            "SUPPORTING DETAILS: 'What detail supports the author's point?' → Scan for specific evidence",
+            "VOCABULARY: 'What does _____ mean in this context?' → Use context clues",
+            "INFERENCE: 'What can you infer about...?' → Read between the lines",
+            "PURPOSE: 'Why did the author write this?' → Look at tone and message",
+            "AUTHOR'S TONE: 'The author's attitude is...' → Notice word choice (positive/negative)",
+            "CAUSE & EFFECT: 'What caused...?' or 'What was the result of...?' → Look for relationships",
+            "COMPARISON: 'How are A and B similar/different?' → Identify similarities and differences"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Reading Comprehension Strategy for SACE Exams"
+        },
+        {
+          "type": "list",
+          "items": [
+            "STEP 1: READ THE QUESTIONS FIRST — Know what you're looking for before reading the passage",
+            "STEP 2: SKIM THE PASSAGE — Get the main idea in 2-3 minutes",
+            "STEP 3: READ CAREFULLY — Focus on parts relevant to the questions",
+            "STEP 4: UNDERLINE KEY INFORMATION — Mark important ideas and evidence",
+            "STEP 5: ANSWER FACTUAL QUESTIONS FIRST — Easier questions boost confidence",
+            "STEP 6: RE-READ FOR INFERENCE QUESTIONS — These require deeper understanding",
+            "STEP 7: CHECK YOUR ANSWERS — Ensure they're supported by the text"
+          ]
+        },
+        {
+          "type": "example",
+          "label": "Complete Reading Comprehension Example",
+          "content": "PASSAGE (abbreviated):\n'Technology has revolutionized education. Online platforms allow students worldwide to access quality education. However, the digital divide remains a challenge for developing countries. Students without internet access are left behind, widening educational inequality.'\n\nQUESTIONS:\n1. 'What is the main idea?' → Answer: Technology helps education but creates inequality without access\n2. 'Find a detail supporting this.' → Answer: 'Students without internet access are left behind'\n3. 'What does 'digital divide' mean?' → Answer: The gap between those with and without technology access\n4. 'What can you infer about developing countries?' → Answer: Many lack technology infrastructure\n\nSTRATEGY USED: Question reading → Skimming for overview → Detailed reading for evidence → Context clues for vocabulary → Inference from surrounding information",
+          "solution": "Combining multiple strategies ensures comprehensive understanding."
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ Choosing an answer that sounds plausible but ISN'T SUPPORTED by the text. ✓ CORRECT: Always find EVIDENCE in the passage to support your answer. Never rely on general knowledge alone."
+        },
+        {
+          "type": "warning",
+          "label": "Common Mistake:",
+          "content": "❌ Spending too much time on one question. ✓ CORRECT: Manage your time. Skip difficult questions and return to them later. This ensures you attempt all questions."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "For inference questions, look for CLUES in the text. The correct answer should logically follow from information given, not be completely new information. Example: If the text says 'Sarah left the party early and seemed upset,' you can infer she was unhappy—but you can't infer 'her boyfriend broke up with her' (no evidence)."
+        },
+        {
+          "type": "tip",
+          "label": "Exam Tip:",
+          "content": "For vocabulary questions, IGNORE your general knowledge of the word. Use ONLY the context in the passage. A word might have multiple meanings—the passage's context determines which meaning is correct."
+        }
+      ],
+      "keyPoints": [
+        "Skimming: Quick reading to get the main idea (1-2 minutes)",
+        "Scanning: Quick search for specific information",
+        "Detailed reading: Careful reading for comprehension and inference",
+        "Inference: Understanding implied meanings by reading between lines",
+        "Vocabulary in context: Using surrounding sentences to determine word meaning",
+        "Context clues: definitions, synonyms, antonyms, examples, cause-effect relationships",
+        "Always find evidence in the text to support your answers",
+        "Read questions first to know what you're looking for",
+        "Manage time effectively during exams—don't get stuck on one question"
+      ]
+    }
+  ],
+  "quiz": {
+    "title": "Unit 1 Quiz: Grammar & Writing Skills",
+    "description": "Test your understanding of tenses, conditionals, passive voice, essay writing, and reading comprehension.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "question": "Which sentence correctly uses the Present Perfect tense?",
+        "options": [
+          "She studies English since 2020.",
+          "She has been studying English since 2020.",
+          "She studies English for many years.",
+          "She is studying English since last year."
+        ],
+        "correct": 1,
+        "explanation": "The correct answer is 'She has been studying English since 2020.' This uses the Present Perfect Continuous tense, which shows an action that started in the past and continues to the present. The word 'since' indicates a starting point, which is used with Present Perfect or Present Perfect Continuous. The other options are incorrect because: Option A uses Simple Present (incorrect with 'since'); Option C uses Simple Present (incorrect with 'for'); Option D uses Present Continuous (incorrect with 'since')."
+      },
+      {
+        "questionNumber": 2,
+        "question": "Rewrite in the passive voice: 'The teacher explains the grammar rules.'",
+        "options": [
+          "The grammar rules explain the teacher.",
+          "The grammar rules are explained by the teacher.",
+          "The teacher is explained by the grammar rules.",
+          "The grammar rules have been explained by the teacher."
+        ],
+        "correct": 1,
+        "explanation": "The correct answer is 'The grammar rules are explained by the teacher.' In the active voice, 'teacher' is the subject performing the action. In the passive voice, 'grammar rules' (the object) becomes the subject. The formation for Present Simple Passive is: am/is/are + past participle. 'Explains' becomes 'are explained.' Option A reverses the meaning. Option C is grammatically wrong. Option D uses Present Perfect Passive, which isn't the correct tense for this sentence."
+      },
+      {
+        "questionNumber": 3,
+        "question": "Which conditional sentence correctly describes an impossible past situation?",
+        "options": [
+          "If she studies hard, she will pass the exam.",
+          "If she studied hard, she would pass the exam.",
+          "If she had studied hard, she would have passed the exam.",
+          "If she studies hard, she passes the exam."
+        ],
+        "correct": 2,
+        "explanation": "The correct answer is 'If she had studied hard, she would have passed the exam.' This is the Third Conditional, used for imaginary past situations that didn't happen. The structure is: If + Past Perfect, would have + Past Participle. Option A is First Conditional (likely future). Option B is Second Conditional (unlikely present/future). Option D is Zero Conditional (general truth). Only Option C correctly expresses an impossible past situation."
+      },
+      {
+        "questionNumber": 4,
+        "question": "In an argumentative essay, what is the purpose of the introduction?",
+        "options": [
+          "To summarize all the main points discussed in the essay.",
+          "To present a clear thesis statement and grab the reader's attention.",
+          "To provide detailed evidence and examples for the argument.",
+          "To restate the thesis and provide final thoughts on the topic."
+        ],
+        "correct": 1,
+        "explanation": "The correct answer is 'To present a clear thesis statement and grab the reader's attention.' The introduction should establish the topic, engage the reader, and present your main argument (thesis statement). Option A is the purpose of the conclusion. Option C is the purpose of body paragraphs. Option D is also the purpose of the conclusion. A strong introduction is crucial for setting up your argument and making your essay compelling."
+      },
+      {
+        "questionNumber": 5,
+        "question": "What is the main advantage of using 'skimming' as a reading strategy?",
+        "options": [
+          "It helps you understand every word in a text accurately.",
+          "It allows you to quickly find specific information like dates or names.",
+          "It gives you a quick overview of the main idea without reading every word.",
+          "It helps you infer the author's deeper meaning and implied messages."
+        ],
+        "correct": 2,
+        "explanation": "The correct answer is 'It gives you a quick overview of the main idea without reading every word.' Skimming is used to rapidly understand the general content and structure of a text. Option A describes detailed reading. Option B describes scanning (searching for specific facts). Option D describes inference and analytical reading. Skimming is most useful when you need to understand what a text is about quickly, typically in 1-2 minutes."
+      }
+    ]
+  }
+}

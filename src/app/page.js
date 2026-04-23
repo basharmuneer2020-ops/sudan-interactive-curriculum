@@ -211,7 +211,13 @@ export default function Home() {
                 href="/secondary/grade-3"
                 className="bg-emerald-500 hover:bg-emerald-400 text-white px-8 py-3.5 rounded-2xl font-bold text-lg transition-all hover:scale-105 hover:shadow-lg hover:shadow-emerald-500/30"
               >
-                جرّب المعامل التفاعلية ←
+                ابدأ الدراسة ←
+              </Link>
+              <Link
+                href="/teachers"
+                className="bg-blue-500/80 hover:bg-blue-500 backdrop-blur-sm text-white px-8 py-3.5 rounded-2xl font-bold text-lg border border-blue-400/30 transition-all hover:scale-105"
+              >
+                🤖 المعلمون الافتراضيون
               </Link>
               <a
                 href="#stages"

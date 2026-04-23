@@ -223,12 +223,11 @@
       "icon": "🏫",
       "color": "from-purple-400 to-indigo-500",
       "ageRange": "15-18 سنة",
-      "notes": "التخصص يبدأ من الصف الثاني: علمي (أحياء/هندسية/حاسوب) وأدبي",
+      "notes": "التخصص يبدأ فقط من الصف الثالث الثانوي. الصفان الأول والثاني منهج موحد. كل طالب يجلس لـ 7 مواد كحد أقصى. المصدر: دليل امتحان الشهادة الثانوية 2025 — وزارة التربية والتعليم / بخت الرضا",
+      "maxSubjectsPerStudent": 7,
       "pathways": {
-        "scientific-bio": { "nameAr": "علمي أحياء", "nameEn": "Scientific - Biology" },
-        "scientific-eng": { "nameAr": "علمي هندسية", "nameEn": "Scientific - Engineering" },
-        "scientific-cs": { "nameAr": "علمي حاسوب", "nameEn": "Scientific - Computer Science" },
-        "literary": { "nameAr": "المسار الأدبي", "nameEn": "Literary Pathway" }
+        "scientific": { "nameAr": "المسار العلمي", "nameEn": "Scientific Pathway", "notes": "المادة السابعة اختيارية: أحياء / حاسوب / هندسية / أسرية / فنون" },
+        "literary": { "nameAr": "المسار الأدبي", "nameEn": "Literary Pathway", "notes": "المادة السابعة اختيارية: دراسات إسلامية / أدب إنجليزي / فرنسية / فنون" }
       },
       "grades": [
         {
@@ -257,27 +256,20 @@
           "nameAr": "الثاني الثانوي",
           "nameEn": "Grade 2 Secondary",
           "slug": "grade-2",
-          "pathway": "split",
-          "subjects": {
-            "common": [
-              { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
-              { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
-              { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
-              { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" }
-            ],
-            "scientific": [
-              { "id": "physics", "nameAr": "الفيزياء", "nameEn": "Physics", "icon": "⚡", "status": "planned" },
-              { "id": "chemistry", "nameAr": "الكيمياء", "nameEn": "Chemistry", "icon": "🧪", "status": "planned" },
-              { "id": "biology", "nameAr": "الأحياء", "nameEn": "Biology", "icon": "🧬", "status": "planned" },
-              { "id": "cs", "nameAr": "الحاسوب", "nameEn": "Computer Science", "icon": "💻", "status": "planned" }
-            ],
-            "literary": [
-              { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" },
-              { "id": "geography", "nameAr": "الجغرافيا", "nameEn": "Geography", "icon": "🌍", "status": "planned" },
-              { "id": "rhetoric", "nameAr": "البلاغة والنقد", "nameEn": "Rhetoric", "icon": "📖", "status": "planned" },
-              { "id": "french", "nameAr": "اللغة الفرنسية", "nameEn": "French", "icon": "🇫🇷", "status": "planned" }
-            ]
-          },
+          "pathway": "common",
+          "notes": "منهج موحد لجميع الطلاب — لا يوجد تخصص في هذا الصف",
+          "subjects": [
+            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
+            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
+            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
+            { "id": "physics", "nameAr": "الفيزياء", "nameEn": "Physics", "icon": "⚡", "status": "planned" },
+            { "id": "chemistry", "nameAr": "الكيمياء", "nameEn": "Chemistry", "icon": "🧪", "status": "planned" },
+            { "id": "biology", "nameAr": "الأحياء", "nameEn": "Biology", "icon": "🧬", "status": "planned" },
+            { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" },
+            { "id": "geography", "nameAr": "الجغرافيا", "nameEn": "Geography", "icon": "🌍", "status": "planned" },
+            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
+            { "id": "cs", "nameAr": "الحاسوب", "nameEn": "Computer Science", "icon": "💻", "status": "planned" }
+          ],
           "booksAvailable": true,
           "bookSources": ["al-amgaad.com", "afedne.com", "sudanexams.com"]
         },
@@ -287,24 +279,42 @@
           "nameEn": "Grade 3 Secondary",
           "slug": "grade-3",
           "pathway": "split",
+          "notes": "بداية التخصص — 7 مواد كحد أقصى لكل طالب (حسب دليل الوزارة 2025)",
           "subjects": {
             "common": [
               { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "has_lab" },
               { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
-              { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" }
+              { "id": "religious", "nameAr": "التربية الدينية", "nameEn": "Religious Education", "icon": "🕌", "status": "planned", "notes": "تربية إسلامية أو تربية مسيحية" }
             ],
-            "scientific": [
-              { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "📐", "status": "has_lab" },
+            "scientific-fixed": [
+              { "id": "math-sp", "nameAr": "الرياضيات المتخصصة", "nameEn": "Specialized Mathematics", "icon": "📐", "status": "has_lab", "notes": "جزء 1 وجزء 2" },
               { "id": "physics", "nameAr": "الفيزياء", "nameEn": "Physics", "icon": "⚡", "status": "has_lab" },
-              { "id": "chemistry", "nameAr": "الكيمياء", "nameEn": "Chemistry", "icon": "🧪", "status": "has_lab" },
-              { "id": "biology", "nameAr": "الأحياء", "nameEn": "Biology", "icon": "🧬", "status": "has_lab" }
+              { "id": "chemistry", "nameAr": "الكيمياء", "nameEn": "Chemistry", "icon": "🧪", "status": "has_lab" }
             ],
-            "literary": [
-              { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
-              { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" },
-              { "id": "geography", "nameAr": "الجغرافيا", "nameEn": "Geography", "icon": "🌍", "status": "planned" },
-              { "id": "eng_lit", "nameAr": "الأدب الإنجليزي", "nameEn": "English Literature", "icon": "📚", "status": "planned" }
-            ]
+            "scientific-7th": {
+              "notes": "المادة السابعة — يختار الطالب مادة واحدة فقط",
+              "options": [
+                { "id": "biology", "nameAr": "الأحياء", "nameEn": "Biology", "icon": "🧬", "status": "has_lab" },
+                { "id": "cs", "nameAr": "علوم الحاسوب", "nameEn": "Computer Science", "icon": "💻", "status": "planned" },
+                { "id": "engineering", "nameAr": "العلوم الهندسية", "nameEn": "Engineering Sciences", "icon": "⚙️", "status": "planned" },
+                { "id": "home-science", "nameAr": "العلوم الأسرية", "nameEn": "Home Science", "icon": "🏠", "status": "planned" },
+                { "id": "arts", "nameAr": "الفنون والتصميم", "nameEn": "Arts & Design", "icon": "🎨", "status": "planned" }
+              ]
+            },
+            "literary-fixed": [
+              { "id": "math-basic", "nameAr": "الرياضيات الأساسية", "nameEn": "Basic Mathematics", "icon": "🔢", "status": "planned" },
+              { "id": "geography-env", "nameAr": "الجغرافيا والدراسات البيئية", "nameEn": "Geography & Environmental Studies", "icon": "🌍", "status": "planned" },
+              { "id": "history", "nameAr": "التاريخ", "nameEn": "History", "icon": "📜", "status": "planned" }
+            ],
+            "literary-7th": {
+              "notes": "المادة السابعة — يختار الطالب مادة واحدة فقط",
+              "options": [
+                { "id": "islamic-studies", "nameAr": "الدراسات الإسلامية", "nameEn": "Islamic Studies", "icon": "📖", "status": "planned" },
+                { "id": "eng-lit", "nameAr": "الأدب الإنجليزي", "nameEn": "English Literature", "icon": "📚", "status": "planned" },
+                { "id": "french", "nameAr": "اللغة الفرنسية", "nameEn": "French", "icon": "🇫🇷", "status": "planned" },
+                { "id": "arts", "nameAr": "الفنون والتصميم", "nameEn": "Arts & Design", "icon": "🎨", "status": "planned" }
+              ]
+            }
           },
           "booksAvailable": true,
           "bookSources": ["al-amgaad.com", "afedne.com", "sudanexams.com", "alktab24.com"]
