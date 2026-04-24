@@ -10,7 +10,7 @@ export function getAllAgents() {
 
 export function getAgentsByTrack(track) {
   const trackMap = {
-    common: ['islamic-education', 'arabic-language', 'english-language'],
+    common: ['islamic-education', 'arabic', 'english'],
     'scientific-fixed': ['specialized-mathematics', 'physics', 'chemistry'],
     'literary-fixed': ['basic-mathematics', 'geography', 'history'],
     'scientific-7th': ['biology', 'computer-science', 'engineering-sciences', 'home-science', 'arts-and-design'],
