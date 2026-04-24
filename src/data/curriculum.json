@@ -24,23 +24,127 @@
       "icon": "🌱",
       "color": "from-pink-400 to-rose-500",
       "ageRange": "4-6 سنوات",
+      "structure": "مستويان: KG1 + KG2 (وفق سلم 2-6-3-3)",
+      "curriculumDraftVersion": "2.0",
+      "curriculumDraftDate": "2026-04-24",
+      "curriculumDraftFiles": {
+        "overview": "منهج_الروضة_السوداني_مسودة_1.0.docx",
+        "fullBySubject": "منهج_الروضة_الشامل_2.0_جميع_المواد.docx"
+      },
+      "subjectOutcomes": {
+        "arabic": {
+          "kg1": ["يميز 20 حرفًا صوتًا وشكلًا", "يتحدث بجملة 4-6 كلمات", "يستمع لقصة 10 دقائق", "يغني 10 أناشيد حروف", "يمسك القلم صحيحًا"],
+          "kg2": ["يقرأ 50 كلمة مألوفة", "يكتب اسمه الثلاثي و28 حرفًا", "يميز الحركات والمدود", "يسرد قصة من 5 جمل", "يحفظ 5 قصائد قصيرة"]
+        },
+        "english": {
+          "kg2": ["يتعرف على 26 حرفًا", "يعد من 1 إلى 20", "يميز 8 ألوان", "يسمي أجزاء الجسم", "يتبع 15 تعليمة صفية"]
+        },
+        "math": {
+          "kg1": ["يعد من 1 إلى 10", "يتعرف على 4 أشكال هندسية", "يفرز حسب خاصية واحدة", "يفهم المفاهيم المكانية", "يميز أيام الأسبوع"],
+          "kg2": ["يعد من 1 إلى 20", "يجمع ويطرح حسيًا حتى 10", "يتعرف على 5 أشكال", "يقيس أطوال بوحدات غير قياسية", "يقرأ الساعات الكاملة"]
+        },
+        "islamic": {
+          "kg1": ["يحفظ 6 سور (الفاتحة-النصر)", "يحفظ 5 أدعية", "يعرف أركان الإسلام قصصيًا", "يعرف النبي ﷺ وأبويه", "يتصرف بآداب السلام والطعام"],
+          "kg2": ["يحفظ 12 سورة", "يعرف قصص 6 أنبياء", "يحفظ 10 أدعية", "يتخلق بـ8 قيم", "يؤدي حركات الصلاة صحيحًا"]
+        },
+        "science": {
+          "kg1": ["يسمي أجزاء جسمه", "يميز 10 حيوانات سودانية", "يتتبع نمو بذرة", "يميز 5 أشجار سودانية", "يفهم الفرق بين الشمس والقمر"],
+          "kg2": ["يسمي 3 أعضاء داخلية", "يربط الفصول بالنشاط", "يفهم دورة الماء", "يجري 5 تجارب", "يتبنى عادات صحية وبيئية"]
+        },
+        "social": {
+          "kg1": ["يعرف أسرته الممتدة", "يميز 5 مهن", "يتعرف على علم السودان", "يعرف مدينتين رئيسيتين", "يشارك في نشاط تراثي"],
+          "kg2": ["يسمي أقاليم السودان الستة", "يعرف 5 مدن رئيسية", "يحفظ النشيد الوطني كاملًا", "يعرف 3 محطات تاريخية", "يتحلى بسلوك المواطنة"]
+        },
+        "art": {
+          "kg1": ["يميز 6 ألوان", "يستخدم المقص والصلصال", "ينتج 20 عملًا فنيًا", "يعبر بالرسم عن قصة"],
+          "kg2": ["يميز 10 ألوان بدرجاتها", "ينتج 30 عملًا فنيًا", "يجرب 8 تقنيات", "يعرف 3 عناصر فنية سودانية"]
+        },
+        "health": {
+          "both": ["يجري ويقفز ويتوازن", "يمارس النظافة تلقائيًا", "يفرق بين الأكل الصحي وغيره", "يعرف قواعد المرور والسلامة", "ينام ساعات كافية"]
+        }
+      },
+      "totalDigitalUnitsPlanned": 160,
+      "codingSystem": "KG-L{level}-{subject}-U{unit}-{activityType}-{seq}",
+      "activityTypes": ["STORY", "GAME", "SONG", "LAB", "QUIZ"],
+      "learningDomains": [
+        { "id": "lang", "nameAr": "اللغة العربية والتواصل", "nameEn": "Arabic & Communication", "icon": "📝" },
+        { "id": "math", "nameAr": "الرياضيات والتفكير المنطقي", "nameEn": "Math & Logic", "icon": "🔢" },
+        { "id": "islamic", "nameAr": "التربية الإسلامية والقيم", "nameEn": "Islamic & Values", "icon": "🕌" },
+        { "id": "science", "nameAr": "العلوم والاستكشاف البيئي", "nameEn": "Science & Environment", "icon": "🔬" },
+        { "id": "social", "nameAr": "التربية الاجتماعية والهوية", "nameEn": "Social & Identity", "icon": "🇸🇩" },
+        { "id": "arts", "nameAr": "الفنون والإبداع", "nameEn": "Arts & Creativity", "icon": "🎨" },
+        { "id": "health", "nameAr": "الصحة والحركة", "nameEn": "Health & Movement", "icon": "🏃" }
+      ],
       "grades": [
         {
-          "id": "kg",
-          "nameAr": "الروضة",
-          "nameEn": "KG",
-          "slug": "kg",
+          "id": "kg1",
+          "nameAr": "الروضة - المستوى الأول",
+          "nameEn": "KG1",
+          "slug": "kg1",
+          "ageRange": "4-5 سنوات",
+          "weeks": 32,
           "subjects": [
-            { "id": "arabic", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "planned" },
-            { "id": "english", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "planned" },
-            { "id": "math", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "planned" },
-            { "id": "islamic", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "planned" },
-            { "id": "art", "nameAr": "التربية الفنية", "nameEn": "Art Education", "icon": "🎨", "status": "planned" }
+            { "id": "arabic", "code": "KG-L1-ARA", "file": "docs/library/kindergarten/kg1/KG-L1-ARA.pdf", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "draft-v1" },
+            { "id": "math", "code": "KG-L1-MAT", "file": "docs/library/kindergarten/kg1/KG-L1-MAT.pdf", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "draft-v1" },
+            { "id": "islamic", "code": "KG-L1-ISL", "file": "docs/library/kindergarten/kg1/KG-L1-ISL.pdf", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "draft-v1" },
+            { "id": "science", "code": "KG-L1-SCI", "file": "docs/library/kindergarten/kg1/KG-L1-SCI.pdf", "nameAr": "العلوم والبيئة", "nameEn": "Science & Environment", "icon": "🔬", "status": "draft-v1" },
+            { "id": "social", "code": "KG-L1-SOC", "file": "docs/library/kindergarten/kg1/KG-L1-SOC.pdf", "nameAr": "الاجتماعيات والهوية", "nameEn": "Social Studies", "icon": "🇸🇩", "status": "draft-v1" },
+            { "id": "art", "code": "KG-L1-ART", "file": "docs/library/kindergarten/kg1/KG-L1-ART.pdf", "nameAr": "التربية الفنية", "nameEn": "Art Education", "icon": "🎨", "status": "draft-v1" },
+            { "id": "health", "code": "KG-L1-PED", "file": "docs/library/kindergarten/kg1/KG-L1-PED.pdf", "nameAr": "الصحة والحركة", "nameEn": "Health & Movement", "icon": "🏃", "status": "draft-v1" }
           ],
-          "booksAvailable": false,
-          "notes": "المعلومات التفصيلية عن منهج الروضة تحتاج تأكيد من وزارة التربية"
+          "units": [
+            { "id": "KG-L1-U01", "weeks": "1-4", "titleAr": "أنا والروضة", "focus": "اسمي، جسمي، حواسي، زملائي" },
+            { "id": "KG-L1-U02", "weeks": "5-8", "titleAr": "أسرتي وبيتي", "focus": "أفراد الأسرة، غرف البيت، احترام الكبير" },
+            { "id": "KG-L1-U03", "weeks": "9-12", "titleAr": "غذائي وصحتي", "focus": "الفواكه، الخضار، النظافة الشخصية" },
+            { "id": "KG-L1-U04", "weeks": "13-16", "titleAr": "ديني الإسلام", "focus": "الفاتحة، الإخلاص، الصلاة، الله خالقي" },
+            { "id": "KG-L1-U05", "weeks": "17-20", "titleAr": "حيوانات بلدي", "focus": "حيوانات السودان البرية والأليفة" },
+            { "id": "KG-L1-U06", "weeks": "21-24", "titleAr": "النبات والنيل", "focus": "البذرة، الشجرة، النيل" },
+            { "id": "KG-L1-U07", "weeks": "25-28", "titleAr": "الفصول والجو", "focus": "الخريف، الشتاء، الصيف، الدرت" },
+            { "id": "KG-L1-U08", "weeks": "29-32", "titleAr": "المهن في بلدي", "focus": "الفلاح، المعلم، الطبيب، الخباز" }
+          ],
+          "booksAvailable": true,
+          "filesFormat": "teacher-curriculum (draft-v1)"
+        },
+        {
+          "id": "kg2",
+          "nameAr": "الروضة - المستوى الثاني",
+          "nameEn": "KG2",
+          "slug": "kg2",
+          "ageRange": "5-6 سنوات",
+          "weeks": 32,
+          "subjects": [
+            { "id": "arabic", "code": "KG-L2-ARA", "file": "docs/library/kindergarten/kg2/KG-L2-ARA.pdf", "nameAr": "اللغة العربية", "nameEn": "Arabic", "icon": "📝", "status": "draft-v1" },
+            { "id": "english", "code": "KG-L2-ENG", "file": "docs/library/kindergarten/kg2/KG-L2-ENG.pdf", "nameAr": "اللغة الإنجليزية", "nameEn": "English", "icon": "🔤", "status": "draft-v1" },
+            { "id": "math", "code": "KG-L2-MAT", "file": "docs/library/kindergarten/kg2/KG-L2-MAT.pdf", "nameAr": "الرياضيات", "nameEn": "Mathematics", "icon": "🔢", "status": "draft-v1" },
+            { "id": "islamic", "code": "KG-L2-ISL", "file": "docs/library/kindergarten/kg2/KG-L2-ISL.pdf", "nameAr": "التربية الإسلامية", "nameEn": "Islamic Education", "icon": "🕌", "status": "draft-v1" },
+            { "id": "science", "code": "KG-L2-SCI", "file": "docs/library/kindergarten/kg2/KG-L2-SCI.pdf", "nameAr": "العلوم والبيئة", "nameEn": "Science & Environment", "icon": "🔬", "status": "draft-v1" },
+            { "id": "social", "code": "KG-L2-SOC", "file": "docs/library/kindergarten/kg2/KG-L2-SOC.pdf", "nameAr": "الاجتماعيات والوطن", "nameEn": "Social & Nation", "icon": "🇸🇩", "status": "draft-v1" },
+            { "id": "art", "code": "KG-L2-ART", "file": "docs/library/kindergarten/kg2/KG-L2-ART.pdf", "nameAr": "التربية الفنية", "nameEn": "Art Education", "icon": "🎨", "status": "draft-v1" },
+            { "id": "health", "code": "KG-L2-PED", "file": "docs/library/kindergarten/kg2/KG-L2-PED.pdf", "nameAr": "الصحة والحركة", "nameEn": "Health & Movement", "icon": "🏃", "status": "draft-v1" }
+          ],
+          "units": [
+            { "id": "KG-L2-U01", "weeks": "1-4", "titleAr": "مرحبًا بالمدرسة الكبيرة", "focus": "الحروف أ-ث، الأعداد 1-5، المشاعر" },
+            { "id": "KG-L2-U02", "weeks": "5-8", "titleAr": "بيتي وجيراني", "focus": "الحروف ج-ذ، الأعداد 6-10" },
+            { "id": "KG-L2-U03", "weeks": "9-12", "titleAr": "عالم الأرقام", "focus": "الحروف ر-ص، الأعداد 11-15، الأشكال" },
+            { "id": "KG-L2-U04", "weeks": "13-16", "titleAr": "ديني وقيمي", "focus": "الحروف ض-ظ، أركان الإسلام، الصدق" },
+            { "id": "KG-L2-U05", "weeks": "17-20", "titleAr": "جسمي وصحتي", "focus": "الحروف ع-ف، الأعداد 16-20" },
+            { "id": "KG-L2-U06", "weeks": "21-24", "titleAr": "وطني السودان", "focus": "الحروف ق-م، علم السودان، النيل، الخرطوم" },
+            { "id": "KG-L2-U07", "weeks": "25-28", "titleAr": "عالم الطبيعة", "focus": "الحروف ن-ي، الفصول، الحيوانات، النبات" },
+            { "id": "KG-L2-U08", "weeks": "29-32", "titleAr": "مستعد للمدرسة", "focus": "مراجعة، قراءة كلمات، كتابة الاسم" }
+          ],
+          "readinessIndicators": [
+            "يكتب اسمه الثلاثي",
+            "يقرأ 20 كلمة مألوفة",
+            "يعد حتى 20",
+            "يحفظ 10 سور قصار و5 أدعية",
+            "يؤدي حركات الصلاة",
+            "يعبر عن مشاعره بكلمات"
+          ],
+          "booksAvailable": true,
+          "filesFormat": "teacher-curriculum (draft-v1)"
         }
-      ]
+      ],
+      "notes": "مسودة مرجعية 1.0 أُعدت بتاريخ 2026-04-24 بالاستناد إلى مصادر وزارة التربية ومواقع المنهج السوداني وأفضل ممارسات رياض الأطفال العربية. تحتاج اعتماد مجتمعي من مختصي الطفولة المبكرة قبل الإصدار 2.0."
     },
     "primary": {
       "id": "primary",
