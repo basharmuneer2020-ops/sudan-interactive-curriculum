@@ -1,46 +1,119 @@
-# dependencies
+# ═══════════════════════════════════════════════════════════
+# Dependencies
+# ═══════════════════════════════════════════════════════════
 /node_modules
 /.pnp
 .pnp.js
 
-# testing
-/coverage
-
-# next.js
+# ═══════════════════════════════════════════════════════════
+# Build outputs
+# ═══════════════════════════════════════════════════════════
 /.next/
 /out/
-
-# production
 /build
+/dist
+/coverage
 
-# misc
-.DS_Store
-*.pem
-Thumbs.db
+# ═══════════════════════════════════════════════════════════
+# Environment (never commit secrets!)
+# ═══════════════════════════════════════════════════════════
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+!.env.example
 
-# debug
+# ═══════════════════════════════════════════════════════════
+# Logs & debug
+# ═══════════════════════════════════════════════════════════
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
 
-# local env files
-.env*.local
-.env
-
-# vercel
+# ═══════════════════════════════════════════════════════════
+# Deployment platforms
+# ═══════════════════════════════════════════════════════════
 .vercel
+.netlify
 
-# IDE
+# ═══════════════════════════════════════════════════════════
+# IDE & editors
+# ═══════════════════════════════════════════════════════════
 .vscode/
 .idea/
 *.swp
 *.swo
+*.swn
+*~
+*.sublime-project
+*.sublime-workspace
 
-# OS
+# ═══════════════════════════════════════════════════════════
+# macOS
+# ═══════════════════════════════════════════════════════════
 .DS_Store
 .DS_Store?
+.AppleDouble
+.LSOverride
 ._*
 .Spotlight-V100
 .Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+Icon
 
-# Library PDFs (stored locally, not on GitHub)
+# ═══════════════════════════════════════════════════════════
+# Windows
+# ═══════════════════════════════════════════════════════════
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ═══════════════════════════════════════════════════════════
+# Linux
+# ═══════════════════════════════════════════════════════════
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# ═══════════════════════════════════════════════════════════
+# Security & keys (never commit!)
+# ═══════════════════════════════════════════════════════════
+*.pem
+*.key
+*.p12
+*.pfx
+.secrets/
+
+# ═══════════════════════════════════════════════════════════
+# Temp & cache
+# ═══════════════════════════════════════════════════════════
+tmp/
+temp/
+.cache/
+.turbo/
+.eslintcache
+
+# ═══════════════════════════════════════════════════════════
+# Office & Writing tool artifacts
+# ═══════════════════════════════════════════════════════════
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.part
+*.crdownload
+
+# ═══════════════════════════════════════════════════════════
+# Project-specific
+# ═══════════════════════════════════════════════════════════
+# Backup PDFs outside LFS flow
+/backup-pdfs/
+# Local testing scratchpad
+/scratch/

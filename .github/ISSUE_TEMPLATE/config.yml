@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 دليل المساهمة
+    url: https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/blob/main/CONTRIBUTING.md
+    about: اقرأ دليل المساهمة أولاً — فيه كل ما تحتاجه للبدء
+  - name: 🗺️ خريطة المشروع
+    url: https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/blob/main/PROJECT_MAP.md
+    about: نقطة البداية لأي مطور جديد — بنية المشروع ونقاط الدخول
+  - name: 💬 سؤال عام أو نقاش
+    url: https://github.com/basharmuneer2020-ops/sudan-interactive-curriculum/discussions
+    about: للأسئلة العامة أو النقاشات، استخدم GitHub Discussions بدلاً من Issues
