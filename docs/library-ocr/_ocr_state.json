@@ -1,0 +1,314 @@
+{
+  "books": {
+    "secondary/grade-11/SEC-G11-MAT.pdf": {
+      "pages_done": 277,
+      "finished": true,
+      "total_pages": 277
+    },
+    "secondary/grade-11/CI PL FOR STOCK MACHINE AND ALUMINUM PIPE-CFR-FINAL -260416-removed-edited.pdf": {
+      "pages_done": 1,
+      "finished": true,
+      "total_pages": 1
+    },
+    "secondary/grade-11/CI PL FOR STOCK MACHINE AND ALUMINUM PIPE-CFR-FINAL -260416-removed.pdf": {
+      "pages_done": 1,
+      "finished": true,
+      "total_pages": 1
+    },
+    "secondary/grade-11/SEC-G11-AGR.pdf": {
+      "pages_done": 120,
+      "finished": true,
+      "total_pages": 120
+    },
+    "secondary/grade-11/SEC-G11-ARA-BLG.pdf": {
+      "pages_done": 125,
+      "finished": true,
+      "total_pages": 125
+    },
+    "secondary/grade-11/SEC-G11-ARA.pdf": {
+      "pages_done": 140,
+      "finished": true,
+      "total_pages": 140
+    },
+    "secondary/grade-11/SEC-G11-COM.pdf": {
+      "pages_done": 192,
+      "finished": true,
+      "total_pages": 192
+    },
+    "secondary/grade-11/SEC-G11-CSC.pdf": {
+      "pages_done": 73,
+      "finished": true,
+      "total_pages": 73
+    },
+    "secondary/grade-11/SEC-G11-ENG.pdf": {
+      "pages_done": 185,
+      "finished": true,
+      "total_pages": 185
+    },
+    "secondary/grade-11/SEC-G11-ESC.pdf": {
+      "pages_done": 180,
+      "finished": true,
+      "total_pages": 180
+    },
+    "secondary/grade-11/SEC-G11-ISL.pdf": {
+      "pages_done": 178,
+      "finished": true,
+      "total_pages": 178
+    },
+    "secondary/grade-11/SEC-G11-MIL.pdf": {
+      "pages_done": 95,
+      "finished": true,
+      "total_pages": 95
+    },
+    "secondary/grade-11/SEC-G11-QRN.pdf": {
+      "pages_done": 190,
+      "finished": true,
+      "total_pages": 190
+    },
+    "secondary/grade-12/SEC-G12-ARA-BLG.pdf": {
+      "pages_done": 102,
+      "finished": true,
+      "total_pages": 102
+    },
+    "secondary/grade-12/SEC-G12-ARA.pdf": {
+      "pages_done": 208,
+      "finished": true,
+      "total_pages": 208
+    },
+    "secondary/grade-12/SEC-G12-CHE.pdf": {
+      "pages_done": 408,
+      "finished": true,
+      "total_pages": 408
+    },
+    "secondary/grade-12/SEC-G12-COM.pdf": {
+      "pages_done": 157,
+      "finished": true,
+      "total_pages": 157
+    },
+    "secondary/grade-12/SEC-G12-CSC.pdf": {
+      "pages_done": 185,
+      "finished": true,
+      "total_pages": 185
+    },
+    "secondary/grade-12/SEC-G12-ENG.pdf": {
+      "pages_done": 177,
+      "finished": true,
+      "total_pages": 177
+    },
+    "secondary/grade-12/SEC-G12-FRN.pdf": {
+      "pages_done": 88,
+      "finished": true,
+      "total_pages": 88
+    },
+    "secondary/grade-12/SEC-G12-ISL-2.pdf": {
+      "pages_done": 180,
+      "finished": true,
+      "total_pages": 180
+    },
+    "secondary/grade-12/SEC-G12-MAT-SP1.pdf": {
+      "pages_done": 207,
+      "finished": true,
+      "total_pages": 207
+    },
+    "secondary/grade-12/SEC-G12-MAT-SP2.pdf": {
+      "pages_done": 180,
+      "finished": true,
+      "total_pages": 180
+    },
+    "secondary/grade-12/SEC-G12-MAT.pdf": {
+      "pages_done": 161,
+      "finished": true,
+      "total_pages": 161
+    },
+    "secondary/grade-12/SEC-G12-PED.pdf": {
+      "pages_done": 143,
+      "finished": true,
+      "total_pages": 143
+    },
+    "secondary/grade-12/SEC-G12-PHY.pdf": {
+      "pages_done": 217,
+      "finished": true,
+      "total_pages": 217
+    },
+    "secondary/grade-10/SEC-G10-ARA-NAH.pdf": {
+      "pages_done": 127,
+      "finished": true,
+      "total_pages": 127
+    },
+    "secondary/grade-10/SEC-G10-ARA.pdf": {
+      "pages_done": 195,
+      "finished": true,
+      "total_pages": 195
+    },
+    "secondary/grade-10/SEC-G10-CHE.pdf": {
+      "pages_done": 119,
+      "finished": true,
+      "total_pages": 119
+    },
+    "secondary/grade-10/SEC-G10-CSC.pdf": {
+      "pages_done": 129,
+      "finished": true,
+      "total_pages": 129
+    },
+    "secondary/grade-10/SEC-G10-ENG.pdf": {
+      "pages_done": 225,
+      "finished": true,
+      "total_pages": 225
+    },
+    "secondary/grade-10/SEC-G10-ESC.pdf": {
+      "pages_done": 217,
+      "finished": true,
+      "total_pages": 217
+    },
+    "secondary/grade-10/SEC-G10-ISL.pdf": {
+      "pages_done": 180,
+      "finished": true,
+      "total_pages": 180
+    },
+    "secondary/grade-10/SEC-G10-MAT.pdf": {
+      "pages_done": 267,
+      "finished": true,
+      "total_pages": 267
+    },
+    "secondary/grade-10/SEC-G10-MIL.pdf": {
+      "pages_done": 83,
+      "finished": true,
+      "total_pages": 83
+    },
+    "secondary/grade-10/SEC-G10-PHY.pdf": {
+      "pages_done": 89,
+      "finished": true,
+      "total_pages": 89
+    },
+    "secondary/grade-10/SEC-G10-QRN.pdf": {
+      "pages_done": 160,
+      "finished": true,
+      "total_pages": 160
+    },
+    "middle/grade-7/MID-G7-ENG.pdf": {
+      "pages_done": 66,
+      "finished": true,
+      "total_pages": 66
+    },
+    "middle/grade-8/MID-G8-ENG-ACT.pdf": {
+      "pages_done": 128,
+      "finished": true,
+      "total_pages": 128
+    },
+    "middle/grade-8/MID-G8-ENG.pdf": {
+      "pages_done": 107,
+      "finished": true,
+      "total_pages": 107
+    },
+    "middle/grade-8/MID-G8-GEO.pdf": {
+      "pages_done": 126,
+      "finished": true,
+      "total_pages": 126
+    },
+    "middle/grade-9/MID-G9-ARA.pdf": {
+      "pages_done": 236,
+      "finished": true,
+      "total_pages": 236
+    },
+    "middle/grade-9/MID-G9-ENG.pdf": {
+      "pages_done": 72,
+      "finished": true,
+      "total_pages": 72
+    },
+    "middle/grade-9/MID-G9-MAT.pdf": {
+      "pages_done": 304,
+      "finished": true,
+      "total_pages": 304
+    },
+    "middle/grade-9/MID-G9-SCI.pdf": {
+      "pages_done": 193,
+      "finished": true,
+      "total_pages": 193
+    },
+    "primary/grade-1/PRI-G1-ENG.pdf": {
+      "pages_done": 94,
+      "finished": true,
+      "total_pages": 94
+    },
+    "primary/grade-2/PRI-G2-ENG.pdf": {
+      "pages_done": 95,
+      "finished": true,
+      "total_pages": 95
+    },
+    "primary/grade-2/PRI-G2-MAT.pdf": {
+      "pages_done": 76,
+      "finished": true,
+      "total_pages": 76
+    },
+    "primary/grade-3/PRI-G3-ENG-ACT.pdf": {
+      "pages_done": 200,
+      "finished": true,
+      "total_pages": 200
+    },
+    "primary/grade-3/PRI-G3-ENG.pdf": {
+      "pages_done": 127,
+      "finished": true,
+      "total_pages": 127
+    },
+    "primary/grade-4/PRI-G4-ENG-ACT.pdf": {
+      "pages_done": 200,
+      "finished": true,
+      "total_pages": 200
+    },
+    "primary/grade-4/PRI-G4-ENG.pdf": {
+      "pages_done": 127,
+      "finished": true,
+      "total_pages": 127
+    },
+    "primary/grade-5/PRI-G5-ENG-ACT.pdf": {
+      "pages_done": 110,
+      "finished": true,
+      "total_pages": 110
+    },
+    "primary/grade-5/PRI-G5-ENG.pdf": {
+      "pages_done": 119,
+      "finished": true,
+      "total_pages": 119
+    },
+    "primary/grade-6/PRI-G6-ARA.pdf": {
+      "pages_done": 132,
+      "finished": true,
+      "total_pages": 132
+    },
+    "primary/grade-6/PRI-G6-CSC.pdf": {
+      "pages_done": 56,
+      "finished": true,
+      "total_pages": 56
+    },
+    "primary/grade-6/PRI-G6-ENG-ACT.pdf": {
+      "pages_done": 110,
+      "finished": true,
+      "total_pages": 110
+    },
+    "primary/grade-6/PRI-G6-ENG.pdf": {
+      "pages_done": 119,
+      "finished": true,
+      "total_pages": 119
+    },
+    "primary/grade-6/PRI-G6-GEO.pdf": {
+      "pages_done": 68,
+      "finished": true,
+      "total_pages": 68
+    },
+    "primary/grade-6/PRI-G6-HIS.pdf": {
+      "pages_done": 85,
+      "finished": true,
+      "total_pages": 85
+    },
+    "primary/grade-6/PRI-G6-MAT.pdf": {
+      "pages_done": 181,
+      "finished": true,
+      "total_pages": 181
+    },
+    "primary/grade-6/PRI-G6-SCI.pdf": {
+      "pages_done": 93,
+      "finished": true,
+      "total_pages": 93
+    }
+  }
+}
