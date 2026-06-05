@@ -117,3 +117,7 @@ temp/
 /backup-pdfs/
 # Local testing scratchpad
 /scratch/
+
+# Python leftovers (SIC-0004)
+__pycache__/
+*.pyc
