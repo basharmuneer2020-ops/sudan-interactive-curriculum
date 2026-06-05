@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "file": "SEC-G10-ISL.pdf",
+    "code": "SEC-G10-ISL",
+    "stage": "SEC",
+    "grade": "G10",
+    "subject": "ISL",
+    "variant": null,
+    "page_count": 180,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 799,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " \n\n\n\u0001\u0002\u0003\u0004\u0005\u0006 \b\t\u0004\u0005\u0006 \n\u0006 \u0001\u000b\f\n\u0001\u0002\u0003\u0004\u0005\u0006\u0007\n\u0001\b\t\n \f\n\r\n\u000e\u0004\n \u0002\u0003\u0004\u0005\u0006\u0007\b\t \n\u0003\u000b\f\u0006\u0007\b \r\f\b\u000e\t\n\u0001\u000f\u0004\u0010\u0003\u0011\t\n \u0012\u0013\u0010\t\n\u0004 \u0014\u0015\u0016\u0017\u0006\u0018\t \u0019\u0006\u0004\u001a\t\n \u001b\u001c\u0003\u0006\t\n\u000f\n \u0010\u0011\f\u0007\b \u0012\u0013\u000b\n–\n\u0001\u0002\u0003\u0004\n\u0001\u0005\n\u0007\u0003\b\t\n\u0003\u0004\n\t\n\u0003\u0004 \n\u0001\u000b\f\r\b\n \u0002\u0003\u0004\u0005\u0006 \u0002\u0007\b\t\n\n\u000b\f\r\u000e هـ\n\u0010\u000f\u000f\f\n\u0011\n\u0019\u0018\u0017\u0003\u0017 \u0002\u0016\t\u0015 \u0001\u0014\u000f\u000b\u0013\u0012 \n\u0011 \u0003\u0002\n\u0010\u000f\u000e \u0003\u0002\r\u0004\n\f \u0002\u000b\n\t\b\u0007\u0006 \u0004\u0003\u0002\u0001\n \u001f \u0003\u0002\u0014\u0010\u0001\u0004\u001e \n\u0011 \u0003\u001d\u001c\b\u0014\u001b\u001a \n:\n\b\f\u000b\u0004\n\t \b\u0007\u0006\u0005\u0004\u0003\u0002 \n/ \n\u0011\u0014\u0011\u0006 \u0013\u0012\u0011\n\u0010 \u000f\n\u0007\u000e\n–\n   \u001d\n\u0011\u001c\u0016 \u001b\u001a \u0006\u0002\u0011\n\u0010 \b\u0019\u000b\u0018\u0011\u0017\u0016\n\b\u001e\u000b\u0004\n\t \n/ \n\u0013 \u0006 \b\u0007 \n\u000b! \u0013 \u0006 \b\u0007\u0011\n\u001d\u0006  \u001f\u0017\u0002  \n–\n   # \u0017\u0002 \u0004\u0002 \u0003\"\n\b\u0007\u0006\u0005\u0004\u0003\u0002 \n/ \n\u0013\u0012\u0011\n\u0010 \u0011\u0017\u0002'&$ \u0013%$     \n–\n   \u001d\n\u0011\u001c\u0016 \u001b\u001a \u0006\u0002\u0011\n\u0010 \b\u0019\u000b\u0018\u0011\u0017\u0016\n\b\u001e\u000b\u0004\n\t \n/ \n\u0011\u0014\u0011\u0006 \u0013 \u0006 \b\u0007\u0002\u0014\u0017\u001a  \n\u000b\n\u0010  \n–\n   \u001d\n\u0011\u001c\u0016 \u001b\u001a \u0006\u0002\u0011\n\u0010 \b\u0019\n\u000b\u0018\u0011\u0017\u0016\n\b\u001e\u000b\u0004\n\t",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "Doc1.pdf",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Tarbya Islamya 3 Thanwi.pdf",
+      "page": 2
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 97,
+    "suspicious_chars": 167,
+    "garble_ratio": 1.722,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

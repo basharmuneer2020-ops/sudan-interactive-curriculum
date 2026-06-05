@@ -1,0 +1,2418 @@
+[
+  {
+    "file": "KG-L1-ARA.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ اللغة العربية ـ المستوى األول (KG1)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي اإلقليمي.",
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg1/KG-L1-ARA.pdf",
+    "stage": "kindergarten",
+    "grade": "kg1"
+  },
+  {
+    "file": "KG-L1-ART.pdf",
+    "total_pages": 11,
+    "pages_checked": 11,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ التربية الفنية واإلبداع ـ المستوى األول (KG1)",
+        "count": 11
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg1/KG-L1-ART.pdf",
+    "stage": "kindergarten",
+    "grade": "kg1"
+  },
+  {
+    "file": "KG-L1-ISL.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ التربية اإلسالمية ـ المستوى األول (KG1)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg1/KG-L1-ISL.pdf",
+    "stage": "kindergarten",
+    "grade": "kg1"
+  },
+  {
+    "file": "KG-L1-MAT.pdf",
+    "total_pages": 11,
+    "pages_checked": 11,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ الرياضيات ـ المستوى األول (KG1)",
+        "count": 11
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg1/KG-L1-MAT.pdf",
+    "stage": "kindergarten",
+    "grade": "kg1"
+  },
+  {
+    "file": "KG-L1-PED.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ الصحة والحركة ـ المستوى األول (KG1)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg1/KG-L1-PED.pdf",
+    "stage": "kindergarten",
+    "grade": "kg1"
+  },
+  {
+    "file": "KG-L1-SCI.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ العلوم واالستكشاف البيئي ـ المستوى األول (KG1)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg1/KG-L1-SCI.pdf",
+    "stage": "kindergarten",
+    "grade": "kg1"
+  },
+  {
+    "file": "KG-L1-SOC.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ التربية االجتماعية والهوية ـ المستوى األول (KG1)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير",
+      "مركز الدراسات السودانية."
+    ],
+    "path": "kindergarten/kg1/KG-L1-SOC.pdf",
+    "stage": "kindergarten",
+    "grade": "kg1"
+  },
+  {
+    "file": "KG-L2-ARA.pdf",
+    "total_pages": 11,
+    "pages_checked": 11,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ اللغة العربية ـ المستوى الثاني (KG2)",
+        "count": 11
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-ARA.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "KG-L2-ART.pdf",
+    "total_pages": 10,
+    "pages_checked": 10,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ التربية الفنية واإلبداع ـ المستوى الثاني (KG2)",
+        "count": 10
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز الفنون الجميلة.",
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-ART.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "KG-L2-ENG.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ اللغة اإلنجليزية ـ المستوى الثاني (KG2)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-ENG.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "KG-L2-ISL.pdf",
+    "total_pages": 11,
+    "pages_checked": 11,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ التربية اإلسالمية ـ المستوى الثاني (KG2)",
+        "count": 11
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-ISL.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "KG-L2-MAT.pdf",
+    "total_pages": 10,
+    "pages_checked": 10,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ الرياضيات ـ المستوى الثاني (KG2)",
+        "count": 10
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-MAT.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "KG-L2-PED.pdf",
+    "total_pages": 11,
+    "pages_checked": 11,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ الصحة والحركة ـ المستوى الثاني (KG2)",
+        "count": 11
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-PED.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "KG-L2-SCI.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ العلوم واالستكشاف البيئي ـ المستوى الثاني (KG2)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-SCI.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "KG-L2-SOC.pdf",
+    "total_pages": 12,
+    "pages_checked": 12,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ـ التربية االجتماعية والهوية ـ المستوى الثاني (KG2)",
+        "count": 12
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التربوي للبحوث",
+      "مركز الوطني لتطوير"
+    ],
+    "path": "kindergarten/kg2/KG-L2-SOC.pdf",
+    "stage": "kindergarten",
+    "grade": "kg2"
+  },
+  {
+    "file": "MID-G7-ARA.pdf",
+    "total_pages": 208,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز  القومي  للمناهــج"
+    ],
+    "path": "middle/grade-7/MID-G7-ARA.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G7-CSC.pdf",
+    "total_pages": 82,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج",
+      "مركز باإلنابة- أ.",
+      "مركز صحي أو"
+    ],
+    "path": "middle/grade-7/MID-G7-CSC.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G7-ENG.pdf",
+    "total_pages": 66,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "1. Look at the pictures. What can you see?",
+        "count": 16
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-7/MID-G7-ENG.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G7-GEO.pdf",
+    "total_pages": 104,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز  القومي  للمناهــج"
+    ],
+    "path": "middle/grade-7/MID-G7-GEO.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G7-HIS.pdf",
+    "total_pages": 119,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "المركز القومي للمناهج",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج",
+      "مركز باإلنابة- أ."
+    ],
+    "path": "middle/grade-7/MID-G7-HIS.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G7-ISL.pdf",
+    "total_pages": 150,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [
+      "واتس"
+    ],
+    "repeating_headers": [
+      {
+        "text": "املرحلة املتوسطة-  الصف األول- التربية اإلسالمية",
+        "count": 13
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج",
+      "مركز باإلنابة- أ."
+    ],
+    "path": "middle/grade-7/MID-G7-ISL.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G7-MAT.pdf",
+    "total_pages": 145,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "middle/grade-7/MID-G7-MAT.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G7-SCI.pdf",
+    "total_pages": 152,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز ، وسعيها",
+      "مركز  القومي  للمناهــج"
+    ],
+    "path": "middle/grade-7/MID-G7-SCI.pdf",
+    "stage": "middle",
+    "grade": "grade-7"
+  },
+  {
+    "file": "MID-G8-ARA.pdf",
+    "total_pages": 191,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهــج"
+    ],
+    "path": "middle/grade-8/MID-G8-ARA.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G8-ENG-ACT.pdf",
+    "total_pages": 128,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ةنم يندفأ ةيميلعتلاAfedne.com",
+        "count": 30
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-8/MID-G8-ENG-ACT.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G8-ENG.pdf",
+    "total_pages": 107,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "1. Look at the pictures. Answer the questions.",
+        "count": 9
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-8/MID-G8-ENG.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G8-GEO.pdf",
+    "total_pages": 126,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "Afedne.comةصنم يندفأ ةيميلعتلا",
+        "count": 30
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-8/MID-G8-GEO.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G8-HIS.pdf",
+    "total_pages": 104,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "Afidni.com  ةصنم يندفأ ةيميلعتلا",
+        "count": 23
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-8/MID-G8-HIS.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G8-ISL.pdf",
+    "total_pages": 175,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "middle/grade-8/MID-G8-ISL.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G8-MAT.pdf",
+    "total_pages": 191,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "املراجعة األولـــــية",
+        "count": 61
+      }
+    ],
+    "phone_numbers_found": [
+      "117117117",
+      "117117117",
+      "216216216",
+      "216216216",
+      "243243243"
+    ],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "middle/grade-8/MID-G8-MAT.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G8-SCI.pdf",
+    "total_pages": 132,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز الدائرة وأي",
+      "مركز التحكم، وعىل",
+      "مركز  القومي  للمناهــج"
+    ],
+    "path": "middle/grade-8/MID-G8-SCI.pdf",
+    "stage": "middle",
+    "grade": "grade-8"
+  },
+  {
+    "file": "MID-G9-ARA.pdf",
+    "total_pages": 236,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "GX\u0003qTm>\u0003\u000bog<|^TÐ\u0003o_cTÐ\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003",
+        "count": 13
+      },
+      {
+        "text": "GX\u0003qTm>\u0003\u000bog<|^TÐ\u0003o_cTÐ",
+        "count": 13
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-9/MID-G9-ARA.pdf",
+    "stage": "middle",
+    "grade": "grade-9"
+  },
+  {
+    "file": "MID-G9-ENG.pdf",
+    "total_pages": 72,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-9/MID-G9-ENG.pdf",
+    "stage": "middle",
+    "grade": "grade-9"
+  },
+  {
+    "file": "MID-G9-MAT.pdf",
+    "total_pages": 304,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-9/MID-G9-MAT.pdf",
+    "stage": "middle",
+    "grade": "grade-9"
+  },
+  {
+    "file": "MID-G9-SCI.pdf",
+    "total_pages": 193,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "middle/grade-9/MID-G9-SCI.pdf",
+    "stage": "middle",
+    "grade": "grade-9"
+  },
+  {
+    "file": "PRI-G1-ARA.pdf",
+    "total_pages": 128,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": ": ُ أَنْظُرُ وأَنْطِق-6",
+        "count": 8
+      },
+      {
+        "text": ".) خطوات جتريد احلرف يف مر7شد املعلم6(",
+        "count": 7
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-1/PRI-G1-ARA.pdf",
+    "stage": "primary",
+    "grade": "grade-1"
+  },
+  {
+    "file": "PRI-G1-ENG.pdf",
+    "total_pages": 94,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-1/PRI-G1-ENG.pdf",
+    "stage": "primary",
+    "grade": "grade-1"
+  },
+  {
+    "file": "PRI-G1-ISL.pdf",
+    "total_pages": 36,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "الصـف األول- التربية اإلســالمية",
+        "count": 17
+      },
+      {
+        "text": "ِ بِسْ مِ اللَِّ الرَّ حْ َنِ الرَّ حِ يم",
+        "count": 5
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-1/PRI-G1-ISL.pdf",
+    "stage": "primary",
+    "grade": "grade-1"
+  },
+  {
+    "file": "PRI-G1-MAT.pdf",
+    "total_pages": 84,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "الصــف األول- الرياضيات",
+        "count": 15
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-1/PRI-G1-MAT.pdf",
+    "stage": "primary",
+    "grade": "grade-1"
+  },
+  {
+    "file": "PRI-G2-ARA.pdf",
+    "total_pages": 101,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-2/PRI-G2-ARA.pdf",
+    "stage": "primary",
+    "grade": "grade-2"
+  },
+  {
+    "file": "PRI-G2-ENG.pdf",
+    "total_pages": 95,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-2/PRI-G2-ENG.pdf",
+    "stage": "primary",
+    "grade": "grade-2"
+  },
+  {
+    "file": "PRI-G2-ISL.pdf",
+    "total_pages": 56,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-2/PRI-G2-ISL.pdf",
+    "stage": "primary",
+    "grade": "grade-2"
+  },
+  {
+    "file": "PRI-G2-MAT.pdf",
+    "total_pages": 76,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-2/PRI-G2-MAT.pdf",
+    "stage": "primary",
+    "grade": "grade-2"
+  },
+  {
+    "file": "PRI-G3-ARA.pdf",
+    "total_pages": 131,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-3/PRI-G3-ARA.pdf",
+    "stage": "primary",
+    "grade": "grade-3"
+  },
+  {
+    "file": "PRI-G3-ENG-ACT.pdf",
+    "total_pages": 200,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-3/PRI-G3-ENG-ACT.pdf",
+    "stage": "primary",
+    "grade": "grade-3"
+  },
+  {
+    "file": "PRI-G3-ENG.pdf",
+    "total_pages": 127,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-3/PRI-G3-ENG.pdf",
+    "stage": "primary",
+    "grade": "grade-3"
+  },
+  {
+    "file": "PRI-G3-ISL.pdf",
+    "total_pages": 72,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-3/PRI-G3-ISL.pdf",
+    "stage": "primary",
+    "grade": "grade-3"
+  },
+  {
+    "file": "PRI-G3-MAT.pdf",
+    "total_pages": 115,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-3/PRI-G3-MAT.pdf",
+    "stage": "primary",
+    "grade": "grade-3"
+  },
+  {
+    "file": "PRI-G3-SCI.pdf",
+    "total_pages": 59,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-3/PRI-G3-SCI.pdf",
+    "stage": "primary",
+    "grade": "grade-3"
+  },
+  {
+    "file": "PRI-G4-ARA.pdf",
+    "total_pages": 104,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-4/PRI-G4-ARA.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G4-ART.pdf",
+    "total_pages": 52,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-4/PRI-G4-ART.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G4-CSC.pdf",
+    "total_pages": 68,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [
+      "واتس"
+    ],
+    "repeating_headers": [
+      {
+        "text": "رابع- تكنولوجيا املعلومات واالتصاالت",
+        "count": 28
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز  القومي  للمناهــج"
+    ],
+    "path": "primary/grade-4/PRI-G4-CSC.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G4-ENG-ACT.pdf",
+    "total_pages": 200,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-4/PRI-G4-ENG-ACT.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G4-ENG.pdf",
+    "total_pages": 127,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-4/PRI-G4-ENG.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G4-ISL.pdf",
+    "total_pages": 81,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-4/PRI-G4-ISL.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G4-MAT.pdf",
+    "total_pages": 119,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [
+      "115317500",
+      "312750418",
+      "232425262728"
+    ],
+    "institutions_mentioned": [
+      "مركز حمفوظة احلقوق"
+    ],
+    "path": "primary/grade-4/PRI-G4-MAT.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G4-SCI.pdf",
+    "total_pages": 97,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "الصـف الرابـع- العـــلـوم",
+        "count": 11
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز  القومي  للمناهج"
+    ],
+    "path": "primary/grade-4/PRI-G4-SCI.pdf",
+    "stage": "primary",
+    "grade": "grade-4"
+  },
+  {
+    "file": "PRI-G5-ARA.pdf",
+    "total_pages": 152,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-5/PRI-G5-ARA.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-ART.pdf",
+    "total_pages": 27,
+    "pages_checked": 27,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-5/PRI-G5-ART.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-CSC.pdf",
+    "total_pages": 58,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "خامس -  تكنولوجيا املعلومات واالتصاالت",
+        "count": 13
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-5/PRI-G5-CSC.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-ENG-ACT.pdf",
+    "total_pages": 110,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-5/PRI-G5-ENG-ACT.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-ENG.pdf",
+    "total_pages": 119,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-5/PRI-G5-ENG.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-GEO.pdf",
+    "total_pages": 37,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "الصــف الخــامس- الجـغـرافـيـا",
+        "count": 5
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-5/PRI-G5-GEO.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-HIS.pdf",
+    "total_pages": 121,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "وزارة التربية والتعليم",
+      "المركز القومي للمناهج",
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج",
+      "مركز باإلنابة- أ."
+    ],
+    "path": "primary/grade-5/PRI-G5-HIS.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-ISL.pdf",
+    "total_pages": 105,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "primary/grade-5/PRI-G5-ISL.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-MAT.pdf",
+    "total_pages": 156,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "الصـف اخلامس- الرياضيات",
+        "count": 6
+      }
+    ],
+    "phone_numbers_found": [
+      "261754211",
+      "81624234048"
+    ],
+    "institutions_mentioned": [],
+    "path": "primary/grade-5/PRI-G5-MAT.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G5-SCI.pdf",
+    "total_pages": 67,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "الصف الخامس- العلوم",
+        "count": 10
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-5/PRI-G5-SCI.pdf",
+    "stage": "primary",
+    "grade": "grade-5"
+  },
+  {
+    "file": "PRI-G6-ARA.pdf",
+    "total_pages": 132,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "Scanned by CamScanner",
+        "count": 30
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-ARA.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-CSC.pdf",
+    "total_pages": 56,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "Scanned by CamScanner",
+        "count": 30
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-CSC.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-ENG-ACT.pdf",
+    "total_pages": 110,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-ENG-ACT.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-ENG.pdf",
+    "total_pages": 119,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "Ministry of Education"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-ENG.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-GEO.pdf",
+    "total_pages": 68,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "Scanned by CamScanner",
+        "count": 30
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-GEO.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-HIS.pdf",
+    "total_pages": 85,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-HIS.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-ISL.pdf",
+    "total_pages": 113,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "المركز القومي للمناهج",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج",
+      "مركز القـومي للمنـاهـج"
+    ],
+    "path": "primary/grade-6/PRI-G6-ISL.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-MAT.pdf",
+    "total_pages": 181,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "Scanned by CamScanner",
+        "count": 30
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-MAT.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "PRI-G6-SCI.pdf",
+    "total_pages": 93,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "Scanned by CamScanner",
+        "count": 30
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "primary/grade-6/PRI-G6-SCI.pdf",
+    "stage": "primary",
+    "grade": "grade-6"
+  },
+  {
+    "file": "SEC-G10-ARA-NAH.pdf",
+    "total_pages": 127,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-ARA-NAH.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-ARA.pdf",
+    "total_pages": 195,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-ARA.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-ART.pdf",
+    "total_pages": 103,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-ART.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-BIO.pdf",
+    "total_pages": 155,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "An Introduction to Biology مدخل لعلم الأحياء",
+        "count": 10
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "secondary/grade-10/SEC-G10-BIO.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-CHE.pdf",
+    "total_pages": 119,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-CHE.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-CSC.pdf",
+    "total_pages": 129,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-CSC.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-ENG.pdf",
+    "total_pages": 225,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-ENG.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-ESC.pdf",
+    "total_pages": 217,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-ESC.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-HIS.pdf",
+    "total_pages": 173,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز الدعوة ،",
+      "مركز الدولة \n.",
+      "مركز \nالدولة \n   .",
+      "مركز الرجل فى",
+      "مركز القومي للمناھج"
+    ],
+    "path": "secondary/grade-10/SEC-G10-HIS.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-HMS.pdf",
+    "total_pages": 163,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "2-1 العلوم الأ4سرية",
+        "count": 27
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-HMS.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-ISL.pdf",
+    "total_pages": 180,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-ISL.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-MAT.pdf",
+    "total_pages": 267,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-MAT.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-MIL.pdf",
+    "total_pages": 83,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-MIL.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-PHY.pdf",
+    "total_pages": 89,
+    "pages_checked": 30,
+    "verdict": "محتمل رسمي",
+    "confidence": 0.7,
+    "official_markers": [
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناھج"
+    ],
+    "path": "secondary/grade-10/SEC-G10-PHY.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G10-QRN.pdf",
+    "total_pages": 160,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-10/SEC-G10-QRN.pdf",
+    "stage": "secondary",
+    "grade": "grade-10"
+  },
+  {
+    "file": "SEC-G11-AGR.pdf",
+    "total_pages": 120,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-AGR.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-ARA-BLG.pdf",
+    "total_pages": 125,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-ARA-BLG.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-ARA.pdf",
+    "total_pages": 140,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-ARA.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-ART.pdf",
+    "total_pages": 103,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-ART.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-BIO.pdf",
+    "total_pages": 179,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج"
+    ],
+    "path": "secondary/grade-11/SEC-G11-BIO.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-CHE.pdf",
+    "total_pages": 118,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-CHE.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-COM.pdf",
+    "total_pages": 192,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-COM.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-CSC.pdf",
+    "total_pages": 73,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-CSC.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-ENG.pdf",
+    "total_pages": 185,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-ENG.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-ESC.pdf",
+    "total_pages": 180,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-ESC.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-GEO.pdf",
+    "total_pages": 237,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-GEO.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-HIS.pdf",
+    "total_pages": 194,
+    "pages_checked": 30,
+    "verdict": "كتاب وزاري رسمي",
+    "confidence": 0.95,
+    "official_markers": [
+      "جمهورية السودان",
+      "بخت الرضا"
+    ],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-HIS.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-HMS.pdf",
+    "total_pages": 163,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "2-1 العلوم الأ4سرية",
+        "count": 27
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-HMS.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-ISL.pdf",
+    "total_pages": 178,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-ISL.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-MAT.pdf",
+    "total_pages": 277,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-MAT.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-MIL.pdf",
+    "total_pages": 95,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-MIL.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-PHY.pdf",
+    "total_pages": 212,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "املتجهــــــــــــات",
+        "count": 26
+      },
+      {
+        "text": "الxصف الثاين- الفيزياء",
+        "count": 14
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز  الثقل  وح"
+    ],
+    "path": "secondary/grade-11/SEC-G11-PHY.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G11-QRN.pdf",
+    "total_pages": 190,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-11/SEC-G11-QRN.pdf",
+    "stage": "secondary",
+    "grade": "grade-11"
+  },
+  {
+    "file": "SEC-G12-ARA-BLG.pdf",
+    "total_pages": 102,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-ARA-BLG.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-ARA.pdf",
+    "total_pages": 208,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-ARA.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-ART.pdf",
+    "total_pages": 161,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "الفنون والتjصميم",
+        "count": 28
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-ART.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-BIO.pdf",
+    "total_pages": 252,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "ثالث ثانوي- الأحياء",
+        "count": 15
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز القومي للمناهج",
+      "مركز\nد. علي"
+    ],
+    "path": "secondary/grade-12/SEC-G12-BIO.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-CHE.pdf",
+    "total_pages": 408,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-CHE.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-COM.pdf",
+    "total_pages": 157,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-COM.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-CSC.pdf",
+    "total_pages": 185,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [
+      "٠١٠٠٠١٠١٠٠١٠",
+      "٥٨٢٤١٧٥٨٢٤١٧"
+    ],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-CSC.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-ENG.pdf",
+    "total_pages": 177,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-ENG.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-ESC.pdf",
+    "total_pages": 226,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-ESC.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-FRN.pdf",
+    "total_pages": 88,
+    "pages_checked": 30,
+    "verdict": "مذكرة/ملخص غير رسمي",
+    "confidence": 0.9,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [
+      {
+        "text": "J’APPRENDS LE  FRANÇAIS 3",
+        "count": 28
+      }
+    ],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-FRN.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-HIS.pdf",
+    "total_pages": 275,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز املديرية ."
+    ],
+    "path": "secondary/grade-12/SEC-G12-HIS.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-HMS.pdf",
+    "total_pages": 167,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [
+      "مركز التغذية للبحوث"
+    ],
+    "path": "secondary/grade-12/SEC-G12-HMS.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-ISL-2.pdf",
+    "total_pages": 180,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-ISL-2.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-ISL.pdf",
+    "total_pages": 149,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-ISL.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-MAT-SP1.pdf",
+    "total_pages": 207,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-MAT-SP1.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-MAT-SP2.pdf",
+    "total_pages": 180,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-MAT-SP2.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-MAT.pdf",
+    "total_pages": 161,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-MAT.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-PED.pdf",
+    "total_pages": 143,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-PED.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  },
+  {
+    "file": "SEC-G12-PHY.pdf",
+    "total_pages": 217,
+    "pages_checked": 30,
+    "verdict": "غير مؤكد",
+    "confidence": 0.5,
+    "official_markers": [],
+    "unofficial_markers": [],
+    "repeating_headers": [],
+    "phone_numbers_found": [],
+    "institutions_mentioned": [],
+    "path": "secondary/grade-12/SEC-G12-PHY.pdf",
+    "stage": "secondary",
+    "grade": "grade-12"
+  }
+]

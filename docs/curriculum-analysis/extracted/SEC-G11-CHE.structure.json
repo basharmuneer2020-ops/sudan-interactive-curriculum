@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "file": "SEC-G11-CHE.pdf",
+    "code": "SEC-G11-CHE",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "CHE",
+    "variant": null,
+    "page_count": 118,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1080,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nبùسم اهلل الرحمن الرحيم\nجمهورية الùسودان\n وزارة الرتبية و التعليم\nاملركز القومي للمناهج والبحث الرتبوي\n – بخت الر9ضا –\nالكيميــــــــــــــــــاء\nال}صف الثاين الثانوي\n �إعداد\n:  جلنة بتكليف من املركز القومي للمناهج والبحث الرتبوي من الأ5ساتذة\n   جامعة اخلرطــــوم/ كلية الرتبيـــــة-           د. علي حمـــــــود علي\n    جامعة اخلرطـــوم/ كلية الرتبيــة-       د. �إبراهيــــــــم خمتار �أحمـد\nجلنة التطوير\n   جامعة اخلرطــــوم/ كلية الرتبيــة-              د. علي حمـــــــود علي\n    جامعة اخلرطــ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 5,
+        "number": "الأوىل",
+        "title": "الرتتيب الدوري للعنا8صر",
+        "title_next": ""
+      },
+      {
+        "page": 27,
+        "number": "الثانية",
+        "title": ")فلزات املجموعة الأوىل (فلزات الأقالء",
+        "title_next": "من اجلدول الدوري"
+      },
+      {
+        "page": 41,
+        "number": "الثالثة",
+        "title": "الكيمياء الع|ضوية",
+        "title_next": "Organic Chemistry"
+      },
+      {
+        "page": 68,
+        "number": "الرابعة",
+        "title": "النيرتوجني",
+        "title_next": ""
+      },
+      {
+        "page": 87,
+        "number": "اخلام{سة",
+        "title": "الهالوجينـــــــــــات",
+        "title_next": ""
+      },
+      {
+        "page": 107,
+        "number": "ال{ساد5سة",
+        "title": "العنا8صر النتقالية",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 15083,
+    "suspicious_chars": 167,
+    "garble_ratio": 0.011,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 6,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

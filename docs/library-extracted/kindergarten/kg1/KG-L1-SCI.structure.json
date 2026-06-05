@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "file": "KG-L1-SCI.pdf",
+    "code": "KG-L1-SCI",
+    "stage": "KG",
+    "grade": "L1",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 12,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 895,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "KG-L1-SCI \n \n  \n \n \n ـ العلوم واالستكشاف البيئي ـ المستوى األول (KG1) \n \n ـ عمر\n٤-٥\n صفحة1\n من 12\n🔬 \n \n العلوم واالستكشاف البيئي\nScience & Environment — KG1\n المستوى األول (KG1) \n \n ـ عمر\n٤-٥\n \n \n \n  \n \n الطفل عالم صغير ـ النيل مختبر والشمس معلم\n \n \n مشروع المنهج السوداني التفاعلي\n كود الملف: KG-L1-SCI\n اإلصدار1.0\n \n  ـ أبريل2026\n  ـ رخصة MIT\n\n\nKG-L1-SCI \n \n  \n \n \n ـ العلوم واالستكشاف البيئي ـ المستوى األول (KG1) \n \n ـ عمر\n٤-٥\n صفحة2\n من 12\n١ \n .فلسفة المادة\n \n \n \n \n \n \n \n :\n \n \n \n \n الطفل يولد ",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "١. فلسفة المادة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "الأهداف العامة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "كيف تُدرَّس هذه المادة؟",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "ما نتجنّبه",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "٢. الخطة الأسبوعية (٣٢ أسبوعًا)",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الأول",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الثاني",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "٣. المخرجات المتوقعة",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "مخرجات شاملة نهاية المرحلة",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "مؤشرات الإنجاز (Checklist للمعلمة)",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "٤. نموذج درس نموذجي",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ١ ـ سؤال مفتوح (٣ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٢ ـ التجربة (١٠ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٣ ـ التوقع (٥ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٤ ـ قصة (٥ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٥ ـ دفتر العالِم (٢ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "٥. ملاحظات للمعلمة",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "نصائح تربوية",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "إدارة الصف",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "مواقف صعبة وكيف تتعاملين معها",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 1: طفل يخاف من الحشرات",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 2: طفل يكسر النبتة",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 3: طفل يسأل سؤالًا لا تعرفين إجابته",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "٦. أنشطة بيتيّة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "لوحة متابعة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "٧. مواصفات الأنشطة الرقمية للمنصة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "قائمة الوحدات الرقمية المقترحة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "معايير التصميم",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "٨. مصادر وأدوات مساعدة",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "حيوانات سودانية مدروسة",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "نباتات سودانية أساسية",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "تجارب سهلة",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "٩. خاتمة ومراجع",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "المراجع",
+      "page": 11
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 6178,
+    "suspicious_chars": 7,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

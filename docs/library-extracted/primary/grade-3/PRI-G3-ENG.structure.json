@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "file": "PRI-G3-ENG.pdf",
+    "code": "PRI-G3-ENG",
+    "stage": "PRI",
+    "grade": "G3",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 127,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 1028,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "PUPIL’S BOOK\nBASIC LEVEL\nGRADE 4\n2\nTWO\nSMILE   SERIES                                BOOK 1 - GRADE 4                           2016\nSMILE\nSERIES\nSMILE   SERIES                                BOOK 2 - GRADE 4                         PUPIL’S BOOK\nSUDAN\nMODERN\nINTEGRATED\nLEARNING OF\nENGLISH\n\n\nThe Republic of the Sudan\nFederal Ministry of Education\nThe National Centre for Curricula and \nEducational Research (NCCER)\nSudan Modern Integrated Learning of English\nSMILE Series: Book 2\nPupil’s Book\nGrade ",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [
+      {
+        "page": 11,
+        "number": "1",
+        "title": "Lesson 1",
+        "title_next": "1. Look, read and say."
+      },
+      {
+        "page": 107,
+        "number": "1",
+        "title": "Grammar",
+        "title_next": "New language"
+      },
+      {
+        "page": 111,
+        "number": "6",
+        "title": "Unit 6",
+        "title_next": "Grammar"
+      },
+      {
+        "page": 117,
+        "number": "1",
+        "title": ", Lesson 2, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 118,
+        "number": "2",
+        "title": ", Lesson 3, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 119,
+        "number": "3",
+        "title": ", Lesson 5, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 120,
+        "number": "4",
+        "title": ", Lesson 6, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 121,
+        "number": "5",
+        "title": ", Lesson 5, Activity 2",
+        "title_next": ""
+      },
+      {
+        "page": 123,
+        "number": "8",
+        "title": ", Lesson 4, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 124,
+        "number": "9",
+        "title": ", Lesson 6, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 125,
+        "number": "10",
+        "title": ", Lesson 7, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 126,
+        "number": "12",
+        "title": ", Lesson 2, Activity 1",
+        "title_next": ""
+      }
+    ],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "PB 2 Cover",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "PB 2",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "PB 2 Cover",
+      "page": 127
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 15,
+    "garble_ratio": 15.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 12,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

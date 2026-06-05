@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "file": "PRI-G6-ENG.pdf",
+    "code": "PRI-G6-ENG",
+    "stage": "PRI",
+    "grade": "G6",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 119,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 954,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n\n\nI\nThe Republic of the Sudan\nFederal Ministry of Education\nThe National Centre for Curricula and \nEducational Research (NCCER)\nSudan Modern Integrated Learning of English\nSMILE Series: Book 3 (A)\nPupil’s Book\nGrade 5: Basic Level\nLead Writer:\nStephen Thompson\nWritten by:\nAbdelsadig Awad Abdelsadig\nAhazeej Abdellateef Abdelkareem Ali\nAttayib Tajaddin Attayib Mahmoud\nEmtithal Alwasila Abdallah Ahmed \nDr Helene Fatima Idris\nHassan Taj Al-Sir Al-Hassan\nLona Louise Soiney \nMohammed Musaad Mohammed",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [
+      {
+        "page": 119,
+        "number": "6",
+        "title": "Grammar",
+        "title_next": "New language"
+      }
+    ],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": 10,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 6930,
+    "garble_ratio": 6930.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 1,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

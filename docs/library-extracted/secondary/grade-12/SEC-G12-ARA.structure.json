@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G12-ARA.pdf",
+    "code": "SEC-G12-ARA",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 208,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 717,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " …ƒfÉ````````````ãdG º«∏©àdG\n á°UÉÿG á«Hô©dG á¨∏dG\n\n\nﺑﺴﻢ ﺍﷲ ﺍﻟﺮﲪﻦ ﺍﻟﺮﺣﻴﻢ\n \n\r\f\u000b\u0004\n\t\b \u0002\u0006\u0005\u0004\u0003\u0002\u0001\n \n\u0002\u0006\f\u0010\u001f\u001e \u0002\u0006\u001d\u0004\u001c\u001b \u0006\u001a\f\u0019\u0018\u0017\u0016 \u0015\u0002\u0006\u0014\u0013\u0012 \u0002\u0006\u0011\u0010\u000f\u0004\u000e\n \n\u0015%\u0002\n$ \u0015\u0002\u0006\u0011!\u001a#\" \u0002\u0006!\u0018 \n \nא\u0006\f\u000b\u0006\nמ\bא\u0006\u0005\u0004\u0003\u0002\u0001\n\b\nﺍﻟﻠﻐﺔ ﺍﻟﻌﺮﺑﻴﺔ ﺍﳋﺎﺻﺔ\n \n\u0002\u0006(' \u0002\u0006&\u0018\u0006\u0012\n \n\u0006\u0005\u0004\u0003\u0002\n:\n\u0003\f\u0004\u000b\n\t\b\n. \n\u0016\u0015\u0014\u0013 \u0017\u0010\u000f\u0004 \u0016\u0015\u0014\u0013 \u0005\u0012\u0004 \u0003\f\u0011\u0010\u000f\u000e\n \n\u0003\f\u000f\u0011\u000b% \u0003\f$\tﻡ\" \f!\u000f \u001f\u001e\u001d \u001c\u0003\f\u0012\u001b\u001a \u0003\f\n\u0011ﺏ\t\u0018\n \nﻡ\u0011\u0003'\u0015&\n:\n\u0017 . \u0002\nی\t+* \u0003\f)!\u0014(\n&\n \u0017ﺏ\t ﺏ-\u0011\n'\u001fﻡ\u0015& \u0006.\u0011ی$\u0014\u001f \u0003\f\u0015\u001f\f\u000f\u0014&\n \n\u0017.\n\u0010\u001fﻡ//\u0004 \u0006ﺏ///\u0011\u0003\u001e\u0014/\u0013 \u0010\u001fﻡ//\u0004\n \n\u0003\f\u000f\u0011\u000b% \u0003\f$\tﻡ\" \f!\u000f \u001f\u001e\u001d \u001c\u0003\f\u0012\u001b\u001a \u0003\f\n\u0011ﺏ\t\u0018\n \n\u0003\f2\u000f1 ﺏ\u001f\f\u001b\u001f+\t0\n:\n\u0010\u000f\u0004 \u0003\f \u00144 ی\t+* \u0005\u0012\u0004 \u00033\n \n\u0003\f\u000f\u0011\u000b% \u0003\f$\tﻡ\" \f!\u000f \u001f\u001e\u001d \u001c\u0003\f\u0012\u001b\u001a \u0003\f",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 50,
+    "suspicious_chars": 92,
+    "garble_ratio": 1.84,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "PRI-G1-ISL.pdf",
+    "code": "PRI-G1-ISL",
+    "stage": "PRI",
+    "grade": "G1",
+    "subject": "ISL",
+    "variant": null,
+    "page_count": 36,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 324,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " مجهـــورية السودان\n  وزارة الرتبية والتعليم\nاملركز القـومي للمنـاهـج والبحــث الرتبــوي\nبخـت الرضا\nاملرحلة االبتدائية\nالتربية اإلســالمية\nالصف األول\n أعـدَّت الكتـاب جلنــة من املعــلمني واخلــراء بتكــليف ومتابعة\n.وإرشاف مـن املركـز القومـي للمناهـج والبحـث الرتبـوي\n\n\n حقـوق اإلعـداد والطبـع والنـر حمفوظـة لـوزارة الرتبيـة والتعليـم وال\n جيـوز ألي فـرد أو مجاعـة أو رشكـة أو مطبعـة أو دار نـر طباعـة أو بيـع\n.هـذا الكتـاب أو أي جـزء منـه وإال تعرضـت لطائلـة القانـون\n ٠٢٠٢م الطبعة األوىل\n\n\n    ال",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": 13,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 11009,
+    "suspicious_chars": 7,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "file": "KG-L2-ARA.pdf",
+    "code": "KG-L2-ARA",
+    "stage": "KG",
+    "grade": "L2",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 11,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1140,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "KG-L2-ARA \n \n  \n \n ـ اللغة العربية ـ المستوى الثاني (KG2) \n \n ـ عمر\n٥-٦\n صفحة1\n من 11\n📝 \n اللغة العربية\nArabic Language — KG2\n المستوى الثاني (KG2) \n \n ـ عمر\n٥-٦\n \n \n \n  \n \n \n \n \n من الحرف إلى الكلمة إلى الجملة ـ قراءة وكتابة مع الفرح\n \n \n مشروع المنهج السوداني التفاعلي\n كود الملف: KG-L2-ARA\n اإلصدار1.0\n \n  ـ أبريل2026\n  ـ رخصة MIT\n\n\nKG-L2-ARA \n \n  \n \n ـ اللغة العربية ـ المستوى الثاني (KG2) \n \n ـ عمر\n٥-٦\n صفحة2\n من 11\n١ \n .فلسفة المادة\n.\n \n \n  »\n \n« \n »\n \n« \n \n \n \n \n ـ ولكن ببطء وبفرح\nأقرأ وأكتب",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "١. فلسفة المادة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "الأهداف العامة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "كيف تُدرَّس هذه المادة؟",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "ما نتجنّبه",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "٢. الخطة الأسبوعية (٣٢ أسبوعًا)",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الأول",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الثاني",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "٣. المخرجات المتوقعة",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "مخرجات شاملة نهاية المرحلة",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "مؤشرات الإنجاز (Checklist للمعلمة)",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "٤. نموذج درس نموذجي",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ١ ـ تنشيط (٣ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٢ ـ اكتشاف المفهوم (٥ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٣ ـ قراءة كلمات (٧ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٤ ـ كتابة (٧ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٥ ـ لعبة تثبيت (٦ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٦ ـ ختام (٢ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "٥. ملاحظات للمعلمة",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "نصائح تربوية",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "إدارة الصف",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "مواقف صعبة وكيف تتعاملين معها",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 1: طفل يعكس اتجاه الكتابة",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 2: طفل يتذكر الحرف لكن ينساه اليوم التالي",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 3: طفل يرفض القراءة خوفًا من الخطأ",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 4: فارق كبير بين الأطفال في القراءة",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "٦. أنشطة بيتيّة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "لوحة متابعة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "٧. مواصفات الأنشطة الرقمية للمنصة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "قائمة الوحدات الرقمية المقترحة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "معايير التصميم",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "٨. مصادر وأدوات مساعدة",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "كلمات أساسية للقراءة (٥٠ كلمة)",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "قصص سودانية للقراءة التفاعلية",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "٩. خاتمة ومراجع",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "المراجع",
+      "page": 11
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 7437,
+    "suspicious_chars": 7,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

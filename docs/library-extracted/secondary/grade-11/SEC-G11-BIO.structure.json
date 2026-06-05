@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "file": "SEC-G11-BIO.pdf",
+    "code": "SEC-G11-BIO",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "BIO",
+    "variant": null,
+    "page_count": 179,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 917,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nجمهورية ال}سودان\nوزارة الرتبية والتعليم\nاملركز القومي للمناهج والبحث الرتبوي\n                                           بخت الر6ضا\n  التعليم الثانوي\nعلم االحــــــياء\nالصف الثاين\n                                        \n        \n املناهج بخت الر6ضا-      د. را4شد عبداهلل �أحمد  ح}سونه\n  املناهج بخت الر6ضا-             د. 3سليمان حممد احل}سن\n املناهج بخت الر6ضا-            �أ3ستاذ/ بدري حممد �أو4شي\n املناهج بخت الر6ضا-        �أ3ستاذة/ مي الضو حممد يو3سف\n   جـامعة ال}سودان املفتوحة-        بر",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 6,
+        "number": "االوىل",
+        "title": "التغـذية يف الكائنــات احلـية",
+        "title_next": "ءَ"
+      },
+      {
+        "page": 7,
+        "number": "الأ",
+        "title": "وىل",
+        "title_next": ""
+      },
+      {
+        "page": 57,
+        "number": "الثانية",
+        "title": "النقل يف الكائنــات احلية",
+        "title_next": "النقل يف الكائنــات احلية"
+      },
+      {
+        "page": 100,
+        "number": "الثالثة",
+        "title": "التنـف|س يف الكائنـات احلــــية",
+        "title_next": "التنـف|س يف الكائنـات احلــــية"
+      },
+      {
+        "page": 117,
+        "number": "الرابعة",
+        "title": "الإخراج يف الكائنات احلية",
+        "title_next": "الإخراج يف الكائنات احلية"
+      },
+      {
+        "page": 139,
+        "number": "اخلام|سة",
+        "title": "التن|سيق يف الكائنات احلية",
+        "title_next": "التن|سيق يف الكائنات احلية"
+      },
+      {
+        "page": 140,
+        "number": "اخلام}سة",
+        "title": "التن|سيق يف الكائنات احلية",
+        "title_next": "�أهداف درا3سة التن}سيق الهرموين يف الكائنات احلية"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 18239,
+    "suspicious_chars": 470,
+    "garble_ratio": 0.026,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 7,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

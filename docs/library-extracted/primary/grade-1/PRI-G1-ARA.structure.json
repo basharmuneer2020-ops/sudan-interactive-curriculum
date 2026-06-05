@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "file": "PRI-G1-ARA.pdf",
+    "code": "PRI-G1-ARA",
+    "stage": "PRI",
+    "grade": "G1",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 128,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 733,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " \nمجهورية السودان\n وزارة الرتبية والتعليم\nاملركز القومي للمناهج والبحث الرتبوي\nبخت الرضا\n املرحلة االبتدائية\nاللغة العربية\nالصف األول\n أعدَّت الكتاب جلنة من املعلمني واخلرباء بتكليف ومتابعة وإرشاف\n .من املركز القومي للمناهج والبحث الرتبوي\n\n\n حقوق اإلعداد والطبع والنرش حمفوظة لوزارة الرتبية والتعليم وال\n جيوز ألي فرد أو مجاعة أو رشكة أو مطبعة أو دار نرش طباعة أو بيع\n.هذا الكتاب أو أي جزء منه وإال تعرضت لطائلة القانون\n٠٢٠٢م الطبعة األوىل\n الصف األول- اللغة العربية\n\n\n الصف األول- اللغة العربية\nأ\n  ",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [
+      {
+        "page": 3,
+        "number": "الصفحة",
+        "title": "ج ....................................................................... املقدمة",
+        "title_next": "٦ ................................................................ الدرس األول"
+      }
+    ],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 4331,
+    "suspicious_chars": 2,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 1,
+    "has_toc": false
+  }
+}

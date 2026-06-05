@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "MID-G9-SCI.pdf",
+    "code": "MID-G9-SCI",
+    "stage": "MID",
+    "grade": "G9",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 106,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 240,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " \n1 \n \n \n \n المرحلة المتوسطة– الصف : ثالث متوسط     المادة : عـــلـــــــوم \n مؤسسة بدر الركابي لالسناد الأكاديمي للطلب موبايل– \n واتس0118916879\n    \n يمنع ويحرم التصوير والنسخ سلسلة مذكرات ع\n \n \n \n \n \n\n\n \n2 \n \n \n \n المرحلة المتوسطة– الصف : ثالث متوسط     المادة : عـــلـــــــوم \n مؤسسة بدر الركابي لالسناد الأكاديمي للطلب موبايل– \n واتس0118916879\n    \n يمنع ويحرم التصوير والنسخ سلسلة مذكرات ع\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n3 \n \n \n \n المرحلة المتوسطة– الصف : ثالث متوسط     المادة : عـــل",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 2862,
+    "suspicious_chars": 46,
+    "garble_ratio": 0.016,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

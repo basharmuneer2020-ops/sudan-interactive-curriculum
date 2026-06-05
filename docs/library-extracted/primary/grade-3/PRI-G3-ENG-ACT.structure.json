@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "file": "PRI-G3-ENG-ACT.pdf",
+    "code": "PRI-G3-ENG-ACT",
+    "stage": "PRI",
+    "grade": "G3",
+    "subject": "ENG",
+    "variant": "ACT",
+    "page_count": 200,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 1027,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "activity BOOK\nBASIC LEVEL\nGRADE 4\n2\nTWO\nSMILE\nSERIES\nSUDAN\nMODERN\nINTEGRATED\nLEARNING OF\nENGLISH\nSMILE   SERIES                                BOOK 2 - GRADE 4                       ACTIVITY BOOK\n\n\nThe Republic of the Sudan\nFederal Ministry of Education\nThe National Centre for Curricula and\nEducational Research (NCCER)\nSudan Modern Integrated Learning of English\nSMILE Series: Book 2\nActivity Book\nGrade 4: Basic Level\nLead Writer and Consultant:\nStephen Thompson\nWritten by:\nAhazeej Abdellateef Ab",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "AB 2 Cover",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "AB 2",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "AB 2 Cover",
+      "page": 200
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 913,
+    "garble_ratio": 913.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

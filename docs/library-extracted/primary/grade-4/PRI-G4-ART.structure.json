@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "file": "PRI-G4-ART.pdf",
+    "code": "PRI-G4-ART",
+    "stage": "PRI",
+    "grade": "G4",
+    "subject": "ART",
+    "variant": null,
+    "page_count": 52,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 684,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " 链课\n✆\n꫾飾釾ﯾ✆\n 链ꏾ껾�\n✆\n 䔆戆怆戆愆\n\n\nجمهورية السودان\nوزارة التربية والتعليم\nاملركز  القومي  للمناهج  والبحث  التربوي \nبخت الرضا\nالمرحلة االبتدائية \nالتربية الفنية\nالصّ ف الرابع\n \nالتربية الفنية\n أعدَّت الكتاب جلنـة من املعـلمني واخلـبراء بتكـليف ومتابعة\nوإشراف من املركز القومي للمناهج والبحث التربوي.\n\n\n حقوق اإلعداد والطبع والنشر محفوظة للمركز القومي للمناهج وال يجوز\n ألي فرد أو جماعة أو شركة أو مطبعة أو دار نشر طباعة أو بيع هذا\nالكتاب أو أي جزء منه وإال تعرضت لطائلة القانون.\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [
+      {
+        "page": 11,
+        "number": "الثاني",
+        "title": "الضوء والظل",
+        "title_next": ")4()، و3( انظر الشكل"
+      },
+      {
+        "page": 13,
+        "number": "الثالث",
+        "title": "رسم النبات",
+        "title_next": ") ونالحظ االختالف يف اجتاهات 7( لنتأمل اخلطوط التي رسمت بها أوراق النبات يف الشكل"
+      },
+      {
+        "page": 15,
+        "number": "الرابع",
+        "title": "التكوين الفني",
+        "title_next": "انظر الشكل أدناه:"
+      },
+      {
+        "page": 48,
+        "number": "الخامس",
+        "title": "التشكيل بالورق",
+        "title_next": "القص واللصق :-1"
+      }
+    ],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 5851,
+    "suspicious_chars": 3,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 4,
+    "has_toc": false
+  }
+}

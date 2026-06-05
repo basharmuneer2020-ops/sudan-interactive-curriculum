@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "file": "SEC-G10-BIO.pdf",
+    "code": "SEC-G10-BIO",
+    "stage": "SEC",
+    "grade": "G10",
+    "subject": "BIO",
+    "variant": null,
+    "page_count": 155,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 856,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nِ      ب}سمِ اهللِ الرَّحمنِ الرَّحيم\n         جُ مهورِيَّةُ ال}سُّ ودانِ \n    وزارةُ الترَّ بيةِ والتعليم\n          املركز القومي للمناهج والبحث الرتبوِ ي\n        بخت الر6ضا\n        التَّعليمُ الثَّانوِ ي\n   عِلْمُ الأَحْ يـــــــــــــَاءِ\n الصَّ فُّ الأوَّلُ\nجلنةُ �إعدادِ الكتابِ وتطويره :  \n    املركز القومي للمناهج والبحث الرتبوي -    د. را4شد عبداهلل �أحمد ح}سونه\n      املركز القومي للمناهج والبحث الرتبوي-              د. 3سليمان حممد احل}سن\n      املركز القومي للمناهج والبحث الرتبوي-  ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 6,
+        "number": "الأوىل",
+        "title": "مدخل لعلم الأحياء",
+        "title_next": "An Introduction to Biology"
+      },
+      {
+        "page": 17,
+        "number": "الثانية",
+        "title": "بيولوجية اخللية",
+        "title_next": "Cell Biology"
+      },
+      {
+        "page": 72,
+        "number": "الثالثة",
+        "title": "تxصنيف الكائنات احلية",
+        "title_next": "Classification of Living Organisms"
+      },
+      {
+        "page": 111,
+        "number": "الرابعة",
+        "title": "احلركة يف الكائنات احلية",
+        "title_next": "Movement"
+      },
+      {
+        "page": 142,
+        "number": "اخلام}سة",
+        "title": "الـدُّعامة يف الكائنات احلية",
+        "title_next": "Support in Living Organisms"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 14504,
+    "suspicious_chars": 331,
+    "garble_ratio": 0.025,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 5,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

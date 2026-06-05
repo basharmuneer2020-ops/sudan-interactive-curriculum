@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "file": "KG-L1-ARA.pdf",
+    "code": "KG-L1-ARA",
+    "stage": "KG",
+    "grade": "L1",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 12,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1302,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "KG-L1-ARA \n \n  \n \n ـ اللغة العربية ـ المستوى األول (KG1) \n \n ـ عمر\n٤-٥\n صفحة1\n من 12\n📝 \n اللغة العربية\nArabic Language — KG1\n المستوى األول (KG1) \n \n ـ عمر\n٤-٥\n \n \n  \n \n \n \n \nلبوابة الطفل إلى عالم المعرفة ـ االستماع والتحدث أو اًاً\n \n \n مشروع المنهج السوداني التفاعلي\n كود الملف: KG-L1-ARA\n اإلصدار1.0\n \n  ـ أبريل2026\n  ـ رخصة MIT\n\n\nKG-L1-ARA \n \n  \n \n ـ اللغة العربية ـ المستوى األول (KG1) \n \n ـ عمر\n٤-٥\n صفحة2\n من 12\n١ \n .فلسفة المادة\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n اللغة العربية للطفل في هذا العمر لي",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "١. فلسفة المادة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "الأهداف العامة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "كيف تُدرَّس هذه المادة؟",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "ما نتجنّبه",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "٢. الخطة الأسبوعية (٣٢ أسبوعًا)",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الأول",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الثاني",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "٣. المخرجات المتوقعة",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "مخرجات شاملة نهاية المرحلة",
+      "page": 6
+    },
+    {
+      "level": 3,
+      "title": "مؤشرات الإنجاز (Checklist للمعلمة)",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "٤. نموذج درس نموذجي",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ١ ـ تهيئة بالحركة (٣ دقائق)",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٢ ـ قصة الحرف (٥ دقائق)",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٣ ـ الصورة والصوت (٥ دقائق)",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٤ ـ ركن الحرف (٨ دقائق)",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٥ ـ أنشودة الحرف (٤ دقائق)",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٦ ـ الختام (٢ دقيقة)",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "٥. ملاحظات للمعلمة",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "نصائح تربوية",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "إدارة الصف",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "مواقف صعبة وكيف تتعاملين معها",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "الموقف 1: طفل لا يتحدث في الروضة رغم أنه يتحدث في البيت",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "الموقف 2: طفل ينطق الحرف خطأ دائمًا",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "الموقف 3: طفل يرفض الاستماع للقصة",
+      "page": 8
+    },
+    {
+      "level": 3,
+      "title": "الموقف 4: الصف مزعج جماعيًا",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "٦. أنشطة بيتيّة للأسرة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "لوحة متابعة للأسرة",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "٧. مواصفات الأنشطة الرقمية للمنصة",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "قائمة الوحدات الرقمية المقترحة",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "معايير التصميم",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "٨. مصادر وأدوات مساعدة",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "أناشيد سودانية للحروف",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "قصص مقترحة للتسجيل",
+      "page": 12
+    },
+    {
+      "level": 1,
+      "title": "٩. خاتمة ومراجع",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "المراجع",
+      "page": 12
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 8354,
+    "suspicious_chars": 7,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

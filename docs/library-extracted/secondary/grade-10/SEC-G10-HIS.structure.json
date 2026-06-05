@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "file": "SEC-G10-HIS.pdf",
+    "code": "SEC-G10-HIS",
+    "stage": "SEC",
+    "grade": "G10",
+    "subject": "HIS",
+    "variant": null,
+    "page_count": 173,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 584,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n\n\n  \n  \n  \n `yZ}{{ z{} u¶{DK{A• mIi{A x•wR m¶}O\n ®•IZK{A NRI{A• P°B\u0002}{{ ß}•w{A\n .\n ®æ xR¶ º•\n JBKy{A AY° ·} ≠`O |w\u0002 §•O•{A ·} £O• ®DI ,™¢O\n ßIBKy ·YG ·•X §A•KR} ßs uZeK{A •C £lIi ©XBkG •C\n®•IZK{A NRI{A• P°B\u0002}{{ ß}•w{A `yZ}{A ©ZAXG ·}\n.\n  \n  \n  \n\u0002\u0003\u0004\u0005\n \n :\n 978-99942-53-41-8\n\u0002 \u0002\n  \n  \nموقع المركز القومي للمناھج والبحث التربوي\n  \nبخت الرضا\n  \nwww.nccer.edu.sd\n \n \n \n  \n  \n  \n  \n  \n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "المقدمة",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "المحتويات",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "2-12",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "14-65",
+      "page": 20
+    },
+    {
+      "level": 1,
+      "title": "67-122",
+      "page": 73
+    },
+    {
+      "level": 1,
+      "title": "123-166",
+      "page": 129
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 14414,
+    "suspicious_chars": 59,
+    "garble_ratio": 0.004,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

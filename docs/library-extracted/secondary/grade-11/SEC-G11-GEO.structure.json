@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "file": "SEC-G11-GEO.pdf",
+    "code": "SEC-G11-GEO",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "GEO",
+    "variant": null,
+    "page_count": 237,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1110,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n1\n بyسم اهلل الرحمن الرحيم\n جمهورية  الyسودان\n بخت الر8ضا- املركز القومي للمناهج والبحث الرتبوي\n اجلغرافيا  والدراSسات  البيئية\n ال{صف الثاين الثانوي\n م2012 الطبعة املنقحة\n:         �إعداد : جلنة بتكليف من املركز القرمي للمناهج والبحث الرتبوي  من الأ5ساتذة\n    جامعة اخلرطوم\n       �أ.د. عبد الباقي عبد الغني بابكر\t\n      خبري تربوي\n       الأ5ستاذ: يو5سف عبد اهلل املغربي \t\n        الأ5ستاذ: حممد عبداهلل العركي               املركز القومي للمناهج والبحث الرتبوي\n        الأ5ستاذ : الطيب حممد البz",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 5,
+        "number": "الأوىل",
+        "title": "الأ5سyس البzشرية للجغرافيا",
+        "title_next": ""
+      },
+      {
+        "page": 29,
+        "number": "الثانية",
+        "title": "خرائط التوزيعات",
+        "title_next": "25"
+      },
+      {
+        "page": 89,
+        "number": "الثالثة",
+        "title": "اجلغرافيا الإقليمية",
+        "title_next": ""
+      },
+      {
+        "page": 165,
+        "number": "الرابعة",
+        "title": "الwسودان",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 13350,
+    "suspicious_chars": 139,
+    "garble_ratio": 0.031,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 4,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

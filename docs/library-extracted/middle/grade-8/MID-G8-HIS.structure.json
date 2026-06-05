@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "MID-G8-HIS.pdf",
+    "code": "MID-G8-HIS",
+    "stage": "MID",
+    "grade": "G8",
+    "subject": "HIS",
+    "variant": null,
+    "page_count": 104,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 491,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "• \n• \nI \n---\n,,,. \nul-1\u001d1 \u001e.,• •::\n\u001fIJ  !I i.;ljJ\ncs\"y.11 ... ,,,!IIJ #t-..11 $jilt %&l \n-\n\u0001 \n•\n• \nAfidni.com ةيميلعتلا يندفأ ةصنم \n\n\n• \n, \n• \n• \n• \nB\\.> _,_JI t,JJ4 C \nDIJ E._?I o;ljJ \n• \nl.?Y.?I 1o!-FIJ rt:'L:.,U G _,.a.)I jS ).1 \n• \n'• \nii • • \n• \n. . \n, \n• \n1 rw\nW, )1 L -\u0003 HW.1 - I .;-JI KL-..o • J \nil =-..1 • W>)' L-\u0004 w\u0003 - \f\r1 .i.\u000e JllJ.\u000f toL...,i. \u0010. i\n· \nfit \nI \n• \n• \n♦ \nt II) , \n'\n> . •\f \r \n•• \u0002. \n\u0001\nr.?- M:>v wl.!&- K L-..o. I \n•\n• •\n••\nL. . ., , .. . .. . . .. \n. . ' \n•\n\\ a\n• • \n{\n•\n. .",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 378,
+    "suspicious_chars": 15,
+    "garble_ratio": 0.04,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

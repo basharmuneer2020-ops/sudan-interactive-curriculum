@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "file": "PRI-G2-ARA.pdf",
+    "code": "PRI-G2-ARA",
+    "stage": "PRI",
+    "grade": "G2",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 101,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 401,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑﻮي\nوزارة اﻟﺘﺮﺑﻴﺔ واﻟﺘﻌﻠﻴﻢ\nﺑﺨﺖ اﻟﺮﺿﺎ\n2\nﺍﻟﻠﻐﺔ\nﺍﻟﻌﺮﺑﻴﺔ \nاﻟﺼﻒ اﻟﺜﺎﻧﻲ\nاﳌﺮﺣﻠﺔ اﻻﺑﺘﺪاﺋﻴﺔ\n2\nاﻟﺼﻒ اﻟﺜﺎﻧﻲ\nﺍﻟﻠﻐﺔ\nﺍﻟﻌﺮﺑﻴﺔ \n\n\n1 الصــف الثانـــي- اللغة العربية\nبسم اهلل الرمحن الرحيم \nمجهـــورية الســـودان\nوزارة الرتبية والتعليم \n بخــت الرضا- املركز القـــومي للمناهــج والبحــث الرتبــوي\n املرحلة االبتدائية\n اللغة العربية\nالصف الثاني\n �أعدَّت الكتاب جلنة من املعـلمني واخلـرباء بتكــليف ومتابعـة\n.و�إ7شـراف من املركز القـومي للمناهـج والبحـث الرتبـوي\n\n\nم2021  الطبعة األوىل\n ب",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 4,
+        "number": "الأوىل",
+        "title": "مراجعــــــــــــة",
+        "title_next": "8 - 1"
+      },
+      {
+        "page": 4,
+        "number": "الثانية",
+        "title": "�أ6ســـــــــــــرتي",
+        "title_next": "25 - 9"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 9098,
+    "suspicious_chars": 4,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 2,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "file": "SEC-G12-HIS.pdf",
+    "code": "SEC-G12-HIS",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "HIS",
+    "variant": null,
+    "page_count": 275,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 879,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n ب}سم اهلل الرحمن الرحيم\n جمهورية ال}سودان\n وزارة التعليم العام\nاملركز القومي للمناهج والبحث الرتبوي بخت الر6ضا\nالتعليم الثانوي\n التــــــاريخ\nال|صف الثالث\n�إعداد جلنة بتكليف من املركز القومي للمناهج والبحث الرتبوي\n:  من الأLساتذة\n املركز القومي للمناهج والبحث الرتبوي- الأ3ستاذ/ �أحمد عبدالكرمي �أحمد\n جامعة �أم درمان الإ3سالمية- �أ.د. عمر حاج الزاكي\n  جامعة اخلرطوم- �أ.د. ح}سن حممد 5صالح\n جامعة اجلزيرة -  د.الفاحت ال~شيخ يو3سف\n  وزارة الرتبية والتعليم- الأ3ستاذ/عبدالرحيم �إمام\n: تنقيح وتطوير ج",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 121,
+        "number": "الثالثة",
+        "title": "",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 23354,
+    "suspicious_chars": 454,
+    "garble_ratio": 0.021,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 1,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

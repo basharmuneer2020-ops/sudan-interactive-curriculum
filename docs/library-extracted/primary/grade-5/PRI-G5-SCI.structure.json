@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "file": "PRI-G5-SCI.pdf",
+    "code": "PRI-G5-SCI",
+    "stage": "PRI",
+    "grade": "G5",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 67,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 675,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑﻮي\nوزارة اﻟﺘﺮﺑﻴﺔ واﻟﺘﻌﻠﻴﻢ\nﺑﺨﺖ اﻟﺮﺿﺎ\n5\n5\nاﻟﺼـــﻒ اﳋﺎﻣﺲ\nاﻟﺼـــﻒ اﳋﺎﻣﺲ\nاﳌﺮﺣﻠﺔ اﻹﺑﺘﺪاﺋﻴﺔ\nﺍﻟﻌﻠــﻮﻡ\nﺍﻟﻄﺒﻴﻌﻴﺔ\nﺍﻟﻌﻠــﻮﻡ\nﺍﻟﻄﺒﻴﻌﻴﺔ\nﺟﻤﻬﻮرﻳﺔ اﻟﺴﻮدان\n\n\n الصف الخامس- العلوم1\n املرحلة االبتدائية\nالــعــلــــــــــوم\nال{صف اخلامyس\n �أعCدَّت الكتCاب جلنCة مCن املعلمCين واخلCبراء بتكليCف ومتابعCة\n.و�إ7Cشراف مCن املركCز القومCي للمناهج والبحCث الرتبوي\n\n\nحقCوق الإعCداد والطبCع والنCشر حمفوظCة لCوزارة الرتبيCة والتعليCم وال يجCوز\n لأي فCرد �أو جماعCة �أو 7Cشركة �أو مطبعCة �أو دار ن",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 6,
+        "number": "األولى",
+        "title": "أجهزة جسم اإلنسان",
+        "title_next": "ماذا نتعلم يف هذه الوحدة؟"
+      },
+      {
+        "page": 14,
+        "number": "الثانية",
+        "title": "تصنيف النباتات",
+        "title_next": "ماذا نتعلم يف هذه الوحدة؟"
+      },
+      {
+        "page": 22,
+        "number": "الثالثة",
+        "title": "تصنيف الحيوانات",
+        "title_next": "ماذا نتعلم يف هذه الوحدة؟"
+      },
+      {
+        "page": 30,
+        "number": "الرابعة",
+        "title": "الـمــــــاء",
+        "title_next": "ماذا نتعلم يف هذه الوحدة؟"
+      },
+      {
+        "page": 40,
+        "number": "الخامسة",
+        "title": "الحركة والقوى",
+        "title_next": "ماذا نتعلم يف هذه الوحدة؟"
+      },
+      {
+        "page": 46,
+        "number": "السادسة",
+        "title": "الكهرباء",
+        "title_next": "ماذا نتعلم من هذه الوحدة؟"
+      },
+      {
+        "page": 58,
+        "number": "السابعة",
+        "title": "المغناطيس",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 12240,
+    "suspicious_chars": 37,
+    "garble_ratio": 0.004,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 7,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

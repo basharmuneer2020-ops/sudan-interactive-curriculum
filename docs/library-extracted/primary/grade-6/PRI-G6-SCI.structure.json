@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "PRI-G6-SCI.pdf",
+    "code": "PRI-G6-SCI",
+    "stage": "PRI",
+    "grade": "G6",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 93,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 22,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "Scanned by CamScanner\n\n\nScanned by CamScanner\n\n\nScanned by CamScanner\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 0,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

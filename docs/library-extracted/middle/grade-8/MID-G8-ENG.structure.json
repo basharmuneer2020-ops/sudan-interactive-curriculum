@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "file": "MID-G8-ENG.pdf",
+    "code": "MID-G8-ENG",
+    "stage": "MID",
+    "grade": "G8",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 107,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 990,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "Afedne.comةصنم يندفأ ةيميلعتلا\n\n\nThe Republic of the Sudan\nFederal Ministry of Education\nThe National Centre for Curricula and \nEducational Research (NCCER)\nSudan Modern Integrated Learning of English\nSMILE Series: Book 6\nPupil’s Book\nGrade 8: Basic Level\nWritten by:\nAbdellatif Abdelrasoul Hamid Ambadi\nAbdul Qayoum Sheikh Almahi\nAwatif Elhag Awad Elseed\nEl-Fateh Mohammed Abdulsalam Abdulgabar\nEmtithal  Alwasila Abdalla Ahmed\nHassan Taj Al-Sir AlHassan\nTimothy McVicar\nDevelopmental Editors:\nJacqu",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [
+      {
+        "page": 18,
+        "number": "1",
+        "title": "English is Everywhere",
+        "title_next": ""
+      },
+      {
+        "page": 34,
+        "number": "3",
+        "title": "Going Places",
+        "title_next": ""
+      },
+      {
+        "page": 35,
+        "number": "4",
+        "title": "Arts and Literature",
+        "title_next": ""
+      },
+      {
+        "page": 41,
+        "number": "4",
+        "title": "1. Look at the pictures and captions. Answer the questions.",
+        "title_next": "3. Ask and answer the questions."
+      },
+      {
+        "page": 43,
+        "number": "5",
+        "title": "Science",
+        "title_next": ""
+      },
+      {
+        "page": 49,
+        "number": "5",
+        "title": "C",
+        "title_next": "1. Look at the pictures. Answer the questions."
+      },
+      {
+        "page": 57,
+        "number": "6",
+        "title": "Hobbies and Pastimes",
+        "title_next": ""
+      },
+      {
+        "page": 74,
+        "number": "8",
+        "title": "Our Bodies",
+        "title_next": ""
+      },
+      {
+        "page": 89,
+        "number": "10",
+        "title": "Health and Environment",
+        "title_next": ""
+      },
+      {
+        "page": 98,
+        "number": "11",
+        "title": "Amazing People, Animals and Places",
+        "title_next": ""
+      }
+    ],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "PB 6 cover-2",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Intro pages PB 6",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "PB 6 JK 25-7-19",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "Back cover 6",
+      "page": 107
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 396,
+    "suspicious_chars": 57,
+    "garble_ratio": 0.144,
+    "rating": "garbled"
+  },
+  "summary": {
+    "units_detected": 10,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

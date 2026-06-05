@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "MID-G8-GEO.pdf",
+    "code": "MID-G8-GEO",
+    "stage": "MID",
+    "grade": "G8",
+    "subject": "GEO",
+    "variant": null,
+    "page_count": 126,
+    "language": "mixed"
+  },
+  "quality": {
+    "avg_chars_per_page": 31,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "Afedne.comةصنم يندفأ ةيميلعتلا\n\n\nAfedne.comةصنم يندفأ ةيميلعتلا\n\n\nAfedne.comةصنم يندفأ ةيميلعتلا\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 378,
+    "suspicious_chars": 0,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

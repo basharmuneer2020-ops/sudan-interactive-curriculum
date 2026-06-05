@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "MID-G9-ARA.pdf",
+    "code": "MID-G9-ARA",
+    "stage": "MID",
+    "grade": "G9",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 236,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 986,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "¿GOƒ°ùdG ájQƒ¡ªL\nªkG*K\u0003jª+ÎG*\u0003,4*5K\nf9|G*\u0003lw+ –\u0003¬§+ÎG*\u0003otgG*K\u0003rJf¡G\u0003«H§G*\u0003~F|¼*\no\\GBÐ\u0003\u0003oc@|BÐ\u0003\u0003\nŲƭŵſ ŴʟƇȂȩź\u0003 Ųƭ űƗȵƤź\nqTmTÐ\u0003ZTÐ\n:\u0003X\u0003ï<FTÐ\u0003qTÐí\u0003rvmedcT\u0003XaTÐ\u0003}S|BÐ\u0003X\u0003gcb<\u0003oe!\u0003gbĵí\u0003ØÐzKÎ\nïååååååååååååååååååååååå=}>\u0003}ååååååååååååååååååhB\u0003\u0003\u0003\u0003\u000b\u0003pYĆH\u0003=Ì\u0003{1Ì\u0003{e7\u0003ï}wÛÌ\fØ\nï=GUÐ\u0003rUÐí\u0003swnfedU\u0003YbUÐ\u0003~T}CÐ\u0003\u0003\u0003\u0003\u0003\u0003\u000b\u0003yx}UÐ\u0003\"Ð{e7\u0003{1Ì\fØ\nêååååJ}#Ð\u0003pååxøí\u0003\u000b\u0003ïinUÐ\u0003åååååhd_UÐ\u0003\u0003\u000b\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003qhUÐ\u0003{1Ì\u0003Ún8\u0003{1Ì\u0003\fÌ\nïååååååååååååååååååååååååå=}>\u0003}ååååååååååååååååååhB\u0003\u0003\u0003\u0003\u0003\u0003\u000b\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003ë5L\u0003",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 874,
+    "garble_ratio": 874.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

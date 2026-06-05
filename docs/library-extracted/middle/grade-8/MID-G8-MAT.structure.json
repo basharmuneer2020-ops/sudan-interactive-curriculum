@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "file": "MID-G8-MAT.pdf",
+    "code": "MID-G8-MAT",
+    "stage": "MID",
+    "grade": "G8",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 191,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 826,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "املراجعة األولـــــية\nاملراجعة األولـــــية\nاملراجعة األولـــــية\nاملراجعة األولـــــية\nجمهورية السودان\nوزارة التربية والتعليم \nاملركز القومي للمناهج والبحث التربوي\nبخت الرضا\nاملرحـــــلة املتوسطة\nالريـاضيـات\nالصف الثاني\n:أعدته بتكليف من املركز القومي للمناهج والبحث التربوي جلنة من األساتذة\n املنـــــــــــاهج بخت الرضا -   د.  اخلطيب الطيب سيدأحمد حمدتوده\n االشراف التربوي – والية اخلرطوم - د. عبداملنعم محمود عبده عز الدين\n جـــــــــــــــــــــــــــــامعة بخت الرضا - د. خالد محمد خالد يوسف\nًج",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 3,
+        "number": "األولى:",
+        "title": "مجموعة األعداد الحقيقية",
+        "title_next": ""
+      },
+      {
+        "page": 3,
+        "number": "الثانية:",
+        "title": "النسبة والتناسب",
+        "title_next": ""
+      },
+      {
+        "page": 5,
+        "number": "األولـى",
+        "title": "١",
+        "title_next": "مجموعة األعداد الحقيقية"
+      },
+      {
+        "page": 30,
+        "number": "الثانية",
+        "title": "٢",
+        "title_next": "النسبة والتناسب"
+      },
+      {
+        "page": 84,
+        "number": "الرابعة",
+        "title": "٤",
+        "title_next": "الحركة"
+      },
+      {
+        "page": 107,
+        "number": "اخلامسة",
+        "title": "٥",
+        "title_next": "المتباينات"
+      },
+      {
+        "page": 123,
+        "number": "السادسة",
+        "title": "٦",
+        "title_next": "نظريات التباين"
+      },
+      {
+        "page": 143,
+        "number": "السابعة",
+        "title": "٧",
+        "title_next": "األشكال ثالثية األبعاد"
+      },
+      {
+        "page": 169,
+        "number": "الثامنة",
+        "title": "٨",
+        "title_next": "حساب المثلثات"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": 2,
+    "lines": [
+      {
+        "raw": "الثاني متوسط- الرياضيات3",
+        "page": 3
+      },
+      {
+        "raw": "املسافة يف الساعة األولى٤٠",
+        "page": 3
+      }
+    ]
+  },
+  "extraction_quality": {
+    "arabic_chars": 9919,
+    "suspicious_chars": 26,
+    "garble_ratio": 0.003,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 9,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

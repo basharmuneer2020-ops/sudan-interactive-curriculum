@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "file": "PRI-G4-ARA.pdf",
+    "code": "PRI-G4-ARA",
+    "stage": "PRI",
+    "grade": "G4",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 104,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 537,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "1\nاملرحلة االبتدائية\nالصف الرابع\nجمهورية السودان\n وزارة التربية والتعليم\nاملركز القومي للمناهج والبحث التربوي\nبخت الرضا\nاللغة العربية\n مت إعداد الكتاب بواسطة جلنة من املعلمني واخلبراء بتكليف ومتابعة\n .وإشراف من املركز القومي للمناهج والبحث التربوي\n\n\n2\n  بخت الرضا-حقوق التأليف للمركز القومي للمناهج والبحث التربوي\n وحقوق الطبع والنشر محفوظة لوزارة التربية والتعليم وال يجوز ألي جهة طباعة\n.أو بيع هذا الكتاب أو أي جزء منه وإال تعرضت لطائلة القانون\n\n\n3\n الوحدة األولى\nقيم وآداب\n٧٢   -   ٥\nالمحتويـــات\n",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 3,
+        "number": "األولى",
+        "title": "قيم وآداب",
+        "title_next": "٧٢ - ٥"
+      },
+      {
+        "page": 3,
+        "number": "الثانية",
+        "title": "البيئة",
+        "title_next": "٤٤ - ٨٢"
+      },
+      {
+        "page": 63,
+        "number": "الرابعة",
+        "title": "من قصص الحيوان",
+        "title_next": ""
+      },
+      {
+        "page": 85,
+        "number": "الخامسة",
+        "title": "موضوعات متنوعة",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [
+      {
+        "page": 6,
+        "number": "األول",
+        "title": "ابتهـــاالت",
+        "title_next": "ّللشاعر السوداني مبارك املغربي"
+      },
+      {
+        "page": 57,
+        "number": "الرابع",
+        "title": "َالشَّيْخةُ أَمُّونَة",
+        "title_next": "َتُعَلّم القرآن، وتُطعِمْ الطَّ عام"
+      }
+    ],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 12706,
+    "suspicious_chars": 5,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 4,
+    "chapters_detected": 0,
+    "lessons_detected": 2,
+    "has_toc": false
+  }
+}

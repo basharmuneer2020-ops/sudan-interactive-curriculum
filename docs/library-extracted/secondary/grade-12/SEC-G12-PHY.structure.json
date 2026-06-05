@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "file": "SEC-G12-PHY.pdf",
+    "code": "SEC-G12-PHY",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "PHY",
+    "variant": null,
+    "page_count": 217,
+    "language": "mixed"
+  },
+  "quality": {
+    "avg_chars_per_page": 0,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "\n\n\n\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "score": 0,
+    "rating": "empty"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

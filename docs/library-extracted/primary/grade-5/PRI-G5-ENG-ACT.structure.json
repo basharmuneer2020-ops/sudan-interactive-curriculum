@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "PRI-G5-ENG-ACT.pdf",
+    "code": "PRI-G5-ENG-ACT",
+    "stage": "PRI",
+    "grade": "G5",
+    "subject": "ENG",
+    "variant": "ACT",
+    "page_count": 110,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 1176,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "The Republic of the Sudan\nFederal Ministry of Education\nThe National Centre for Curricula and\nEducational Research (NCCER)\nSudan Modern lntegrated Learning of English\nSMlLE Series: Book 3\nActivity Book\nGrade 5: Basic Level\nLead Writer and Consultant:\nStephen Thompson\nWritten by:\nAbdelsadig Awad Abdelsadig\nAhazeej Abdellateef Abdelkareem Ali\nAttayib Tajaddin Attayib Mahmoud\nEmtithal Alwasila Abdallah Ahmed\n Hassan Taj Al-Sir Al-Hassan\nDr Helene Fatima Idris\nLona Louise Soiney \nMohammed Musaad Moh",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": 8,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 13876,
+    "garble_ratio": 13876.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

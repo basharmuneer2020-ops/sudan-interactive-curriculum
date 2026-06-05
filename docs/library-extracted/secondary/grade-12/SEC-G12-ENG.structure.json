@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G12-ENG.pdf",
+    "code": "SEC-G12-ENG",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 177,
+    "language": "mixed"
+  },
+  "quality": {
+    "avg_chars_per_page": 3,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "\n\n\n\nISBN  978-99942-919-8-9   ردﻣك\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 39,
+    "garble_ratio": 39.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "file": "SEC-G12-ART.pdf",
+    "code": "SEC-G12-ART",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "ART",
+    "variant": null,
+    "page_count": 161,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1145,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nالفنون والتjصميم\nب}سم اهلل الرحمن الرحيم\nجمهورية ال}سودان\nوزارة الرتبية والتعليم\n                                املركز القومي للمناهج والبــــحث الرتبوي\n بخت الر6ضا\nالفنون والتصميم\n   للصف الثالث الثانوي\n  �إعداد : جلنة بتكليف من املركز القومي للمناهج والبحث الرتبوي\nمن الآتية�أLسما�ؤهم:\n                                 الربوف}سري : حممد الأمني علي\n كلية الآداب والعلوم الإن}سانية-                     جامعة جوبا\n                         �أ. م~شارك :عبد البا3سط عبد اهلل اخلامت \n               ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 157,
+        "number": "املفردات",
+        "title": "عدد احلصص العمل املقرتح",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 14048,
+    "suspicious_chars": 315,
+    "garble_ratio": 0.024,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 1,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

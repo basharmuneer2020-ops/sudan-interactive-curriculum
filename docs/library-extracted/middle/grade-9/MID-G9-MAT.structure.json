@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "MID-G9-MAT.pdf",
+    "code": "MID-G9-MAT",
+    "stage": "MID",
+    "grade": "G9",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 304,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 547,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "Ð±¹b\u001f\u0013±\u0003E\u0017»b<:\u0007\n\u0003_=94\u001a\u0013±Ò\u0003E=\u0004R\u001a\u0013±\u0003³»±¼Ò\nÔb\u0004R\u001a\u0013±\u0003G\u001d\u0019\u0013±Ò\u0003H\u0016C;:9\u0013\u0003d\u0014b7\u0013±\u0003S\u0012Rê±\nChR\u0013±\u0003F\u001e\u0004\nB/\u0006_\u0016ç®\u0003B6ÇÇÇÇÇ\u0004Oç®\nk¡|êÃ¡|é·Ûh\nاﻟﺼﻒ اﻟﺜﺎﻟﺚ\nnØÁ³ï\u0003¯´åèöÝ\u0003êì\u0003rçëÃäÄ\u0003rçâòêô\u0003çèëî­ð¸\u0003rç°½µ\u0003rçĉ¯ò\u0003çºî±\u0003êì\u0003rùÆ­³Ât\u001d\n¹\u0003\u0003±(2=D\u0003±\u00132=D\u0003\n=P­\b:P\u0003\b:P\u0005b¹Ñ\u0003\u0003\u0003\u0003±ê;ÊÊÊÊÊÊÊÊÊÊÊÊC\u0016H\u0003\u0004\u001eF\u0003±\u0013RhC\u0003\n¹\u0003\u0014\u001d:P\u0003\b:P\u0003±\u0013;=^\u0003\u0014\u001d:P\u0003\u0007\u0019R\u0017^\u0003\u0003\t\u0019=R\u0003\u0005R\u0004ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊbÔ\n¹\u0003\u000eC¹Î\u0003­\b:P\u0003\b\u001f`\u0003\u0012\u0019E\u0003\u0003\u0007ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊC\u00144E\u0003Ò±¹Ô\u0003±\u0013;=^\n¹\u0003\fC»Ì\u0003­\b:P\u0003±'\u001f`\u0003±'b\u0017H\u0003\u0003\u001449_\u0003Ò\u0017E\u0003±(ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊR\fbÏ\n\n\n\n\n¤c\u0013ÒM±\u0003³P\bb\u0013±",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 56,
+    "suspicious_chars": 40,
+    "garble_ratio": 0.714,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

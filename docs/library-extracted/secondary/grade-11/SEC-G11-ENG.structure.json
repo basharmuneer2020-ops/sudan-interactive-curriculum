@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "file": "SEC-G11-ENG.pdf",
+    "code": "SEC-G11-ENG",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 185,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 26,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": " \n\n\n\n\n\u0002\u0003\u0004\u0005\u0006\u0007\b \u0002\t\n\u000b\f\u0007\b \u0002\r\u000e\u000f\u0010\n\u0011\n\u0012\b\u0013\u0006\u0014\u0007\b \n428.071\n\u0001\n\u0002\u0003\u0004\u0005א\r\f\u000b\t\n\u0001\b\t\b\u0003\u0007\u0001א\n\u0001\n\u000e \u000fK\nS\nSpine (5)\n\u0001L\n\u0002\u0012\u0003\u0004\u0005א\r\u0012\f\u000b\t\n\u0001\b\u0012\t\b\u0003\u0007\u0001אF KKK\u0001\n\u0014\u0015\u0007\u0012\u0016\u0017\u0015\nE،\nJ\n\u001b\u001c\u0015\u001d\u0012\u0005אW\n\u001f \b!\u0005א\r\u0007,+\u0001א\u0005* )\u0002\u0001\u0005('&\t%$\u0001\u0015א\u0005\u000b#\"\u0001א\n،\u00012009\n\u000e\n-؛24\n\u001b/\nK\n0)12\n\u0001W\n978-99942-919-9-6\n\u0001\n1\nJ\n3\u001c+4(56א\u0005(73\u0001א\n\u0001J\n34/,98\u000112אK\n:K\n\u0014א\u0005;& אK\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "Doc1.pdf",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "Spine 5.pdf",
+      "page": 2
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "score": 0,
+    "rating": "empty"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

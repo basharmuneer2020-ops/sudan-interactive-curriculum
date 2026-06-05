@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "file": "SEC-G11-ART.pdf",
+    "code": "SEC-G11-ART",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "ART",
+    "variant": null,
+    "page_count": 103,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 916,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " \n\n\nب}سم اهلل الرحمن الرحيم\nجمهورية ال}سودان\nوزارة التعليم العام\nاملركز القومي للمناهج والبحث الرتبوي\nبخت الر6ضا\nالتعليم الثانوي\nالفنون والتjصميم\nللصفني الأول والثاين\n:      تcأليف\n  جامعة ال}سودان-  كلية الفنـــــــــون-                 الأ3ستاذ / حممد الأمني عــلي\n جامعة ال}سودان –  كلية الفنــــــــون-       الأ3ستاذ / عبد البــا3سط عبد اهلل اخلامت\n جامعة ال}سودان –  كلية الفنــــــــون-              الأ3ستاذ / حممــد حممد �إدري}س\n املركز القومي للمناهج  والبحث الرتبوي-        الأ3ستاذ / خر",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "Doc1.pdf",
+      "page": 1
+    },
+    {
+      "level": 1,
+      "title": "???? ?????? ????? ???????-????.pdf",
+      "page": 2
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 14060,
+    "suspicious_chars": 205,
+    "garble_ratio": 0.015,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

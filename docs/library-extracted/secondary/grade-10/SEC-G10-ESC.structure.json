@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "file": "SEC-G10-ESC.pdf",
+    "code": "SEC-G10-ESC",
+    "stage": "SEC",
+    "grade": "G10",
+    "subject": "ESC",
+    "variant": null,
+    "page_count": 217,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 4,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "\n\niuiyuiui\n\n\nISBN  978-99942-53-52-4   ردﻣك\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "score": 0,
+    "rating": "empty"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

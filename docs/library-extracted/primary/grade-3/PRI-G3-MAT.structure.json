@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "file": "PRI-G3-MAT.pdf",
+    "code": "PRI-G3-MAT",
+    "stage": "PRI",
+    "grade": "G3",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 115,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 429,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n أعدَّت الكتاب جلنـة من املعـلمني واخلـرباء بتكـليف ومتابعة\n.وإرشاف من املركز القومي للمناهج والبحث الرتبوي\nبسم اهلل الرمحن الرحيم\nمجهورية السودان\nوزارة الرتبية والتعليم\n املركز القومي للمناهج والبحث الرتبوي\nبخت الرضا\nاملرحلة االبتدائية\nالصف الثالث\n الرياضيات\n\n\n حقوق اإلعداد والطبع والنرش حمفوظة للمركز القومي للمناهج\n وال جيوز ألي فرد أو مجاعة أو رشكة أو مطبعة أو دار نرش طباعة أو\n.بيع هذا الكتاب أو أي جزء منه وإال تعرضت لطائلة القانون\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [
+      {
+        "page": 96,
+        "number": "الثامن",
+        "title": "طرح الكyسور متyساوية املقامات",
+        "title_next": "مع طفل رغيفة أكل الرغيفة كم بقي معه؟"
+      }
+    ],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 4383,
+    "suspicious_chars": 84,
+    "garble_ratio": 0.021,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 1,
+    "has_toc": false
+  }
+}

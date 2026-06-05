@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "file": "PRI-G3-SCI.pdf",
+    "code": "PRI-G3-SCI",
+    "stage": "PRI",
+    "grade": "G3",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 59,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 423,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑﻮي\nوزارة اﻟﺘﺮﺑﻴﺔ واﻟﺘﻌﻠﻴﻢ\nﺑﺨﺖ اﻟﺮﺿﺎ\n3\n3\nاﻟﺼـــﻒ اﻟﺜــﺎﻟﺚ\nاﻟﺼـــﻒ اﻟﺜــﺎﻟﺚ\nﺍﻟﻌﻠــﻮﻡ\nﺟﻤﻬﻮرﻳﺔ اﻟﺴﻮدان\nاﳌﺮﺣﻠﺔ اﻻﺑﺘﺪاﺋﻴﺔ\nاﳌﺮﺣﻠﺔ اﻻﺑﺘﺪاﺋﻴﺔ\n\n\nأعــدت الكــتاب جلــنة من املعـلـمني واخلـرباء بتكـــليـف\n.ومتابعة وإرشاف من املركز القومي للمناهج والبحث الرتبوي\nمرحلة التعليم االبتدائي\nالعلــــوم\nال{صف الثالث\n مجهـــورية السودان\n  وزارة الرتبية والتعليم\nاملركز القـومي للمنـاهـج والبحــث الرتبــوي\nبخـت الرضا\n\n\n حقوق اإلعـــداد والطبع والنرش حمفوظة لـــوزارة الرتبية والتعليم\n وا",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 6,
+        "number": "الأوىل",
+        "title": "عامل الأحياء",
+        "title_next": "ماذا نتعلم من هذه الوحدة؟"
+      },
+      {
+        "page": 34,
+        "number": "الثانية",
+        "title": "الـمــادة",
+        "title_next": "ماذا نتعلم من هذه الوحدة؟"
+      },
+      {
+        "page": 44,
+        "number": "الثالثة",
+        "title": "الطـــاقة",
+        "title_next": "الطاقة الكهربية- الطاقةال|ضوئية"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 11375,
+    "suspicious_chars": 13,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 3,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

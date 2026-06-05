@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "file": "PRI-G1-ENG.pdf",
+    "code": "PRI-G1-ENG",
+    "stage": "PRI",
+    "grade": "G1",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 94,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 184,
+    "quality": "scanned",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "The Republic of the Sudan\nFederal Ministry of Education\nThe National Centre for Curricula and \nEducational Research (NCCER)\nSudan Modern Integrated Learning of English\nSMILE Series\nSMILE Starter 1\nPupil’s Book\nGrade 1: Basic Level\n2nd Edition\n2020\n\n\nAcknowledgements\nThe Director General of the National Centre for Curricula and Educational Research \n(NCCER) would like to extend thanks to the writing teams, designers and editors of the \nSMILE Series, 1st Edition. The Director General would also li",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [
+      {
+        "page": 90,
+        "number": "1",
+        "title": "Hello!",
+        "title_next": ""
+      },
+      {
+        "page": 91,
+        "number": "4",
+        "title": "About Me",
+        "title_next": ""
+      },
+      {
+        "page": 93,
+        "number": "3",
+        "title": ", Lesson 7, Activity 1",
+        "title_next": ""
+      },
+      {
+        "page": 94,
+        "number": "5",
+        "title": ", Lesson 3, Activity 1",
+        "title_next": ""
+      }
+    ],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "SMILE Starter 1 17-08-20.pdf",
+      "page": 1
+    },
+    {
+      "level": 2,
+      "title": "SMILE Starter 1 updated 08-17-20.pdf",
+      "page": 1
+    },
+    {
+      "level": 3,
+      "title": "Intro page updated",
+      "page": 1
+    },
+    {
+      "level": 3,
+      "title": "SMILE Starter 1 updated 08-16-20.pdf",
+      "page": -1
+    },
+    {
+      "level": 4,
+      "title": "Intro page updated",
+      "page": -1
+    },
+    {
+      "level": 4,
+      "title": "SMILE Starter 1 updated.pdf",
+      "page": 8
+    },
+    {
+      "level": 5,
+      "title": "Intro page updated",
+      "page": -1
+    },
+    {
+      "level": 5,
+      "title": "SMILE Starter 1.pdf",
+      "page": -1
+    },
+    {
+      "level": 6,
+      "title": "Intro1",
+      "page": -1
+    },
+    {
+      "level": 6,
+      "title": "SMILE Starter 1.pdf",
+      "page": -1
+    },
+    {
+      "level": 7,
+      "title": "Intro",
+      "page": -1
+    },
+    {
+      "level": 7,
+      "title": "SMILE Book 1.pdf",
+      "page": -1
+    },
+    {
+      "level": 8,
+      "title": "PB JK",
+      "page": -1
+    },
+    {
+      "level": 8,
+      "title": "AB 1 JK",
+      "page": -1
+    },
+    {
+      "level": 2,
+      "title": "AB update",
+      "page": -1
+    },
+    {
+      "level": 1,
+      "title": "AB updated",
+      "page": 49
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 74,
+    "garble_ratio": 74.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 4,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

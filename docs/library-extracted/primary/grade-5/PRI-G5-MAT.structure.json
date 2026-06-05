@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "PRI-G5-MAT.pdf",
+    "code": "PRI-G5-MAT",
+    "stage": "PRI",
+    "grade": "G5",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 156,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 484,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑﻮي\nوزارة اﻟﺘﺮﺑﻴﺔ واﻟﺘﻌﻠﻴﻢ\nﺑﺨﺖ اﻟﺮﺿﺎ\n5\n5\nاﻟﺼـــﻒ اﳋﺎﻣﺲ\nاﻟﺼـــﻒ اﳋﺎﻣﺲ\nاﳌﺮﺣﻠﺔ اﻻﺑﺘﺪاﺋﻴﺔ\nﺍﻟﺮﻳﺎﺿﻴﺎﺕ\nﺍﻟﺮﻳﺎﺿﻴﺎﺕ\nﺟﻤﻬﻮرﻳﺔ اﻟﺴﻮدان\n\n\n    الصـف اخلامس- الرياضيات1 \nاملرحلة االبتدائية\nالرياضيات \nالصف اخلامس\nمجهـــورية السودان \nوزارة الرتبية والتعليم  \n تم إعداد الكتاب بواسطة جلنة من املعلمني واخلرباء بتكليف\n .ومتابعة وارشاف من املركز القومي للمناهج والبحث الرتبوي\n\n\nحقــوق اإلعــداد والطبــع والنــر حمفوظــة للمركــز القومــي للمناهــج \nوالبحـث الرتبـوي وال جيـوز ألي فـرد أو ",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 8305,
+    "suspicious_chars": 72,
+    "garble_ratio": 0.01,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

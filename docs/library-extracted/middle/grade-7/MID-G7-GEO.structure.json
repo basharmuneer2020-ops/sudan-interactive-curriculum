@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "file": "MID-G7-GEO.pdf",
+    "code": "MID-G7-GEO",
+    "stage": "MID",
+    "grade": "G7",
+    "subject": "GEO",
+    "variant": null,
+    "page_count": 104,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1440,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " بyسم اهلل الرحمن الرحيم\n جمهورية  الyسودان\nوزارة الرتبية والتعليم\n بخت الر8ضا- املركز القومي للمناهج والبحث الرتبوي\nاملرحلة  املتو3سطة\nكتاب  اجلغرافيا\nالyصف الأول\n م2021 الطبعة الأوىل\n: �إعداد : جلنة بتكليف من املركز القرمي للمناهج والبحث الرتبوي من الأ5ساتذة\n الأ5ستاذ. الباقر رحمه البzشري علي         املركز القومي للمناهج والبحث الرتبوي\n جامعة اخلرطوم -            بروفyسر : 5سمري حممد علي                               كلية الرتبية\n والية اخلرطوم-   الأ5ستاذ: حممد �أحمد ابراهيم  حممود          ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 5,
+        "number": "الأوىل",
+        "title": "قارة �إفريقيا",
+        "title_next": ""
+      },
+      {
+        "page": 40,
+        "number": "الثانية",
+        "title": "قارة �آ3سيا",
+        "title_next": "- 37 -"
+      },
+      {
+        "page": 62,
+        "number": "الثالثة",
+        "title": "قــارة �أوربـــــا",
+        "title_next": "- 59 -"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 15640,
+    "suspicious_chars": 170,
+    "garble_ratio": 0.029,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 3,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "file": "MID-G7-ARA.pdf",
+    "code": "MID-G7-ARA",
+    "stage": "MID",
+    "grade": "G7",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 208,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 774,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " أول متوسط- اللغة العربية1\nال{صف  الأول\nاملرحلة املتو6سطة\nاللغة العربية \nبسم اهلل الرمحن الرحيم \nمجهـــورية الســـودان\nوزارة الرتبية والتعليم \n بخــت الرضا- املركز القـــومي للمناهــج والبحــث الرتبــوي\n:جلنة �إعداد الكتاب\n            خبري تربوي-     �أ.حامد �إبراهيم حامد\n            خبري تربوي-      �أ. عباSس �أحمد الريح\n  خبري تربوي- �أ عبد الرحمن عبد القادر حممد\n \n\n\n الإ7شراف العام\n    املدير العام للمناهج-       �أ.حبيــب �آدم حبيــب\n   الأمني العام للمناهج-   د. مبارك �إ6سحاق يو6سف\nالت{صميم",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 17,
+        "number": "الثانية",
+        "title": "• القراءة: السيدة ملكة الدار",
+        "title_next": "•"
+      },
+      {
+        "page": 91,
+        "number": "الثامنة",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 139,
+        "number": "احلادية",
+        "title": "عzشرة",
+        "title_next": ""
+      },
+      {
+        "page": 151,
+        "number": "الثانية",
+        "title": "عzشر",
+        "title_next": ""
+      },
+      {
+        "page": 167,
+        "number": "الثالثة",
+        "title": "عzشر",
+        "title_next": ""
+      },
+      {
+        "page": 195,
+        "number": "اخلامyسة",
+        "title": "عzشر",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 14229,
+    "suspicious_chars": 63,
+    "garble_ratio": 0.005,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 6,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

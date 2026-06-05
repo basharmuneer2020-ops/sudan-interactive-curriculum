@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "file": "PRI-G3-ARA.pdf",
+    "code": "PRI-G3-ARA",
+    "stage": "PRI",
+    "grade": "G3",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 131,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 549,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑﻮي\nوزارة اﻟﺘﺮﺑﻴﺔ واﻟﺘﻌﻠﻴﻢ\nﺑﺨﺖ اﻟﺮﺿﺎ\nﺍﻟﻠﻐﺔ\nﺍﻟﻌﺮﺑﻴﺔ \n3\n3\nاﳌﺮﺣﻠﺔ اﻻﺑﺘﺪاﺋﻴﺔ\nاﻟﺼﻒ اﻟﺜﺎﻟﺚ\nاﻟﺼﻒ اﻟﺜﺎﻟﺚ\n\n\n1\nاملرحلة االبتدائية\nالصف الثالث\nجمهورية السودان\n وزارة التربية والتعليم\nاملركز القومي للمناهج والبحث التربوي\nبخت الرضا\nاللغة العربية\n مت إعداد الكتاب بواسطة جلنة من املعلمني واخلبراء بتكليف ومتابعة\n .وإشراف من املركز القومي للمناهج والبحث التربوي\n\n\n2\n  بخت الرضا-حقوق التأليف للمركز القومي للمناهج والبحث التربوي\n وحقوق الطبع والنشر محفوظة لوزارة التربية والتعليم وال ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 4,
+        "number": "األولى",
+        "title": "قيم وآداب",
+        "title_next": "١٢ - ٥"
+      },
+      {
+        "page": 4,
+        "number": "الثانية",
+        "title": "مدرستي",
+        "title_next": "٤٤ - ٢٢"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 13104,
+    "suspicious_chars": 8,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 2,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

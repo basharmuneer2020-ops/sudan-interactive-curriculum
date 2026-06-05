@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "file": "PRI-G5-GEO.pdf",
+    "code": "PRI-G5-GEO",
+    "stage": "PRI",
+    "grade": "G5",
+    "subject": "GEO",
+    "variant": null,
+    "page_count": 37,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 449,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "1\n   الصــف الخــامس- الجـغـرافـيـا\nاملرحلة االبتدائية\nالصف اخلامس\nجمهورية السودان\n وزارة التربية والتعليم\nاملركز القومي للمناهج والبحث التربوي\nبخت الرضا\nالجغرافيا\n مت إعداد الكتاب بواســطة جلنـة من املعـلمني واخلـبراء بتكـليف\n.ومتابعة وإشراف من املركز القومي للمناهج والبحث التربوي\n\n\n2\n   الصــف الخــامس- الجـغـرافـيـا\n١٢٠٢م الطبعة األولى\n  بخت الرضا-حقوق التأليف للمركز القومي للمناهج والبحث التربوي\n وحقوق الطبع والنشر محفوظة لوزارة التربية والتعليم وال يجوز ألي جهة طباعة أو\n.بيع هذا الكتاب أو أ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 3,
+        "number": "األولى",
+        "title": "البيئة من حولنا",
+        "title_next": ""
+      },
+      {
+        "page": 16,
+        "number": "الثانية",
+        "title": "مدرستي",
+        "title_next": ""
+      },
+      {
+        "page": 32,
+        "number": "الثالثة",
+        "title": "السودان",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [
+      {
+        "page": 6,
+        "number": "األول",
+        "title": "ماهي اجلغرافيا؟",
+        "title_next": "علم اجلغرافيا هو علم يهتم بدراسة األرض وكل"
+      },
+      {
+        "page": 17,
+        "number": "األول",
+        "title": "أنــا طالــب يف الفصــل اخلامــس يف",
+        "title_next": "املرحلــة االبتدائيــة وأدرس يف هذا الفصل"
+      },
+      {
+        "page": 33,
+        "number": "األول",
+        "title": "",
+        "title_next": ""
+      }
+    ],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 14850,
+    "suspicious_chars": 4,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 3,
+    "chapters_detected": 0,
+    "lessons_detected": 3,
+    "has_toc": false
+  }
+}

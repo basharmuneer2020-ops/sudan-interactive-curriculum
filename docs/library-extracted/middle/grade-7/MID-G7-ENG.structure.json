@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "MID-G7-ENG.pdf",
+    "code": "MID-G7-ENG",
+    "stage": "MID",
+    "grade": "G7",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 66,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 790,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " \n The Republic of the Sudan \nFederal Ministry of Education \nThe National Centre for Curricula and  \nEducational Research (NCCER) \nSudan Modern Integrated Learning of English \n \n \n \n \n \n \nSMILE Series \n \nSMILE Book 7 \nPupil’s Book \n \nGrade 1: Intermediate Level \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2\nNd Edition \n   2021 \n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAcknowledgements \nThe Director General of the National Centre for Curricula and Educational Research (NCCER) would \nlike to extend thank",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 53,
+    "garble_ratio": 53.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

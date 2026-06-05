@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G11-QRN.pdf",
+    "code": "SEC-G11-QRN",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "QRN",
+    "variant": null,
+    "page_count": 190,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 640,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n\u0001\u0002\u0003\u0004\u0005\u0006 \b\t\u0004\u0005\u0006 \n\u0006 \u0001\u000b\f\n \n\u0001\u0002\u0003\u0004\u0005\u0006\u0002 \b\t\n\u0004\u000b\f\r\n \n\u000e\u000f\u0010\u0006\u0002 \u0011\u0012\u0013\u0010\u0014\u0006\u0002\u0015 \b\u0012\u0016\u0017\u0014\u0006\u0002 \u0018\n\u0002\u0019\u0015\n \n\u001a\u0004\u0016\u0017\u0014\u0006\u0002 \u001b\u001c\u001d\u0006\u0002\u0015 \u001e\u001f\u000f \f\u0013\u0006 !\u0002\u0006\f\u0017%$ \u0002\u0006#\u0004ﻡ\n \n\u0016\u001c' \u0002\u0006\u0017&\u000f\n \n\r\f\u0010\n\u000f\u000e \r\f\u000b\n\t\b \u0006\u0005\u0004\u0003\u0002\u0001\n \nא\u0006\u000b\n\bא\u0006\u0005\u0004\u0003\t\bא\u0006\u0005\u0004\u0003\u0002\u0001\n\b\n\b\u0007\u000e\r\f\u0002 \b\u0007\u000b\n\u0005\t\u0002 \b\u0007\u0006\u0005\u0004\u0003\u0002\n\u0010\u0011\u0010\u000f\n\u0012\n\u0005\u0004\u0002\u0003\u0002\n: \n\f\u001d\u0012\u001c \t\u000b\u0018\u0014\u001b\u001a \u0013\u0019 \u0003\f\u0013\n\u0018\u0017 \u0003\f\u0016\b\u0013\u0015 \f\u0014\u0013\u0012\u0011\u0010\u000f \b\u0003\f\t\u000e\r \u0003\f\u000b\n\t\b\u0007\n\u001e\n\u0013\u0019 \u0003 \u001f\u0011\n: \u000b\"!\n\u0003\f\u0013%\u0011\n\u0018\b\u0019 $\u0015 \u0003\f\u000b#\f\u001b\u001a\n: \n\u0003 \u001f\u000b\u0011\" \u0003\f\u0002\u0018\u000b\b\n: \n\u0013\u000e\u0013\u0002 \u0004)\u0013(\u0011\u0019 '\u0011\f&\n\u0013\u0002\u001b\n \u0013\n\u0018\u0017 +\t\u000e\u0011\r \u0003*\u001b\u0013\u0011\u0019\n \n\u0003 \u001f\u000b\u0011\"\n: \n\u0004\t\u0002 \u0003\f\t\u0011\u001f, \u0004\t\u0002 \u0003\f\u0013\u0011\u001d\u0002 \t%\u001b\n-\t\u001b\n \u000b\n\t\b\u0007\n \n\u0003\f\u0013%\u0011\n\u0018\b\u0019 $\u0015 \u0003\f\u000b#\f\u001b\u001a \b\u0003\f\u000b,\b\u001b\n: \n\u0003\f\u0002\u0018\u000b\b\n: \n\u0004)\u0013(\u0011\u0019 \u0013\u001b\n.\u0012\u0015 \u0004\u0014\u0015\n \n\u001d\u0011\u00131\u001c +0 \u0002\n\u0013\u0011\u0019 \u0003*\u001f/\u0013\u001b\u001c\n \n\u0003 \u001f\u000b\u0011",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 18,
+    "suspicious_chars": 173,
+    "garble_ratio": 9.611,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

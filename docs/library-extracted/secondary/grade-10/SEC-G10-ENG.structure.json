@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "file": "SEC-G10-ENG.pdf",
+    "code": "SEC-G10-ENG",
+    "stage": "SEC",
+    "grade": "G10",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 225,
+    "language": "mixed"
+  },
+  "quality": {
+    "avg_chars_per_page": 3,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "\n\n\n\nISBN  978-99942-919-0-8ردﻣك\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "score": 0,
+    "rating": "empty"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

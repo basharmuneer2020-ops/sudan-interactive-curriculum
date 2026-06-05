@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "file": "PRI-G4-MAT.pdf",
+    "code": "PRI-G4-MAT",
+    "stage": "PRI",
+    "grade": "G4",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 119,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 387,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑﻮي\nوزارة اﻟﺘﺮﺑﻴﺔ واﻟﺘﻌﻠﻴﻢ\nﺑﺨﺖ اﻟﺮﺿﺎ\n4\n4\nاﻟﺼـــﻒ اﻟﺮاﺑﻊ\nاﻟﺼـــﻒ اﻟﺮاﺑﻊ\nاﳌﺮﺣﻠﺔ اﻹﺑﺘﺪاﺋﻴﺔ\nﺍﻟﺮﻳﺎﺿﻴﺎﺕ\nﺍﻟﺮﻳﺎﺿﻴﺎﺕ\nﺟﻤﻬﻮرﻳﺔ اﻟﺴﻮدان\n\n\nجمهورية الùسودان\nوزارة الرتبية والتعليم\nاملركز القومي للمناهج والبحث الرتبوي\nبخت الر9ضا\nالمرحلة االبتدائية\nال{صف الرابع\nالريا9ضيات\n تم إعداد الكتاب بواسطة جلنة من املعلمني واخلرباء بتكليف\n .ومتابعة وارشاف من املركز القومي للمناهج والبحث الرتبوي\n\n\nب\n بخت  الرتبوي والبحث للمناهج القومي للمركز حمفوظة احلقوق جميع\n �أو طبعه �إعادة �أو الكتاب هذا",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 25,
+        "number": "الثانية",
+        "title": "4",
+        "title_next": ""
+      },
+      {
+        "page": 53,
+        "number": "الثالثة",
+        "title": "مل 350",
+        "title_next": "1"
+      },
+      {
+        "page": 60,
+        "number": "الرابعة",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 71,
+        "number": "اخلامسة",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 86,
+        "number": "الساد6سة",
+        "title": "د",
+        "title_next": "ن"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": 3,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 5634,
+    "suspicious_chars": 71,
+    "garble_ratio": 0.015,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 5,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

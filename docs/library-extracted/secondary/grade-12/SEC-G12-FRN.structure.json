@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G12-FRN.pdf",
+    "code": "SEC-G12-FRN",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "FRN",
+    "variant": null,
+    "page_count": 88,
+    "language": "mixed"
+  },
+  "quality": {
+    "avg_chars_per_page": 714,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nJ’APPRENDS LE  FRANÇAIS 3\na\n∫ÊuH\u0016R*«\nbL\b√wK\u0011 U\u001ad\u0015“ Ø —u\u001d\u0015b\u0016«\nÊUL\u001e\u0011 .dJ\u0016« b\u001c\u0011 w\u0015“ Ø –U\u001d\n_«\n∫»U\u001dJ\u0016« «c\u0019 s\u0017 v\u0016Ë_« WK\bd*« œ«b\u0011≈w\u0013 „—U\u000b\ndJ\u0004U\u0004 —œUI\u0016« b\u001c\u0011 WEOH\b Ø …–U\u001d\n_«\n∫`OIM\u0005\nد. زﻛﺮﻳـــــﺎﻋـــــــﻠﻲ أﺣــــﻤﺪ :ﺟﺎﻣﻌــــــﺔ اﳋﺮﻃـــــــــﻮم  \nاﻷﺳﺘﺎذ / زﻛﻲﻋﺒﺪ اﻟﻜـــــــﺮﱘﻋﺜﻤﺎن  :ﺟﺎﻣﻌــــــﺔﺟﻮﺑـــــــــــــــــــﺎ\nاﻷﺳﺘﺎذ /ﻋﺒﺪ اﳊﻤﻴﺪ اﳊﺎجﻣﺤﻤﺪ آدم: اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑــــﻮي\nاﻷﺳﺘﺎذ /ﺳﻴﻒ اﻟﺪوﻟﺔﻋﻠﻰﺳﻴﺪ أﺣﻤﺪ: اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑـــﻮي\n∫ wMH\u0016« Ã«d\tù«Ë rOLB\u001d\u0016«\n \nاﻷﺳﺘﺎذ /ﻣﺠﺪيﻣﺤﺠﻮبﻓﺘﺢ اﻟﺮﺣ",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 101,
+    "garble_ratio": 101.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

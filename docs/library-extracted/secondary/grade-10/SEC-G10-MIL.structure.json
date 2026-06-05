@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G10-MIL.pdf",
+    "code": "SEC-G10-MIL",
+    "stage": "SEC",
+    "grade": "G10",
+    "subject": "MIL",
+    "variant": null,
+    "page_count": 83,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 0,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "fhfhhgj\n\n\n\n\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 0,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

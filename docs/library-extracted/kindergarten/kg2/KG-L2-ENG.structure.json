@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "file": "KG-L2-ENG.pdf",
+    "code": "KG-L2-ENG",
+    "stage": "KG",
+    "grade": "L2",
+    "subject": "ENG",
+    "variant": null,
+    "page_count": 12,
+    "language": "mixed"
+  },
+  "quality": {
+    "avg_chars_per_page": 1009,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "KG-L2-ENG \n \n  \n \n ـ اللغة اإلنجليزية ـ المستوى الثاني (KG2) \n ـ\n٠٢ \n دقيقة يومًيا\n صفحة1\n من 12\n🔤 \n اللغة اإلنجليزية\nEnglish Language — KG2\n المستوى الثاني (KG2) \n ـ\n٠٢ \n دقيقة يومًيا\n \n \n \n  \n \n لعبة لغوية ممتعة ـ بال خوف وال ضغط\n \n \n مشروع المنهج السوداني التفاعلي\n كود الملف: KG-L2-ENG\n اإلصدار1.0\n \n  ـ أبريل2026\n  ـ رخصة MIT\n\n\nKG-L2-ENG \n \n  \n \n ـ اللغة اإلنجليزية ـ المستوى الثاني (KG2) \n ـ\n٠٢ \n دقيقة يومًيا\n صفحة2\n من 12\n١ \n .فلسفة المادة\n \n \n \n \n \n .\n \n \n \n \n \n \n \n اإلنجليزية في الروضة ليس",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "١. فلسفة المادة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "الأهداف العامة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "كيف تُدرَّس هذه المادة؟",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "ما نتجنّبه",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "٢. الخطة الأسبوعية (٣٢ أسبوعًا)",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الأول",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الثاني",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "٣. المخرجات المتوقعة",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "مخرجات شاملة نهاية المرحلة",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "مؤشرات الإنجاز (Checklist للمعلمة)",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "٤. نموذج درس نموذجي",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Section 1 — Opening Song (2 min)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Section 2 — Flashcards (4 min)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Section 3 — TPR Game (5 min)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Section 4 — Color Song (4 min)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Section 5 — Craft (4 min)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "Section 6 — Closing (1 min)",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "٥. ملاحظات للمعلمة",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "نصائح تربوية",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "إدارة الصف",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "مواقف صعبة وكيف تتعاملين معها",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 1: طفل يرفض الكلام بالإنجليزية",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 2: طفل يخلط بين العربية والإنجليزية",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 3: الأهل يطلبون دروسًا بكتاب ضخم",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "٦. أنشطة بيتيّة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "لوحة متابعة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "٧. مواصفات الأنشطة الرقمية للمنصة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "قائمة الوحدات الرقمية المقترحة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "معايير التصميم",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "٨. مصادر وأدوات مساعدة",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "Suggested English Songs",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "Simple Classroom Commands",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "٩. خاتمة ومراجع",
+      "page": 11
+    },
+    {
+      "level": 2,
+      "title": "المراجع",
+      "page": 11
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 3845,
+    "suspicious_chars": 14,
+    "garble_ratio": 0.004,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

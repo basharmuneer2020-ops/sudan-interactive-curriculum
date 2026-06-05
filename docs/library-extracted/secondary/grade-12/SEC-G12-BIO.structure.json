@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "file": "SEC-G12-BIO.pdf",
+    "code": "SEC-G12-BIO",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "BIO",
+    "variant": null,
+    "page_count": 252,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 793,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nِب}سمِ 'هللِ 'لرَّحمنِ 'لرَّحيم\nجُ مهورِيَّةُ 'ل}سُّ ود'نِ\nوز'رة 'لرتبية و'لتعليم\n'ملركز 'لقومي للمناهج و'لبحث 'لرتبوي\nّانوِيُّnّعليمُ الثnالت\nــــــــــاءِnيrحnمُ الأrعِل\nّالِثُnّ فُّ الثn الxس\nجلنةُ اإعدادِ الكتابِ وتطويره :\n   'ملنــــاهج بخت 'لر6ســــا -         د. ر'4سد عبد'هلل 'أحمد ح}سونه\n   'ملنـــــاهج بخت 'لر6ســـا-                   د. 3سليمان حممد 'حل}سن\n   'ملنــــاهج بخت 'لر6ســــا-                 'أ3ستاذ. بدري حممد 'أو4سي\n جامعة 'ل}سود'ن 'ملفتوحة-  بروفي}سور. عبد 'ل}سالم حممود ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 5,
+        "number": "الأوىل",
+        "title": "التَّكاثُر",
+        "title_next": "Reproduction"
+      },
+      {
+        "page": 135,
+        "number": "الثانية",
+        "title": "الـوراثـة",
+        "title_next": "Genetics"
+      },
+      {
+        "page": 209,
+        "number": "الثالثة",
+        "title": "النِّظامُ البيئِ ي",
+        "title_next": "Ecosystem"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 12743,
+    "suspicious_chars": 272,
+    "garble_ratio": 0.022,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 3,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

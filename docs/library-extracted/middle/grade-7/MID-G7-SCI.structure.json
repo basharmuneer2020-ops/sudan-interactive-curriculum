@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "file": "MID-G7-SCI.pdf",
+    "code": "MID-G7-SCI",
+    "stage": "MID",
+    "grade": "G7",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 152,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 754,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " أول متوسط- العلوم الطبيعية1\nبسم اهلل الرمحن الرحيم\nمجهورية السودان\nوزارة الرتبية والتعليم\nاملركز القومي للمناهج والبحث الرتبوي\nبخت الرضا\n      املرحلة  املتوسطة\n»    «تساءل واستقص وتعلم\nالطſب ȭي عſيƭة العلوم\nالصف األول\n:إعداد\nد .راشد عبد اهلل أمحد حسونه\nأ.حبيب آدم حبيب\nأ.مي الضو يوسف\nأ.أمحد محد النيل حسب اهلل\n.املركز القومي للمناهج والبحث الرتبوي\n\n\nاإلرشاف العام\n املدير العام املكلف-  أ. حبيب أدم حبيب\n  األمني العام- د. مبارك إسحق حممد\n: التصميم واإلخراج الفني\n د. جمدي حمجوب فتح الرمحن\nاملركز ا",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 6,
+        "number": "األوىل",
+        "title": "العلم و القيا6س",
+        "title_next": "1 ح"
+      },
+      {
+        "page": 29,
+        "number": "الثانية",
+        "title": "القوة وال|ضغط",
+        "title_next": ""
+      },
+      {
+        "page": 61,
+        "number": "الثالثة",
+        "title": "املـــادة",
+        "title_next": ""
+      },
+      {
+        "page": 90,
+        "number": "الرابعة",
+        "title": "تركيب اخللية",
+        "title_next": ""
+      },
+      {
+        "page": 104,
+        "number": "اخلامسة",
+        "title": "احليوانات غري الفقارية",
+        "title_next": ")(الالفقاريات"
+      },
+      {
+        "page": 126,
+        "number": "السادسة",
+        "title": "الكائنات احلية",
+        "title_next": "وبيئاتها"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 11372,
+    "suspicious_chars": 15,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 6,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

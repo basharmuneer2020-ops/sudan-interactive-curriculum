@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "file": "MID-G7-MAT.pdf",
+    "code": "MID-G7-MAT",
+    "stage": "MID",
+    "grade": "G7",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 145,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 985,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": " جمهورية  الyسودان\nوزارة الرتبية والتعليم\n بخت الر8ضا- املركز القومي للمناهج والبحث الرتبوي\n                                                                                \n                                  املرحلة املتو3سطة\nالريـــا6ضيـــات\n                                    الyصف الأول\nا\nـ\nض\nض\nر\nل\nا \nت\nـ\nخ\nب\n\n\n بyسم اهلل الرحمن الرحيم\n جمهورية ال}سودان\nوزارة الرتبية والتعليم\n بخت الر6ضا- املركز القومي للمناهج والبحث الرتبوي \n                                                                    ",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 6,
+        "number": "الأوىل",
+        "title": "جمموعة الأعداد النwسبية",
+        "title_next": "- 2 -"
+      },
+      {
+        "page": 37,
+        "number": "الثانية",
+        "title": "اجلمل الريا6ضية واملعادالت",
+        "title_next": "، 3س6 = 2 + 3س 5"
+      },
+      {
+        "page": 53,
+        "number": "الثالثة",
+        "title": "املzضـــلعـــات",
+        "title_next": ""
+      },
+      {
+        "page": 64,
+        "number": "الرابعة",
+        "title": "الزوج املرتب والعالقات",
+        "title_next": "جوهر زينب"
+      },
+      {
+        "page": 83,
+        "number": "اخلامwسة",
+        "title": "التكـــــــــــاف�ؤ",
+        "title_next": ""
+      },
+      {
+        "page": 96,
+        "number": "الwساد3سة",
+        "title": "النظــام الثنــائي",
+        "title_next": ""
+      },
+      {
+        "page": 119,
+        "number": "الثامنة",
+        "title": "الإحyصـــــــاء",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 7802,
+    "suspicious_chars": 174,
+    "garble_ratio": 0.024,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 7,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

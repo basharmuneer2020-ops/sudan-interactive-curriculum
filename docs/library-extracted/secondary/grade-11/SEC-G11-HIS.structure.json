@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "file": "SEC-G11-HIS.pdf",
+    "code": "SEC-G11-HIS",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "HIS",
+    "variant": null,
+    "page_count": 194,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 838,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nبسم اهلل الرحمن الرحمي\nجمهورية السودان\nوزارة التربية والتعلمي \nاملركز القومي للمناهج والبحث التربوي\nبحت الرضا\n املرحلة الثانوية\n             التــــــــــاريخ\nالصف الثاني \n من األساتذة :- إعداد : جلنة بتكليف من املركز القومي للمناهج والبحث التربوي\n       األستاذ/ أحمد عبد الكرمي أحمد   – املركز القومي للمناهج والبحث التربوي     \n      األستاذ الدكتور/ عمر حاج الزاكي  – جامعة أم درمان اإلسالمية\n األستاذ الدكتور/ حسن محمد صالح – جامعة اخلرطوم\n الدكتور/ الفاحت الشيخ يوسف        – جامعة اجلزيرة\n ا",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 3,
+        "number": "األولى",
+        "title": "املصري للسودان . - الـحكم التركي",
+        "title_next": "............... مدخل .3"
+      },
+      {
+        "page": 7,
+        "number": "األولى",
+        "title": ") احلكـــــــم الرتكي امل{صري 1(",
+        "title_next": "1885 – م1820 للyسودان"
+      },
+      {
+        "page": 8,
+        "number": "الأوىل",
+        "title": ") احلكم الرتكي امل{صري للyسودان1(",
+        "title_next": "1885 – م1820"
+      },
+      {
+        "page": 48,
+        "number": "الثانية",
+        "title": "ملحات من تـــــاريخ الyسودان",
+        "title_next": "احلديث واملعا8صر"
+      },
+      {
+        "page": 89,
+        "number": "الثالثة",
+        "title": "تاريـح �أوربــــــــــا احلديث",
+        "title_next": ""
+      },
+      {
+        "page": 147,
+        "number": "الرابعة",
+        "title": "ال{صراع الأوربــــــــي حول",
+        "title_next": "التو6سع ال6ستعماري"
+      }
+    ],
+    "chapter_ar": [
+      {
+        "page": 58,
+        "number": "بين",
+        "title": "السطات التشريعية والتنفيذية والقضائية.",
+        "title_next": ""
+      }
+    ],
+    "lesson_ar": [
+      {
+        "page": 4,
+        "number": "األول",
+        "title": "........ العصور الوسطى يف أوربا. 89",
+        "title_next": ""
+      }
+    ],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 18251,
+    "suspicious_chars": 42,
+    "garble_ratio": 0.003,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 6,
+    "chapters_detected": 1,
+    "lessons_detected": 1,
+    "has_toc": false
+  }
+}

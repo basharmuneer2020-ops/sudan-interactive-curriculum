@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "file": "PRI-G2-MAT.pdf",
+    "code": "PRI-G2-MAT",
+    "stage": "PRI",
+    "grade": "G2",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 76,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 313,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑﻮي\nوزارة اﻟﺘﺮﺑﻴﺔ واﻟﺘﻌﻠﻴﻢ\nﺑﺨﺖ اﻟﺮﺿﺎ\n2\n2\nاﻟﺼـــﻒ اﻟﺜﺎﻧﻲ\nاﻟﺼـــﻒ اﻟﺜﺎﻧﻲ\nاﳌﺮﺣﻠﺔ اﻻﺑﺘﺪاﺋﻴﺔ\nﺍﻟﺮﻳﺎﺿﻴﺎﺕ\nﺍﻟﺮﻳﺎﺿﻴﺎﺕ\nﺟﻤﻬﻮرﻳﺔ اﻟﺴﻮدان\n\n\nجمهورية الùسودان\nوزارة الرتبية والتعليم\nاملركز القومي للمناهج والبحث الرتبوي\nبخت الر9ضا\nمرحلة التعليم االبتدائي\nال{صف الثاين\nالريا9ضيات\n �أعدَّت الكتاب جلنة من املعـلمني واخلـرباء بتكــليف ومتابعـة\n.و�إ7شـراف من املركز القـومي للمناهـج والبحـث الرتبـوي\n\n\n جميع حقوق الطبع  والت�أليف ملك للمركز القومي للمناهج والبحث\n الرتبوي. واليحق لأي جهة ن",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 8,
+        "number": "الأوىل",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 21,
+        "number": "الثانية",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 28,
+        "number": "الثالثة",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 52,
+        "number": "الرابعة",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 62,
+        "number": "اخلامyسة",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 70,
+        "number": "الyساد6سة",
+        "title": "",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 2482,
+    "suspicious_chars": 132,
+    "garble_ratio": 0.055,
+    "rating": "garbled"
+  },
+  "summary": {
+    "units_detected": 6,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

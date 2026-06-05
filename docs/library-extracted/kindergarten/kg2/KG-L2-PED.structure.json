@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "file": "KG-L2-PED.pdf",
+    "code": "KG-L2-PED",
+    "stage": "KG",
+    "grade": "L2",
+    "subject": "PED",
+    "variant": null,
+    "page_count": 11,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 884,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "KG-L2-PED \n \n  \n \n ـ الصحة والحركة ـ المستوى الثاني (KG2) \n \n ـ عمر\n٥-٦\n صفحة1\n من 11\n🏃 \n الصحة والحركة\nHealth & Physical Education — KG2\n المستوى الثاني (KG2) \n \n ـ عمر\n٥-٦\n \n \n  \n \n مهارات رياضية أعلى ـ وعي صحي أعمق\n \n \n مشروع المنهج السوداني التفاعلي\n كود الملف: KG-L2-PED\n اإلصدار1.0\n \n  ـ أبريل2026\n  ـ رخصة MIT\n\n\nKG-L2-PED \n \n  \n \n ـ الصحة والحركة ـ المستوى الثاني (KG2) \n \n ـ عمر\n٥-٦\n صفحة2\n من 11\n١ \n .فلسفة المادة\nفي KG2 \n \n .\n \n \n \n \n \n \n \n \n ا وألعاب جماعية منظمة الجسم اآلنديرتقي الطفل إل",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "١. فلسفة المادة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "الأهداف العامة",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "كيف تُدرَّس هذه المادة؟",
+      "page": 2
+    },
+    {
+      "level": 2,
+      "title": "ما نتجنّبه",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "٢. الخطة الأسبوعية (٣٢ أسبوعًا)",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الأول",
+      "page": 3
+    },
+    {
+      "level": 2,
+      "title": "الفصل الدراسي الثاني",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "٣. المخرجات المتوقعة",
+      "page": 5
+    },
+    {
+      "level": 2,
+      "title": "مخرجات شاملة نهاية المرحلة",
+      "page": 5
+    },
+    {
+      "level": 3,
+      "title": "مؤشرات الإنجاز (Checklist للمعلمة)",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "٤. نموذج درس نموذجي",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ١ ـ تسخين (٥ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٢ ـ شرح القواعد (٥ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٣ ـ تطبيق تجريبي (٨ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٤ ـ مباراة حقيقية (١٠ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٥ ـ تهدئة وحوار (٥ دقائق)",
+      "page": 6
+    },
+    {
+      "level": 2,
+      "title": "الفقرة ٦ ـ ماء وانتهاء (٢ دقيقة)",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "٥. ملاحظات للمعلمة",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "نصائح تربوية",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "إدارة الصف",
+      "page": 7
+    },
+    {
+      "level": 2,
+      "title": "مواقف صعبة وكيف تتعاملين معها",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 1: طفل يبكي عند الخسارة",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 2: طفل يضرب زميله",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 3: طفل يدّعي المرض لتجنب الرياضة",
+      "page": 7
+    },
+    {
+      "level": 3,
+      "title": "الموقف 4: طفل نشط جدًا",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "٦. أنشطة بيتيّة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 2,
+      "title": "لوحة متابعة للأسرة",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "٧. مواصفات الأنشطة الرقمية للمنصة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "قائمة الوحدات الرقمية المقترحة",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "معايير التصميم",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "٨. مصادر وأدوات مساعدة",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "رياضات مناسبة للأطفال",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "وصفات صحية سودانية للأطفال",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "٩. خاتمة ومراجع",
+      "page": 10
+    },
+    {
+      "level": 2,
+      "title": "المراجع",
+      "page": 10
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "arabic_chars": 5244,
+    "suspicious_chars": 5,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

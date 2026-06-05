@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G12-ESC.pdf",
+    "code": "SEC-G12-ESC",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "ESC",
+    "variant": null,
+    "page_count": 226,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1218,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n ≥   WO\nbMN\u0013« ÂuKF\u0013«   \nﺑﺴﻢ اﷲ اﻟﺮﺣﻤﻦ اﻟﺮﺣﻴﻢ                                                            \nÊ«œu\u001f\u0013« W\u0017—uNL\u0007\nÍu\u0004d\u001a\u0013« Y\u001d\u0019\u0013«Ë Z\u0016UMLK\u0013 w\u0014uI\u0013« e\u0012d*«\nU?{d\u0013« X\u001e\u0004\nÍu\u0015U\u001b\u0013« rOKF\u001a\u0013«\n WO\nbMN\u0014« ÂuKF\u0014«\nY\u0013U\u001b\u0013« nB\u0013«\n∫ …c\u0005U\n_« s\u0014 Íu\u0004d\u001a\u0013« Y\u001d\u0019\u0013«Ë Z\u0016UMLK\u0013 w\u0014uI\u0013« e\u0012d*« s\u0014 nOKJ\u001a\u0004 WM' œ«b\u000e≈   \n أ. ﻋﺒﺪ اﻟﺮﺣﻴﻢ ﺳﻌﻴﺪ ﻣﺤﻤﺪ ﻧﻮر   : اﳌﺮﻛﺰ اﻟﻘﻮﻣﻲ ﻟﻠﻤﻨﺎﻫﺞ واﻟﺒﺤﺚ اﻟﺘﺮﺑــﻮي    \nأ. د ﻋﺼﺎم ﻣﺤﻤﺪ ﻋﺒﺪ اﳌﺎﺟﺪ      : ﺟﺎﻣﻌﺔ اﻟﺴــــــﻮدان ﻟﻠﻌـﻠﻮم واﻟﺘﻜﻨﻮﻟﻮﺟﻴــﺎ     \n     د. ﻋﻠــــــــﻲ ﻣﺤﻤﺪﻋﻠــــــــــــﻲ        : ﺟــــــــ",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 3495,
+    "suspicious_chars": 0,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

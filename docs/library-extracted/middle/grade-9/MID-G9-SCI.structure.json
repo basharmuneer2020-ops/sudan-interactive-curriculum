@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "MID-G9-SCI.pdf",
+    "code": "MID-G9-SCI",
+    "stage": "MID",
+    "grade": "G9",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 193,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 10,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "التعليمي المعلم\nتم تحميل ورفع المادة على منصة\nللعودة الى الموقع اكتب في بحث جوجل\nالمعلم التعليمي\nALMUALM.COM\n\n\n\n\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 80,
+    "suspicious_chars": 0,
+    "garble_ratio": 0.0,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

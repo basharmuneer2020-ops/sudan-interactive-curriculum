@@ -1,0 +1,658 @@
+{
+  "meta": {
+    "file": "SEC-G11-ARA-BLG.pdf",
+    "code": "SEC-G11-ARA-BLG",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "ARA",
+    "variant": "BLG",
+    "page_count": 125,
+    "language": "mixed"
+  },
+  "quality": {
+    "avg_chars_per_page": 0,
+    "quality": "scanned",
+    "needs_ocr": true
+  },
+  "first_pages_preview": "\n\n\n\n",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [
+    {
+      "level": 1,
+      "title": "البلاغة -الغلاف الداخلي",
+      "page": 2
+    },
+    {
+      "level": 1,
+      "title": "المحتويات",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "مقدمة - أ",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "مقدمة - ب",
+      "page": 5
+    },
+    {
+      "level": 1,
+      "title": "القسم الأول المعاني",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "1",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "2",
+      "page": 8
+    },
+    {
+      "level": 1,
+      "title": "3",
+      "page": 9
+    },
+    {
+      "level": 1,
+      "title": "4",
+      "page": 10
+    },
+    {
+      "level": 1,
+      "title": "5",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "6",
+      "page": 12
+    },
+    {
+      "level": 1,
+      "title": "7",
+      "page": 13
+    },
+    {
+      "level": 1,
+      "title": "8",
+      "page": 14
+    },
+    {
+      "level": 1,
+      "title": "9",
+      "page": 15
+    },
+    {
+      "level": 1,
+      "title": "10",
+      "page": 16
+    },
+    {
+      "level": 1,
+      "title": "11",
+      "page": 17
+    },
+    {
+      "level": 1,
+      "title": "12",
+      "page": 18
+    },
+    {
+      "level": 1,
+      "title": "13",
+      "page": 19
+    },
+    {
+      "level": 1,
+      "title": "14",
+      "page": 20
+    },
+    {
+      "level": 1,
+      "title": "15",
+      "page": 21
+    },
+    {
+      "level": 1,
+      "title": "16",
+      "page": 22
+    },
+    {
+      "level": 1,
+      "title": "17",
+      "page": 23
+    },
+    {
+      "level": 1,
+      "title": "18",
+      "page": 24
+    },
+    {
+      "level": 1,
+      "title": "19",
+      "page": 25
+    },
+    {
+      "level": 1,
+      "title": "20",
+      "page": 26
+    },
+    {
+      "level": 1,
+      "title": "21",
+      "page": 27
+    },
+    {
+      "level": 1,
+      "title": "22",
+      "page": 28
+    },
+    {
+      "level": 1,
+      "title": "23",
+      "page": 29
+    },
+    {
+      "level": 1,
+      "title": "24",
+      "page": 30
+    },
+    {
+      "level": 1,
+      "title": "25",
+      "page": 31
+    },
+    {
+      "level": 1,
+      "title": "26",
+      "page": 32
+    },
+    {
+      "level": 1,
+      "title": "27",
+      "page": 33
+    },
+    {
+      "level": 1,
+      "title": "28",
+      "page": 34
+    },
+    {
+      "level": 1,
+      "title": "29",
+      "page": 35
+    },
+    {
+      "level": 1,
+      "title": "30",
+      "page": 36
+    },
+    {
+      "level": 1,
+      "title": "31",
+      "page": 37
+    },
+    {
+      "level": 1,
+      "title": "32",
+      "page": 38
+    },
+    {
+      "level": 1,
+      "title": "33",
+      "page": 39
+    },
+    {
+      "level": 1,
+      "title": "34",
+      "page": 40
+    },
+    {
+      "level": 1,
+      "title": "35",
+      "page": 41
+    },
+    {
+      "level": 1,
+      "title": "36",
+      "page": 42
+    },
+    {
+      "level": 1,
+      "title": "37",
+      "page": 43
+    },
+    {
+      "level": 1,
+      "title": "38",
+      "page": 44
+    },
+    {
+      "level": 1,
+      "title": "39",
+      "page": 45
+    },
+    {
+      "level": 1,
+      "title": "40",
+      "page": 46
+    },
+    {
+      "level": 1,
+      "title": "41",
+      "page": 47
+    },
+    {
+      "level": 1,
+      "title": "42",
+      "page": 48
+    },
+    {
+      "level": 1,
+      "title": "43",
+      "page": 49
+    },
+    {
+      "level": 1,
+      "title": "44",
+      "page": 50
+    },
+    {
+      "level": 1,
+      "title": "45",
+      "page": 51
+    },
+    {
+      "level": 1,
+      "title": "46",
+      "page": 52
+    },
+    {
+      "level": 1,
+      "title": "47",
+      "page": 53
+    },
+    {
+      "level": 1,
+      "title": "48",
+      "page": 54
+    },
+    {
+      "level": 1,
+      "title": "49",
+      "page": 55
+    },
+    {
+      "level": 1,
+      "title": "50",
+      "page": 56
+    },
+    {
+      "level": 1,
+      "title": "51",
+      "page": 57
+    },
+    {
+      "level": 1,
+      "title": "52",
+      "page": 58
+    },
+    {
+      "level": 1,
+      "title": "53",
+      "page": 59
+    },
+    {
+      "level": 1,
+      "title": "54",
+      "page": 60
+    },
+    {
+      "level": 1,
+      "title": "55",
+      "page": 61
+    },
+    {
+      "level": 1,
+      "title": "56",
+      "page": 62
+    },
+    {
+      "level": 1,
+      "title": "57",
+      "page": 63
+    },
+    {
+      "level": 1,
+      "title": "58",
+      "page": 64
+    },
+    {
+      "level": 1,
+      "title": "59",
+      "page": 65
+    },
+    {
+      "level": 1,
+      "title": "60",
+      "page": 66
+    },
+    {
+      "level": 1,
+      "title": "61",
+      "page": 67
+    },
+    {
+      "level": 1,
+      "title": "62",
+      "page": 68
+    },
+    {
+      "level": 1,
+      "title": "63",
+      "page": 69
+    },
+    {
+      "level": 1,
+      "title": "64",
+      "page": 70
+    },
+    {
+      "level": 1,
+      "title": "65",
+      "page": 71
+    },
+    {
+      "level": 1,
+      "title": "66",
+      "page": 72
+    },
+    {
+      "level": 1,
+      "title": "67",
+      "page": 73
+    },
+    {
+      "level": 1,
+      "title": "68",
+      "page": 74
+    },
+    {
+      "level": 1,
+      "title": "69",
+      "page": 75
+    },
+    {
+      "level": 1,
+      "title": "70",
+      "page": 76
+    },
+    {
+      "level": 1,
+      "title": "71",
+      "page": 77
+    },
+    {
+      "level": 1,
+      "title": "72",
+      "page": 78
+    },
+    {
+      "level": 1,
+      "title": "73",
+      "page": 79
+    },
+    {
+      "level": 1,
+      "title": "74",
+      "page": 80
+    },
+    {
+      "level": 1,
+      "title": "75",
+      "page": 81
+    },
+    {
+      "level": 1,
+      "title": "76",
+      "page": 82
+    },
+    {
+      "level": 1,
+      "title": "77",
+      "page": 83
+    },
+    {
+      "level": 1,
+      "title": "78",
+      "page": 84
+    },
+    {
+      "level": 1,
+      "title": "79",
+      "page": 85
+    },
+    {
+      "level": 1,
+      "title": "80",
+      "page": 86
+    },
+    {
+      "level": 1,
+      "title": "81",
+      "page": 87
+    },
+    {
+      "level": 1,
+      "title": "82",
+      "page": 88
+    },
+    {
+      "level": 1,
+      "title": "83",
+      "page": 89
+    },
+    {
+      "level": 1,
+      "title": "84",
+      "page": 90
+    },
+    {
+      "level": 1,
+      "title": "85",
+      "page": 91
+    },
+    {
+      "level": 1,
+      "title": "86",
+      "page": 92
+    },
+    {
+      "level": 1,
+      "title": "87",
+      "page": 93
+    },
+    {
+      "level": 1,
+      "title": "88",
+      "page": 94
+    },
+    {
+      "level": 1,
+      "title": "89",
+      "page": 95
+    },
+    {
+      "level": 1,
+      "title": "90",
+      "page": 96
+    },
+    {
+      "level": 1,
+      "title": "91",
+      "page": 97
+    },
+    {
+      "level": 1,
+      "title": "92",
+      "page": 98
+    },
+    {
+      "level": 1,
+      "title": "93",
+      "page": 99
+    },
+    {
+      "level": 1,
+      "title": "94",
+      "page": 100
+    },
+    {
+      "level": 1,
+      "title": "95",
+      "page": 101
+    },
+    {
+      "level": 1,
+      "title": "96",
+      "page": 102
+    },
+    {
+      "level": 1,
+      "title": "97",
+      "page": 103
+    },
+    {
+      "level": 1,
+      "title": "98",
+      "page": 104
+    },
+    {
+      "level": 1,
+      "title": "99",
+      "page": 105
+    },
+    {
+      "level": 1,
+      "title": "100",
+      "page": 106
+    },
+    {
+      "level": 1,
+      "title": "101",
+      "page": 107
+    },
+    {
+      "level": 1,
+      "title": "102",
+      "page": 108
+    },
+    {
+      "level": 1,
+      "title": "103",
+      "page": 109
+    },
+    {
+      "level": 1,
+      "title": "104",
+      "page": 110
+    },
+    {
+      "level": 1,
+      "title": "105",
+      "page": 111
+    },
+    {
+      "level": 1,
+      "title": "106",
+      "page": 112
+    },
+    {
+      "level": 1,
+      "title": "107",
+      "page": 113
+    },
+    {
+      "level": 1,
+      "title": "108",
+      "page": 114
+    },
+    {
+      "level": 1,
+      "title": "109",
+      "page": 115
+    },
+    {
+      "level": 1,
+      "title": "110",
+      "page": 116
+    },
+    {
+      "level": 1,
+      "title": "111",
+      "page": 117
+    },
+    {
+      "level": 1,
+      "title": "112",
+      "page": 118
+    },
+    {
+      "level": 1,
+      "title": "113",
+      "page": 119
+    },
+    {
+      "level": 1,
+      "title": "114",
+      "page": 120
+    },
+    {
+      "level": 1,
+      "title": "115",
+      "page": 121
+    },
+    {
+      "level": 1,
+      "title": "116",
+      "page": 122
+    },
+    {
+      "level": 1,
+      "title": "117",
+      "page": 123
+    },
+    {
+      "level": 1,
+      "title": "118",
+      "page": 124
+    },
+    {
+      "level": 1,
+      "title": "119",
+      "page": 125
+    }
+  ],
+  "toc_from_text": {},
+  "extraction_quality": {
+    "score": 0,
+    "rating": "empty"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": true
+  }
+}

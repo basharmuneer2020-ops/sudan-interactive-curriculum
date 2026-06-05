@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "file": "MID-G8-ARA.pdf",
+    "code": "MID-G8-ARA",
+    "stage": "MID",
+    "grade": "G8",
+    "subject": "ARA",
+    "variant": null,
+    "page_count": 191,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 1033,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "جعة\nنسخة للمراجعة\nنسخة للمراجعة\nمجهورية السودان\nوزارة الرتبية والتعليم\n بخت الرضا-املركز القومي للمناهج والبحث الرتبوي\nاملرحلة املتو6سطة\nاللƗغ ƭة العرʟب ſيƭة\nصف الثاين{ال\n:إعداد جلنة بتكليف من املركز القومي للمناهج والبحث الرتبوي من األساتذة\n             خبيـــر تربــــوي-               أ.حامد إبراهيم حامد\n             خبيــــر تربـــوي-                  أ. عباس أمحد الريح\n    وزارة الرتبية والتعليم-          أ. حممد أمحد حممد موسى\nواليـــــة اخلرطــــــوم\nAfedne.comةيميلعتلا يندفأ ةصنم\n\n\nنسخة ل",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 4,
+        "number": "الساد6سة",
+        "title": "حكاية بال عنوان ....................",
+        "title_next": "قصيدة من وحي اجلزيرة............."
+      },
+      {
+        "page": 6,
+        "number": "األوىل",
+        "title": ". املناظرة الكربى",
+        "title_next": ":"
+      },
+      {
+        "page": 16,
+        "number": "الثانية",
+        "title": ". الغذاء والصحة :",
+        "title_next": ""
+      },
+      {
+        "page": 36,
+        "number": "الثالثة",
+        "title": ". : الفنون اجلميلة",
+        "title_next": ""
+      },
+      {
+        "page": 57,
+        "number": "الرابعة",
+        "title": ": صور من احلياة يف السودان",
+        "title_next": ""
+      },
+      {
+        "page": 78,
+        "number": "اخلامسة",
+        "title": ".ُةَّ : املَجـــــــر",
+        "title_next": ""
+      },
+      {
+        "page": 98,
+        "number": "السادسة",
+        "title": ". حكاية بال عنوان :",
+        "title_next": ""
+      },
+      {
+        "page": 115,
+        "number": "السابعة",
+        "title": ". : صور من مشاركة املرأة يف احلياة األدبية القراءة",
+        "title_next": ". األناشيد والنصوص : قصيدة العلم"
+      },
+      {
+        "page": 133,
+        "number": "الثامنة",
+        "title": ". : اجلهاز الصويت لإلنسان",
+        "title_next": "القراءة"
+      },
+      {
+        "page": 155,
+        "number": "التاسعة",
+        "title": ". : ماذا وراء األفق القراءة",
+        "title_next": ". األناشيد والنصوص : مليط"
+      },
+      {
+        "page": 172,
+        "number": "العارشة",
+        "title": ". : مناجاة القمر القراءة",
+        "title_next": ". األناشيد والنصوص : يف الغزل"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 18026,
+    "suspicious_chars": 13,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 11,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

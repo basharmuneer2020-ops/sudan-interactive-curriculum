@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G11-MAT.pdf",
+    "code": "SEC-G11-MAT",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 277,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 706,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n\u0001\u0002\u0003\u0004\u0005\u0006\u0002 \b\t\n\u0004\u000b\f\n \n\r\u000e\u000f\u0006\u0002 \u0010\u0011\u0012\u000f\u0013\u0006\u0002 \u0014\n\u0002\u0015\u0016\n \n\u0017\u0004\u0018\u0019\u0013\u0006\u0002 \u001a\u001b\u001c\u0006\u0002\u0016 \u001d\u001e\u000e\u001f \u0012\u0006 !\"\u0004#\u0006\u0002 $%\u0019&\u0002\n \n'\n()\n\u000e*\u0019\u0006\u0002\n–\n'\n\u0002\u0003\u0004\u0005\u0006\u0007\b \t\u0004\u0005\u0006\u0007\b \n\u000b\f\u0007\n \n†a‡Èg\n@Z\n\r\u000e\u000f\u0005\u0010\u0011\b \u0012\u0013 \u0002\u0003\u0014\u0015\u000f\u0007\b \u0016\u0017\u0014\u0007\b\u0003 \u0018\u0019\u0005\u0004\u0013\f\u0007 \t\u0013\u0003\u001a\u0007\b \u001b\u001c\u0015\u0013\u0007\b \u0012\u0013 \n\u001d\f\u001c\u000f\u0014 \u001e\u0004\u001f\u0007\n:\n\n\u0004\u0013%,\u0006\u0002\n :\n, . \u0010\u0011\u001e\u0002\u0019\u0018\u0002 /0\u0006\u0002 ,\u001c1\n\u001d\u001e\u000e\u001f \u0012\u0006 !\"\u0004#\u0006\u0002 $%\u0019&\u0002\n2\u0004\u0018\u0019\u0013\u0006\u0002 \u001a\u001b\u001c\u0006\u0002\u0016 \n3\u000e\u001345\u0002\n :\n6\u000e78\u0002 ,7 . !7\u00121\n2\u0004\u0018\u0019\u0013\u0006\u0002 \u001a\u001b\u001c\u0006\u0002\u0016 \u001d\u001e\u000e\u001f \u0012\u0006 !\"\u0004#\u0006\u0002 $%\u0019&\u0002\n3\u000e\u001345\u0002\n :\n, . 9: ;\u0005<\u0002 , .\n \n\b\u000f\"\u000e=\n>\n\b\u0011\"?4@\u0002 \u0001\u000e\"\n\u0003 \r\n3\u000e\u001345\u0002\n :\nA\u000e4 B\u0019C\u0006\u0002 ,\u001c1 ;D\u0019\u0006\u0002 ,\u001c1\n\u000e7*\u0019\u0006\u0002 () \b7\u000f\"\u000e7=\n \n\u0002\u0003\u0004\u0005\u0006\u0007\n :\n\n\u0004\u0013%,\u0006\u0002\n :\nE\u0002 ,\u001c1 ;\u0005F ;\u0005.\n \u0010G\u000e\u001e\n\r\u0004:\u0019H\u0002 \b\u000f\"\u000e= \b\u0011*\u000e\t\u0019\u0006\u0002 \r\u0004\u0012\u000f\u0006\u0002 \b\u0011",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 19,
+    "suspicious_chars": 127,
+    "garble_ratio": 6.684,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G11-ISL.pdf",
+    "code": "SEC-G11-ISL",
+    "stage": "SEC",
+    "grade": "G11",
+    "subject": "ISL",
+    "variant": null,
+    "page_count": 178,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 855,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\n\u0001\u0002\u0003\u0004\u0005\u0006 \b\t\u0004\u0005\u0006 \n\u0006 \u0001\u000b\f\n \n\r\f\u000b\u0004ر\t\b ا\u0006\u0005\u0004دان\n \n\u0006\u0005\u0004\u0003\u0002\n\u0004\u000b\n\u0003\t\b\u0007 \u0006\n\u0004\u000b\n\u000e\r\b\f\n \n\u0004\u000b\u0016\u0003\u0019\u0005 \u0004\u000b\u0018\u0006\u0016\u0017 \u000b\r\u0016\u0015\u0014\u0013\u0012 \u0006\u0004\u000b\t\u0011\u0010 \u0004\u000b\n\u0003\t\u0006\u000f\n \n\u001a\n\t\u001d\u001c \u0004\u000b\u0003\u001b\u0014\n\u001a\n\u0004\u000b \u001f \u0004\u000b\u001e\u0014\u0015\u0017 \u0004\u000b\u001e\u0014\u0015\u0006\u000f\n \n'&%\u0004%\n: \n\u000b*\u0015\u0007 \t\n\u0019\r\b\u001f \u0016) \u0004\u000b\u0016\u0003\u0019\u0005\n\u0004\u000b\u0018\u0006\u0016\u0017 \u000b\r\u0016\u0015\u0014\u0013\u0012 \u0006\u0004\u000b\t\u0011\u0010 \u0004\u000b\n\u0003\t\u0006\u000f \n\u0016) \u0004-,\u0014\n+\u0002 \n:\n\u0005\n\t\b\u0007\u0006 \u0005\u0004\u0003\u0002\n\b\f\u000b \n: \n\u0012\u0015\u0012\u0003 \u0014\u0013\u0012\u0011\u0007\u0010 \u000f\u0007\u0004\u000e\n \n\u0012\u0003\u0016\u000b \u0012\u000b\u0002\u001b \u001a\u0019\u0015\u0007\u0018 \u0005\u0017\u0016\u0012\u0007\u0010\n \n\u0005\n\t\b\u0007\u0006\n: \n\u0014\u0019\u0003 \u0005\u0004\u0019\u0007\t\u001e \u0014\u0019\u0003 \u0005\u0004\u0012\u0007\u001d\u0003 \u0019\u001c\u0016\u000b\n \n \u0019\u0016\u000b \b\u000b\u0019\f\u001f\n \n\u0004\u000b\u00161\u0014\u0003\u0019\u0006) 0\u0017 \u0004/&%\u0004% \u0006\u0004\u000b\n\u0015\u0018\b. \u0006\u0004\u000b\n!\u0006\b\u0003\n:\n\u0005!\t\b\u0007\u0006\n\u0005\u0004\u0003\u0002\b\f\u000b \n: \n\u0014\u0013\u0012\u0011\u0007\u0010 \u0012\u0016\u000b%$\" \u0014#\"\n \n\u001d\u0007\u0012)& \u001a( \u0003\u000b\u0012\u0007\u0010 \u0005\u0017\t'\u0012\u0016&\n \n\u0005\n\t\b\u0007\u0006\n: \n\u0012\u0015\u0012\u0003 \u0014\u0019\u0003 \u0005\u0004\u000b\u0015\u0016( \u0019\u0007\t\u0011\u0007\u0010\n \n\u0002#\u0016& \u0005\u0004\b\u000b\u0019\u0016&\n–\n\u001d\u0007\u0012)& \u001a( \u0003\u000b",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 0,
+    "suspicious_chars": 149,
+    "garble_ratio": 149.0,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

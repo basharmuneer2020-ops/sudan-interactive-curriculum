@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "file": "SEC-G12-MAT.pdf",
+    "code": "SEC-G12-MAT",
+    "stage": "SEC",
+    "grade": "G12",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 161,
+    "language": "en"
+  },
+  "quality": {
+    "avg_chars_per_page": 934,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "\n\nâïy‹Üa@æ¼‹Üa@\na â\u000bi\n\u0001\u0002\u0003\u0004\u0005א\u0018\u0017\u0016\u0015\u0007א\u0005\u0014\u0002\u0013\u0012\u0007\u0005\u0011\u0010\u000f\u000e\r\f\u0007\u000bא\u0005\n\t\b\u0007א\n\u0007\n\u001b\u001a\u0007א\u0005\u0017\u0019\u000e\n\u0007\nóï\u0004b\u0004ÿa@\nÜ\nsÜbrÜa@Ò—Ý\n \nــ ــﺇﻋ\nﺪﺍﺩ\n:\n\u0001.\n\u000e\r\f \n\u000b\n\t \b\u0007\u0006\u0005\u0004\n \n\b\u0007\n\u0012\u001a\u0019 \b\u0007\u0018\u0010\n\f \u0007\r\n\u0017\u0005\u0016\u0015 \u0010\b\u0007\u0011\u000b\u0014 \b\u0007\u0013\u0012\u0011\u0010\u000f\n \n\t.\n\u000e\u0011\t \b\u001c \n\u000b\n\u0010\t \u000e\u0011\t \b\u0007\n\u0006\u001b\t\n \n\b\u0007\n\u0012\u001a\u0019 \b\u0007\u0018\u0010\n\f \u0007\r\n\u0017\u0005\u0016\u0015 \u0010\b\u0007\u0011\u000b\u0014 \b\u0007\u0013\u0012\u0011\u0010\u000f\n \n\t.\n\u000e\u0011\t \b\u0007\u0012\u000b\n\u001e \b\u0007\u001d\u0005\t\u000f\n\u0001\u000b\n\t\n \n\b\u0007\n\u0012\u001a\u0019 \b\u0007\u0018\u0010\n\f \u0007\r\n\u0017\u0005\u0016\u0015 \u0010\b\u0007\u0011\u000b\u0014 \b\u0007\u0013\u0012\u0011\u0010\u000f\n \n\t.\n\"\u0011\u0012\b\u0016\u001b! \u000e \n\u0005\u001e \u000b\u001f\u001e\n \n\u001a\r\u001b# \b\u0007\u0013\u0012\u0011\u001b#\n/ \n\u0006\u0005\n'# \b\u0007&\u0012%\u0010!\n \nﺍﳌﺮﺍﺟﻌﻮﻥ\n:\n\t.\n\u0011(\u0012\n)\n \b\u0007,\u0005+* \"\u0011\u0012\b\u0016\u001b!\n\b\u0007\n\u0012\u001a\u0019 \b\u0007\u0018\u0010\n\f \u0007\r\n\u0017\u0005\u0016\u0015 \u0010\b\u0007\u0011\u000b\u0014 \b\u0007\u0013\u0012\u0011\u0010\u000f\n \n\u0001.\n\u000e\u0011\t \b\u0007\u001a\u0012\u001b! \u0001\u000b\n\u001b\t\u000f %-\n \n\u0013\u0010\u0006\u001b- \b\u0007\u0012\u001b\u0005+\u001b\u0005.\n/ \n\u0010/\u001b# \b\u0007&\u0012%\u0010!\n \n\u0001.\n\u000e\u0011\t \b",
+  "structure": {
+    "unit_ar": [],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 9,
+    "suspicious_chars": 83,
+    "garble_ratio": 9.222,
+    "rating": "very_garbled"
+  },
+  "summary": {
+    "units_detected": 0,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "file": "PRI-G1-MAT.pdf",
+    "code": "PRI-G1-MAT",
+    "stage": "PRI",
+    "grade": "G1",
+    "subject": "MAT",
+    "variant": null,
+    "page_count": 84,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 300,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "1 الصــف األول- الرياضيات\n جمهـــورية الùسودان\n وزارة الرتبية والتعليم\nاملركز القـومي للمنـاهـج والبحــث الرتبــوي\nبخـت الر9ضا\nاملرحلة االبتدائية\nالريـاضيــــات\nالصف الأول\n �أعدَّت الكتاب جلنـة من املعـلمني واخلـرباء بتكـليف ومتابعة\n.و�إ7رشاف من املركز القومي للمناهج والبحث الرتبوي\n\n\n2\n    الصــف األول- الرياضيات\n حقوق الإعداد والطبع والنرش حمفوظة لوزارة الرتبية والتعليم وال يجوز\n لأي فرد �أو جماعة �أو 7رشكة �أو مطبعة �أو دار نرش طباعة �أو بيع هذا الكتاب\n.�أو �أي جزء منه و�إال تعر9ضت لطائلة ا",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 5,
+        "number": "األولى",
+        "title": ")9-0( األعداد",
+        "title_next": "1"
+      },
+      {
+        "page": 28,
+        "number": "الثانية",
+        "title": "اجلمع ضمن",
+        "title_next": "9 العــــدد"
+      },
+      {
+        "page": 39,
+        "number": "الثالثة",
+        "title": "الطرح ضمن",
+        "title_next": "9 العدد"
+      },
+      {
+        "page": 44,
+        "number": "الرابعة",
+        "title": ")99-10( األعداد",
+        "title_next": "وعمليات اجلمع"
+      },
+      {
+        "page": 75,
+        "number": "اخلامسة",
+        "title": "القياس",
+        "title_next": ""
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [
+      {
+        "page": 6,
+        "number": "األول",
+        "title": "1 العدد واحد",
+        "title_next": "•"
+      },
+      {
+        "page": 8,
+        "number": "الثاني",
+        "title": "2 العدد اثنان",
+        "title_next": "•"
+      },
+      {
+        "page": 10,
+        "number": "الثالث",
+        "title": "3 العدد ثالثة",
+        "title_next": "•"
+      },
+      {
+        "page": 12,
+        "number": "الرابع",
+        "title": "4 العدد �أربعة",
+        "title_next": "•"
+      },
+      {
+        "page": 13,
+        "number": "اخلامس",
+        "title": "5 العدد خمùسة•",
+        "title_next": ":)عد (عدي) واقر�أ (اقرئي"
+      },
+      {
+        "page": 14,
+        "number": "السادس",
+        "title": "6 العدد Sستة",
+        "title_next": "•"
+      },
+      {
+        "page": 16,
+        "number": "السابع",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 18,
+        "number": "الثامن",
+        "title": "8 العدد ثمانية",
+        "title_next": "•"
+      },
+      {
+        "page": 19,
+        "number": "التاسع",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 20,
+        "number": "العاشر",
+        "title": "0 العدد Uصفر",
+        "title_next": "•"
+      },
+      {
+        "page": 23,
+        "number": "الثاني",
+        "title": "عشر",
+        "title_next": ""
+      },
+      {
+        "page": 24,
+        "number": "الثالث",
+        "title": "عشر",
+        "title_next": ""
+      },
+      {
+        "page": 25,
+        "number": "الرابع",
+        "title": "عشر",
+        "title_next": ""
+      },
+      {
+        "page": 26,
+        "number": "اخلامس",
+        "title": "عشر",
+        "title_next": ""
+      },
+      {
+        "page": 27,
+        "number": "السادس",
+        "title": "عشر",
+        "title_next": ""
+      },
+      {
+        "page": 29,
+        "number": "األول",
+        "title": "5 اجلمع 9ضمن العدد",
+        "title_next": "•"
+      },
+      {
+        "page": 30,
+        "number": "الثاني",
+        "title": "3 ، 2 مكونات العددين",
+        "title_next": "0"
+      },
+      {
+        "page": 31,
+        "number": "الثالث",
+        "title": "5 ، 4 مكونات العددين",
+        "title_next": "0 4"
+      },
+      {
+        "page": 32,
+        "number": "الرابع",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 33,
+        "number": "اخلامس",
+        "title": "التبديل واجلمع",
+        "title_next": "•"
+      },
+      {
+        "page": 34,
+        "number": "السادس",
+        "title": "7 ، 6 اجلمع 9ضمن العددين",
+        "title_next": "•"
+      },
+      {
+        "page": 35,
+        "number": "السابع",
+        "title": "9 ، 8 اجلمع 9ضمن العددين",
+        "title_next": "•"
+      },
+      {
+        "page": 36,
+        "number": "الثامن",
+        "title": "اجلمع الت{صاعدي",
+        "title_next": ". برتقاالت �أُ9ضِ يفت �إليها برتقالتان، كم برتقالة 8صارت بالصندوق6 يوجد يف 8صندوق"
+      },
+      {
+        "page": 37,
+        "number": "التاسع",
+        "title": "جمع ثالثة *أعداد",
+        "title_next": "•"
+      },
+      {
+        "page": 38,
+        "number": "األول",
+        "title": "5 الطرح 9ضمن العدد",
+        "title_next": "4"
+      },
+      {
+        "page": 41,
+        "number": "الثاني",
+        "title": "7 ، 6 الطرح 9ضمن العددين",
+        "title_next": "•"
+      },
+      {
+        "page": 42,
+        "number": "الثالث",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 45,
+        "number": "األول",
+        "title": "10 العدد عzشرة",
+        "title_next": "•"
+      },
+      {
+        "page": 46,
+        "number": "الثاني",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 48,
+        "number": "الثالث",
+        "title": "20 – 11 الأعداد من",
+        "title_next": "عûشرة"
+      },
+      {
+        "page": 49,
+        "number": "الرابع",
+        "title": "اخلانات",
+        "title_next": "10 = 10 + 0"
+      },
+      {
+        "page": 50,
+        "number": "اخلامس",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 61,
+        "number": "العاشر",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 64,
+        "number": "احلادي",
+        "title": "عشر",
+        "title_next": ""
+      },
+      {
+        "page": 76,
+        "number": "األول",
+        "title": "",
+        "title_next": ""
+      },
+      {
+        "page": 78,
+        "number": "الثاني",
+        "title": "الوزن",
+        "title_next": ""
+      }
+    ],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 2950,
+    "suspicious_chars": 73,
+    "garble_ratio": 0.026,
+    "rating": "mostly_clean"
+  },
+  "summary": {
+    "units_detected": 5,
+    "chapters_detected": 0,
+    "lessons_detected": 36,
+    "has_toc": false
+  }
+}

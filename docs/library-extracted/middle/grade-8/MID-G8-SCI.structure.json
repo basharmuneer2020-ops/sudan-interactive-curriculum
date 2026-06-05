@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "file": "MID-G8-SCI.pdf",
+    "code": "MID-G8-SCI",
+    "stage": "MID",
+    "grade": "G8",
+    "subject": "SCI",
+    "variant": null,
+    "page_count": 132,
+    "language": "ar"
+  },
+  "quality": {
+    "avg_chars_per_page": 989,
+    "quality": "text",
+    "needs_ocr": false
+  },
+  "first_pages_preview": "جمهورية الùسودان\nوزارة الرتبية والتعليم\nاملركز القومي للمناهج والبحث الرتبوي – بخت الر9ضا\n  املرحلة  املتوسطة\nالعلوم الطſب ȭي عſيƭة\n   «تساءل واستقص وتعلم»\nالصف الثاين\nإعداد جلنة بتكليف من املركز القومي للمناهج والبحث الرتبوي من :\nأ.حبيــــــب آدم حبيــــــــــب\nد .راشد عبد اهلل أمحد حسونه\nأ.مي الضــو حممد يوســـــف\nأ.أمحد محد النيــــل حسب اهلل\nاملركز القومي للمناهج والبحث الرتبوي\nAfedne.comةيميلعتلا يندفأ ةصنم\n\n\nاإلرشاف العام\n املديــــــــــــــــر العـــام- د. معاويــــــة الســر قيش\n نائب ا",
+  "structure": {
+    "unit_ar": [
+      {
+        "page": 6,
+        "number": "األوىل",
+        "title": "طبيعة العلم",
+        "title_next": "Afedne.comةصنم يندفأ ةيميلعتلا"
+      },
+      {
+        "page": 25,
+        "number": "الثانية",
+        "title": "الشغل واآلالت البسيطة",
+        "title_next": "Afedne.comةصنم يندفأ ةيميلعتلا"
+      },
+      {
+        "page": 43,
+        "number": "الثالثة",
+        "title": "تركيب املادة",
+        "title_next": "K L"
+      },
+      {
+        "page": 68,
+        "number": "الرابعة",
+        "title": "الحيوانات الفقارية",
+        "title_next": "Afedne.comةصنم يندفأ ةيميلعتلا"
+      },
+      {
+        "page": 93,
+        "number": "اخلامسة",
+        "title": "البناء الضوئي والنقل يف النبات",
+        "title_next": "ماءCO2"
+      },
+      {
+        "page": 115,
+        "number": "السادسة:",
+        "title": "البيئة",
+        "title_next": "Afedne.comةصنم يندفأ ةيميلعتلا"
+      }
+    ],
+    "chapter_ar": [],
+    "lesson_ar": [],
+    "unit_en": [],
+    "chapter_en": []
+  },
+  "toc": [],
+  "toc_from_text": {
+    "toc_page": null,
+    "lines": []
+  },
+  "extraction_quality": {
+    "arabic_chars": 13277,
+    "suspicious_chars": 12,
+    "garble_ratio": 0.001,
+    "rating": "clean"
+  },
+  "summary": {
+    "units_detected": 6,
+    "chapters_detected": 0,
+    "lessons_detected": 0,
+    "has_toc": false
+  }
+}
